@@ -1,4 +1,4 @@
-### Mount Royal \(Course\)
+### Mount Royal \(3 hour seminar\)
 
 ###### Culturally Responsive Facilitation
 
@@ -12,11 +12,11 @@ Discover sensitive and practical strategies for working with culturally diverse 
 
 [Graduate Certificate in Online Teaching](https://www.tru.ca/distance/programs/education/graduate-certificate-online-teaching.html)
 
-### OERu \(Course\)
+### OERu \(Courses\)
 
 [Learning in a Digital Age](https://oeru.org/oeru-partners/otago-polytechnic/learning-in-a-digital-age/)
 
-
+[Digital Skills for Collaborative OER Development](https://oeru.org/oeru-partners/otago-polytechnic/digital-skills-for-collaborative-oer-development/)
 
 
 
