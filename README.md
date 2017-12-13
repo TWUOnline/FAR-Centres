@@ -69,13 +69,7 @@ Courses – 15 Credits
 * LDRS 230 Leading Teams and Groups
 * LDRS 255 Leading and Coaching 
 
-##### Mount Royal Course
-
-###### Culturally Responsive Facilitation
-
-Discover sensitive and practical strategies for working with culturally diverse adult learners to create safe and respectful learning environments. Using a motivational framework, explore values, learning strategies and structures necessary to establish inclusion, develop attitude, enhance meaning and engender competence for all adult learners.
-
-Faculty
+### Faculty
 
 * Adrienne Castellon, EdD
 * Catherine Penfold –Navarro, PhD
