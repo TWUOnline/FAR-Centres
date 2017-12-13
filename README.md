@@ -69,7 +69,7 @@ Courses – 15 Credits
 * LDRS 230 Leading Teams and Groups
 * LDRS 255 Leading and Coaching 
 
-##### Mount Royal Course 
+##### Mount Royal Course
 
 ###### Culturally Responsive Facilitation
 
@@ -89,11 +89,10 @@ Faculty
 
 Graduates of this program deliver value to the educational market by having entry-level skills that assist them to seek work as facilitators and learning coaches in numerous hybrid educational settings, both locally and in other global locations.  Graduates would also be well prepared to work in sectors beyond education supporting work-place change and training needs.
 
-Adult Education
+* Adult Education
+* K-12 Hybrid Education
+* Far Center Facilitation
+* Workplace Facilitation
 
-K-12 Hybrid Education
 
-Far Center Facilitation
-
-Workplace Facilitation
 
