@@ -1,6 +1,6 @@
 ### Mount Royal \(3 hour seminar\)
 
-###### Culturally Responsive Facilitation
+###### [Culturally Responsive Facilitation](http://www.mtroyal.ca/ProgramsCourses/ContinuingEducation/teach/adulteducator/)
 
 Discover sensitive and practical strategies for working with culturally diverse adult learners to create safe and respectful learning environments. Using a motivational framework, explore values, learning strategies and structures necessary to establish inclusion, develop attitude, enhance meaning and engender competence for all adult learners.
 
