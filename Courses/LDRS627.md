@@ -9,7 +9,7 @@
 | Semester |  | Year |  |
 | :--- | :--- | :--- | :--- |
 | Instructor |  | Contact |  |
-| Office Hours | NA | TImes | Asynchronous |
+| Office Hours | NA | Times | Asynchronous |
 | Place | Online | Prerequisites | None |
 
 ## COURSE DESCRIPTION
