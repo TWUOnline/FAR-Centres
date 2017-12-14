@@ -7,4 +7,6 @@
 * [LDRS 667](Courses/LDRS667.md)
 * [MA Lead Grading Rubric](ma-lead-grading-rubric.md)
 * [Academic Integrity and Plagiarism](academic-integrity-and-plagiarism.md)
+* [Course Policies](course-policies.md)
+* [Students with a Disability](students-with-a-disability.md)
 

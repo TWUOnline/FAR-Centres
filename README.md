@@ -52,31 +52,37 @@ This program is well-suited for students who:
 
 ### Certificate Delivery Models
 
-The program is flexibly designed as either a traditionally offered, full time program for learners interested in preparing for a role in Far Centre Coaching and Facilitation or as a fully online program for learners who are actively working as Far Centre Coaches and Facilitators and are looking for a credential related to their roles.  
+The program is flexibly designed as either a traditionally offered, full time program for learners interested in preparing for a role in Far Centre Coaching and Facilitation or as a fully online program for learners who are actively working as Far Centre Coaches and Facilitators and are looking for a credential related to their roles.
 
-#### FOUNDATIONS (REQUIRED)
-##### LDRS 627 Theory and Practice of Adult Education 
-Introduction to principles and practices of adult education. Focusing on facilitation methods and instructional design, this course develops practical skills necessary to teach adults. Whether in a classroom, other formal learning context or workplace, leaders are all teachers. This course equips leaders to facilitate transformational learning experiences that are learner-centered, supportive, well-organized and based on critical inquiry in the context of practice. 
+#### FOUNDATIONS \(REQUIRED\)
+
+##### LDRS 627 Theory and Practice of Adult Education
+
+Introduction to principles and practices of adult education. Focusing on facilitation methods and instructional design, this course develops practical skills necessary to teach adults. Whether in a classroom, other formal learning context or workplace, leaders are all teachers. This course equips leaders to facilitate transformational learning experiences that are learner-centered, supportive, well-organized and based on critical inquiry in the context of practice.
 
 ##### LDRS 664 Creating and Leading Authentic Learning Communities
+
 Learners explore theoretical foundations of learning communities, explore strategies for creating authentic learning communities, and apply strategies within a learning/coaching context.
 
-##### LDRS 662 Culturally Responsive Communication and Facilitation 
-Learners develop self-awareness and cultural competency, developing practical strategies for creating culturally inclusive and respectful learning environments. 
+##### LDRS 662 Culturally Responsive Communication and Facilitation
 
-#### SPECIALIZATION (CHOOSE ONE)
+Learners develop self-awareness and cultural competency, developing practical strategies for creating culturally inclusive and respectful learning environments.
+
+#### SPECIALIZATION \(CHOOSE ONE\)
 
 ##### LDRS  663 Effective Coaching for Transformational Learning
-Learners explore theoretical foundations of transformational learning, theory, and coaching. Building on the theoretical foundations, learners review coaching and facilitation strategies, applying strategies within a learning/coaching context. 
+
+Learners explore theoretical foundations of transformational learning, theory, and coaching. Building on the theoretical foundations, learners review coaching and facilitation strategies, applying strategies within a learning/coaching context.
 
 ##### LDRS 665 Creating Online Learning Environments
-Learners review contemporary online learning models, including learning managements systems, domains of one’s own, and personal learning networks, Learners apply learning theory, assessment strategies, and cross-cultural competency within and online learning environment.  
 
-#### PRACTICUM (REQUIRED)
+Learners review contemporary online learning models, including learning managements systems, domains of one’s own, and personal learning networks, Learners apply learning theory, assessment strategies, and cross-cultural competency within and online learning environment.
 
-##### LDRS 667 Practicum (Personal and Professional Practice and Reflection)
+#### PRACTICUM \(REQUIRED\)
+
+##### LDRS 667 Practicum \(Personal and Professional Practice and Reflection\)
+
 Using reflective practice, learners apply learning theory, assessment theory, facilitation practices, and cross-cultural competency, in a professional learning facilitation setting.
-
 
 ##### Current courses at TWU – quick scan
 
@@ -89,12 +95,15 @@ Using reflective practice, learners apply learning theory, assessment theory, fa
 ### Faculty
 
 * Adrienne Castellon, EdD
-* Catherine Penfold –Navarro, PhD
+* Catherine Penfold Navarro, PhD
 * Imbenzi George, PhD
 * Colin Madland, M.Ed.
 * Mark Halvorson, Ph.D
 * Melinda Dewsbury, MA
 * Matthew Etherington, PhD  Learning Theory:  Inquiry, Project Based, Problem Based, Appreciative Inquiry etc.
+* Jim Parsons, PhD
+* Julie Lane, EdD
+* Christian Klaue, EdD
 
 ### Employment Sectors
 
@@ -102,6 +111,8 @@ Graduates of this program deliver value to the educational market by having entr
 
 * Adult Education
 * K-12 Hybrid Education
+* Postsecondary teaching \(supplementary credential\)
+* Online learning
 * Far Center Facilitation
 * Workplace Facilitation
 
