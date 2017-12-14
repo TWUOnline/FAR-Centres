@@ -73,6 +73,7 @@ Learners explore theoretical foundations of transformational learning, theory, a
 Learners review contemporary online learning models, including learning managements systems, domains of one’s own, and personal learning networks, Learners apply learning theory, assessment strategies, and cross-cultural competency within and online learning environment.  
 
 ###PRACTICUM (REQUIRED)
+
 ##### LDRS 667 Practicum (Personal and Professional Practice and Reflection)
 Using reflective practice, learners apply learning theory, assessment theory, facilitation practices, and cross-cultural competency, in a professional learning facilitation setting.
 
