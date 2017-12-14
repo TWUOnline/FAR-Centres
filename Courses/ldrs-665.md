@@ -5,8 +5,6 @@
 ### Course Syllabus
 
 #### LDRS 665 - Creating Online Learning Environments
- 
-
 
 | Semester |  | Year |  |
 | :--- | :--- | :--- | :--- |
@@ -16,17 +14,17 @@
 
 ## COURSE DESCRIPTION
 
-Learners review contemporary online learning models, including learning managements systems, domains of one’s own, and personal learning networks, Learners apply learning theory, assessment strategies, and cross-cultural competency within and online learning environment. 
+Learners review contemporary online learning models, including digital learning environments, domains of one’s own, and personal learning networks, Learners apply learning theory, assessment strategies, and cross-cultural competency within an online learning environment.
 
 ## COURSE LEARNING OUTCOMES
 
 On successfully completing this course, students should be able to:
-
-
 
 ## STUDENT LEARNING OUTCOMES
 
 [https://www.twu.ca/academics/student-learning-outcomes](https://www.twu.ca/academics/student-learning-outcomes)
 
 ## REQUIRED TEXT\(S\)
+
+
 
