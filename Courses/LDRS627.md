@@ -10,7 +10,7 @@
 | :--- | :--- | :--- | :--- |
 | Instructor |  | Contact |  |
 | Office Hours | NA | TImes | Asynchronous |
-| Place | Wherever you may roam | Prerequisites | None |
+| Place | Online | Prerequisites | None |
 
 ## COURSE DESCRIPTION
 
