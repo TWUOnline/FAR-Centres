@@ -24,10 +24,7 @@ This grade is assigned for students withdrawing during the first half of the cou
 #######WP /WF = Withdrew passing / Withdrew failing. 
 These grades are assigned to students withdrawing during the second half of a course. Grades are not computed into the cumulative GPA. A student may withdraw from a course only because of severe extenuating circumstances and if approval is granted by the Program Director and the Dean of Graduate Studies.   
 
-ACADEMIC INTEGRITY AND AVOIDING PLAGIARISM AT TWU
-As scholars pursuing higher education, academic integrity is a core value of the entire TWU community. Students are invited into this scholarly culture and required to abide by the principles of sound academic scholarship at TWU. This includes, but is not limited to, avoiding all forms of plagiarism and cheating in scholarly work. TWU has a strict policy on plagiarism (see academic calendar). Learning what constitutes plagiarism and avoiding it is the student's responsibility. Two resources describing plagiarism and how to avoid it have been prepared by TWU Librarian William Badke and are freely available for viewing at the URLs below:
-https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/ (Prezi presentation)
-http://bit.ly/1p00KX3   (Google Slide presentation offering more comprehensive information)
+
 
 STUDENTS WITH A DISABILITY
 Students with a disability who need assistance are encouraged to contact the Equity of Access Office upon admission to TWU to discuss their specific needs. All disabilities must be recently documented by an appropriately certified professional and include the educational impact of the disability along with recommended accommodations. Within the first two weeks of the semester, students must meet with their professors to agree on accommodations appropriate to each class. Students should follow the steps detailed by the Equity of Access Office on their website at: http://www.twu.ca/life/wellness/learningresources/disabilities-and-equity-of-access/default.html. 
