@@ -40,12 +40,11 @@ On successfully completing this course, students should be able to:
 
 ## COURSE ACTIVITIES/REQUIREMENTS
 
-Bi-weekly Reading Responses 50%
+### Bi-weekly Reading Responses 50%
 
 Based on the assigned reading, you are encouraged to carefully read and think about the course material.
 
-The questions for each two week period are clearly stated in the syllabus.  
-                      
+The questions for each two week period are clearly stated in the syllabus.
 
 #### LDRS Reading Response Rubric
 
@@ -61,10 +60,9 @@ The questions for each two week period are clearly stated in the syllabus.
 
 #### 5-7
 
-
 * Reader identifies information from the assigned reading that resonates or strikes them in a personal way but the reason for their choices is not completely or clearly explained.  
 * The responses show adequate depth of knowledge on the topic, a good synthesis but may lack in evaluation of the content read, and providing new insight to  
-the topic.  
+  the topic.  
 * Reader demonstrates a partial understanding of this chosen information in the text.  
 * Reader uses information from the text to interpret chosen concepts but does not make connections to other situations or contexts.  
 * Reader partially integrates interpretation of the text with text-based support.  
@@ -82,7 +80,7 @@ the topic.
 * Reader does not identify points of view and implications in the text or critically analyze their own response to these.  
 * More than 3 errors in grammar or composition. Page restrictions and format followed. Not submitted on time.  
 
-#### 1  
+#### 1
 
 * Reader demonstrates little or no understanding of the text; may be inaccurate.  
 * The responses are superficial and do not include critical analysis.  
@@ -90,59 +88,56 @@ the topic.
 * Reader’s response is insufficient to show that criteria are met.  
 * More than 5 errors in grammar or composition. Page restrictions and format followed. Not submitted on time.
 
-
 #### 0
-
 
 * Reader’s response is absent or does not address the task.  
 * Reader’s response is insufficient to show that criteria are met
 
-Forum Discussions 20%
+### ~~Forum Discussions~~ Blog Posts 20%
 
-Online group discussions in this class are meant to be conversational though APA references for anything ‘borrowed’ is still expected.
+* Online group discussions in this class are meant to be conversational though APA references for anything ‘borrowed’ is still expected.
+* PARTICIPATION: Each week you are required to post a reflection \(of about 3 to 4 paragraphs with references following\) to a given prompt and then, make several substantive written reply posts to others’ reflections and/or replies.
+* ~~THREADING: Be careful to thread your messages properly. Please begin your post with a colleague’s name where applicable. Post below the subject to which you are responding and have the subject line accurately reflect the post. If there is not a thread up at the time you would like to post, initiate a new thread and then post below it.~~
+* CONFIDENTIALITY: Part of the value and richness of course dialogue is that learners share from their life/professional experiences to illustrate lessons they have learned. Please share discreetly and use pseudonyms when possible and necessary. Please do not share any confidential or proprietary information about your employer.
+* SUBSTANTIVE PARTICIPATION: We have a great opportunity to build upon one another’s knowledge, insights, and experience. Our goal is to be collaborative in the blogs. At times we will respectfully challenge each other. We anticipate that this will be a rich time of dialogue. To create a safe environment for this to take place, we must build a supportive subculture that encourages one another. Disagreeing and challenging can be stimulating if done in an edifying manner.
 
-PARTICIPATION: Each week you are required to post a reflection \(of about 3 to 4 paragraphs with references following\) to a given prompt and then, make several substantive written reply posts to others’ reflections and/or replies.
+##### Substantive participation/posting may include:
 
-THREADING: Be careful to thread your messages properly. Please begin your post with a colleague’s name where applicable. Post below the subject to which you are responding and have the subject line accurately reflect the post. If there is not a thread up at the time you would like to post, initiate a new thread and then post below it.
+* Providing a new thought, idea, or perspective;
+* Citing an experience or example of what we are learning;
+* Adding a new twist on a perspective;
+* Critically thinking about an idea/concept;
+* Questioning or challenging a principle/perspective.
 
-CONFIDENTIALITY: Part of the value and richness of course dialogue is that learners share from their life/professional experiences to illustrate lessons they have learned. Please share discreetly and use pseudonyms when possible and necessary. Please do not share any confidential or proprietary information about your employer.
+##### What Substantive Participation is NOT:
 
-SUBSTANTIVE PARTICIPATION: We have a great opportunity to build upon one another’s knowledge, insights, and experience. Our goal is to be collaborative in the Forum. At times we will respectfully challenge each other. We anticipate that this will be a rich time of dialogue. To create a safe environment for this to take place, we must build a supportive subculture that encourages one another. Disagreeing and challenging can be stimulating if done in an edifying manner.
+* Very basic comments such as “I agree” or “I disagree;”
+* Restating what has been said \(unless there is a direct purpose in doing so\);
+* Disrespectfully disagreeing;
+* Pat answers that are not thought-provoking or do not move the dialogue forward;
+* ~~Greetings/conversation better suited for the Virtual Collegium.~~
 
-Substantive participation/posting may include:  
-Providing a new thought, idea, or perspective;  
-Citing an experience or example of what we are learning;  
-Adding a new twist on a perspective;  
-Critically thinking about an idea/concept;  
-Questioning or challenging a principle/perspective.
+##### Below are examples of how to stimulate your own and others’ thinking:
 
-What Substantive Participation is NOT:  
-Very basic comments such as “I agree” or “I disagree;”  
-Restating what has been said \(unless there is a direct purpose in doing so\);  
-Disrespectfully disagreeing;  
-Pat answers that are not thought-provoking or do not move the dialogue forward;  
-Greetings/conversation better suited for the Virtual Collegium.
+* What would happen if...
+* Other times it may be helpful to...
+* It is my understanding...what is your experience with this?
+* You might approach this from...
+* Is it possible that...
+* Would you consider...
+* Maybe...
+* Possibly...
+* Sometimes...
+* I'm wondering if...
+* Do you think...
 
-Below are examples of how to stimulate your own and others’ thinking:  
-What would happen if...  
-Other times it may be helpful to...  
-It is my understanding...what is your experience with this?  
-You might approach this from...  
-Is it possible that...  
-Would you consider...  
-Maybe...  
-Possibly...  
-Sometimes...  
-I'm wondering if...  
-Do you think...
+#### Evaluation Rubric:
 
-Evaluation Rubric:
-
-The original posting is of high quality, showing depth of knowledge on the topic.  The post ends with an open-ended question to advance the discussion.  
-Replies occur under two or more different threads, other than that belonging to the student. Replies are posted on more than one day during the posting period.  
-Response posts to peers' original postings are respectful, show clear synthesis and evaluation of the content read, and provide depth, breath, or new insight to the topic. Reply posts stimulate thinking and advance the conversation.  
-As appropriate, references are included to support what is said in both original and reply posts.  
-All posts are clearly written and contain no APA/spelling/grammatical errors.  That said, a conversational tone, rather than an approach you would take in an academic paper, is perfectly fine.
+* The original posting is of high quality, showing depth of knowledge on the topic.  The post ends with an open-ended question to advance the discussion.  
+* Replies occur under two or more different threads, other than that belonging to the student. Replies are posted on more than one day during the posting period.  
+* Response posts to peers' original postings are respectful, show clear synthesis and evaluation of the content read, and provide depth, breath, or new insight to the topic. Reply posts stimulate thinking and advance the conversation.  
+* As appropriate, references are included to support what is said in both original and reply posts.  
+* All posts are clearly written and contain no ~~APA~~/spelling/grammatical errors.  That said, a conversational tone, rather than an approach you would take in an academic paper, is perfectly fine.
 
 4% biweekly –  
 4 = outstanding depth of response; always includes a question to advance the discussion, appropriately referenced following APA, no errors in grammar or composition.  
