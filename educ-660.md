@@ -1,1 +1,0 @@
-# Learning and Group Dynamics Theory

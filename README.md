@@ -64,7 +64,7 @@ Learners explore theoretical foundations of learning communities, explore strate
 ##### LDRS 662 Culturally Responsive Communication and Facilitation 
 Learners develop self-awareness and cultural competency, developing practical strategies for creating culturally inclusive and respectful learning environments. 
 
-### SPECIALIZATION (CHOOSE ONE)
+#### SPECIALIZATION (CHOOSE ONE)
 
 ##### LDRS  663 Effective Coaching for Transformational Learning
 Learners explore theoretical foundations of transformational learning, theory, and coaching. Building on the theoretical foundations, learners review coaching and facilitation strategies, applying strategies within a learning/coaching context. 
@@ -72,7 +72,7 @@ Learners explore theoretical foundations of transformational learning, theory, a
 ##### LDRS 665 Creating Online Learning Environments
 Learners review contemporary online learning models, including learning managements systems, domains of one’s own, and personal learning networks, Learners apply learning theory, assessment strategies, and cross-cultural competency within and online learning environment.  
 
-###PRACTICUM (REQUIRED)
+#### PRACTICUM (REQUIRED)
 
 ##### LDRS 667 Practicum (Personal and Professional Practice and Reflection)
 Using reflective practice, learners apply learning theory, assessment theory, facilitation practices, and cross-cultural competency, in a professional learning facilitation setting.
