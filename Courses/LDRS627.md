@@ -48,6 +48,7 @@ The questions for each two week period are clearly stated in the syllabus.
 
 #### LDRS Reading Response Rubric
 
+
 #### 8-10
 
 * Reader identifies information from the assigned reading that resonates or strikes them in a personal way and clearly explains the reason for their choices.
