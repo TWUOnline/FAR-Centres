@@ -6,21 +6,11 @@
 
 #### LDRS 627 Theory and Practice of Adult Education \(3sem. hr.\)
 
-Semester \(Spring/Fall/Summer\)  
-
-Year
-
-Instructor: 
-
-Contact Info: 
-
-Office Hours: 
-
-Time: asynchronous
-
-Place:  online
-
-Prerequisites: none
+| Semester |  | Year |  |
+| :--- | :--- | :--- | :--- |
+| Instructor |  | Contact |  |
+| Office Hours | NA | TImes | Asynchronous |
+| Place | Wherever you may roam | Prerequisites | None |
 
 ## COURSE DESCRIPTION
 
@@ -28,85 +18,84 @@ Introduction to principles and practices of adult education. Focusing on facilit
 
 ## COURSE LEARNING OUTCOMES
 
-On successfully completing this course, students should be able to:                                                                                               
+On successfully completing this course, students should be able to:
 
 1. Develop service-oriented leadership insight, skills, and values that promote a framework for successful adult learning and achievement.
 2. Articulate a justified, worldview-based vision for adult learning.
 3. Categorize and appraise various approaches to adult learning.
-4.  Assess the strengths and weaknesses of various approaches to adult learning.
+4. Assess the strengths and weaknesses of various approaches to adult learning.
 5. Categorize and appraise various approaches to adult learning assessment.
 6. Based on your synthesis of perspectives, themes and ideas design one lesson or session that will be useful to you in your work.
 
-STUDENT LEARNING OUTCOMES  
+## STUDENT LEARNING OUTCOMES
+
 [https://www.twu.ca/academics/student-learning-outcomes](https://www.twu.ca/academics/student-learning-outcomes)
 
-REQUIRED TEXT\(S\)
+## REQUIRED TEXT\(S\)
 
-Brookfield, Stephen and Preskill, S. \(2016\). The Discussion Book: 50 Great Ways to Get People Talking.  San Francisco: Jossey Bass.    \*This is an excellent resource book.  There is no assigned reading.
-
-Brookfield, S. \(2013\). Powerful techniques for teaching adults. San Francisco, CA: Jossey-Bass. 
-
-Silberman, M. L., & Biech, E. \(2015\). Active training: A handbook of techniques, designs, case examples, and tips \(4th ed.\). Wiley.
-
-Various articles will be posted on the course hub.
+* Brookfield, Stephen and Preskill, S. \(2016\). The Discussion Book: 50 Great Ways to Get People Talking.  San Francisco: Jossey Bass.    \*This is an excellent resource book.  There is no assigned reading.
+* Brookfield, S. \(2013\). Powerful techniques for teaching adults. San Francisco, CA: Jossey-Bass.
+* Silberman, M. L., & Biech, E. \(2015\). Active training: A handbook of techniques, designs, case examples, and tips \(4th ed.\). Wiley.
+* Various articles will be posted on the course hub.
 
 ## COURSE ACTIVITIES/REQUIREMENTS
 
-Bi-weekly Reading Responses 50%  
+Bi-weekly Reading Responses 50%
+
 Based on the assigned reading, you are encouraged to carefully read and think about the course material.
 
 The questions for each two week period are clearly stated in the syllabus.  
-                      LDRS Reading Response Rubric
+                      
 
-8-10  
-Reader identifies information from the assigned reading that resonates or strikes them in a personal way and clearly explains the reason for their choices.  
-The responses show superior depth of knowledge on the topic, clear synthesis and evaluation of the content read, and provide depth, breath, or new insight   
-to the topic.   
-Reader demonstrates an accurate understanding of this chosen information in the text.   
-Reader uses information from the text to interpret chosen concepts or make connections to other situations or contexts logically through analysis, evaluation, inference, or comparison/contrast.  
-Reader defines uncommon or challenging words and shows evidence of doing the intellectual work necessary to understand challenging text.   
-Reader identifies points of view and implications in the text and critically analyses their own response to these.  
-No errors in grammar or composition. Page restrictions and format followed. Submitted on time.
+#### LDRS Reading Response Rubric
 
-```
-               5-7
-```
+#### 8-10
 
-Reader identifies information from the assigned reading that resonates or strikes them in a personal way but the reason for their choices is not completely or clearly explained.   
-The responses show adequate depth of knowledge on the topic, a good synthesis but may lack in evaluation of the content read, and providing new insight to   
-the topic.   
-Reader demonstrates a partial understanding of this chosen information in the text.   
-Reader uses information from the text to interpret chosen concepts but does not make connections to other situations or contexts.   
-Reader partially integrates interpretation of the text with text-based support.  
-Reader does not define uncommon or challenging words necessary to understanding the text.  
-Reader does not identify points of view and implications in the text or critically analyze their own response to these.  
-Fewer than 3 errors in grammar or composition. Page restrictions and format not followed.  Not submitted on time.
+* Reader identifies information from the assigned reading that resonates or strikes them in a personal way and clearly explains the reason for their choices.
+* The responses show superior depth of knowledge on the topic, clear synthesis and evaluation of the content read, and provide depth, breath, or new insight to the topic.
+* Reader demonstrates an accurate understanding of this chosen information in the text.
+* Reader uses information from the text to interpret chosen concepts or make connections to other situations or contexts logically through analysis, evaluation, inference, or comparison/contrast.
+* Reader defines uncommon or challenging words and shows evidence of doing the intellectual work necessary to understand challenging text.
+* Reader identifies points of view and implications in the text and critically analyses their own response to these.
+* No errors in grammar or composition. Page restrictions and format followed. Submitted on time.
 
-```
-        2-4
-```
+#### 5-7
 
-Reader demonstrates insufficient understanding of the chosen concepts.   
-The responses show inadequate depth of knowledge on the topic, a synthesis that misses key concepts, and is not a critical analysis.  
-Reader uses information from the text to make simplistic interpretations of the text without using significant concepts or by making only limited   
-connections to other situations or contexts.  
-Reader does not integrate interpretation of the text with text-based support.  
-Reader does not define uncommon or challenging words necessary to understanding the text.  
-Reader does not identify points of view and implications in the text or critically analyze their own response to these.  
-More than 3 errors in grammar or composition. Page restrictions and format followed. Not submitted on time.  
-           1  
-Reader demonstrates little or no understanding of the text; may be inaccurate.  
-The responses are superficial and do not include critical analysis.  
-Reader makes little or no interpretation of the text.  
-Reader’s response is insufficient to show that criteria are met.  
-More than 5 errors in grammar or composition. Page restrictions and format followed. Not submitted on time.
 
-```
-       0
-```
+* Reader identifies information from the assigned reading that resonates or strikes them in a personal way but the reason for their choices is not completely or clearly explained.  
+* The responses show adequate depth of knowledge on the topic, a good synthesis but may lack in evaluation of the content read, and providing new insight to  
+the topic.  
+* Reader demonstrates a partial understanding of this chosen information in the text.  
+* Reader uses information from the text to interpret chosen concepts but does not make connections to other situations or contexts.  
+* Reader partially integrates interpretation of the text with text-based support.  
+* Reader does not define uncommon or challenging words necessary to understanding the text.  
+* Reader does not identify points of view and implications in the text or critically analyze their own response to these.  
+* Fewer than 3 errors in grammar or composition. Page restrictions and format not followed.  Not submitted.
 
-Reader’s response is absent or does not address the task.  
-Reader’s response is insufficient to show that criteria are met
+#### 2-4
+
+* Reader demonstrates insufficient understanding of the chosen concepts.  
+* The responses show inadequate depth of knowledge on the topic, a synthesis that misses key concepts, and is not a critical analysis.  
+* Reader uses information from the text to make simplistic interpretations of the text without using significant concepts or by making only limited connections to other situations or contexts.  
+* Reader does not integrate interpretation of the text with text-based support.  
+* Reader does not define uncommon or challenging words necessary to understanding the text.  
+* Reader does not identify points of view and implications in the text or critically analyze their own response to these.  
+* More than 3 errors in grammar or composition. Page restrictions and format followed. Not submitted on time.  
+
+#### 1  
+
+* Reader demonstrates little or no understanding of the text; may be inaccurate.  
+* The responses are superficial and do not include critical analysis.  
+* Reader makes little or no interpretation of the text.  
+* Reader’s response is insufficient to show that criteria are met.  
+* More than 5 errors in grammar or composition. Page restrictions and format followed. Not submitted on time.
+
+
+#### 0
+
+
+* Reader’s response is absent or does not address the task.  
+* Reader’s response is insufficient to show that criteria are met
 
 Forum Discussions 20%
 
@@ -120,31 +109,31 @@ CONFIDENTIALITY: Part of the value and richness of course dialogue is that learn
 
 SUBSTANTIVE PARTICIPATION: We have a great opportunity to build upon one another’s knowledge, insights, and experience. Our goal is to be collaborative in the Forum. At times we will respectfully challenge each other. We anticipate that this will be a rich time of dialogue. To create a safe environment for this to take place, we must build a supportive subculture that encourages one another. Disagreeing and challenging can be stimulating if done in an edifying manner.
 
-Substantive participation/posting may include:   
-Providing a new thought, idea, or perspective;   
-Citing an experience or example of what we are learning;   
-Adding a new twist on a perspective;   
-Critically thinking about an idea/concept;   
+Substantive participation/posting may include:  
+Providing a new thought, idea, or perspective;  
+Citing an experience or example of what we are learning;  
+Adding a new twist on a perspective;  
+Critically thinking about an idea/concept;  
 Questioning or challenging a principle/perspective.
 
-What Substantive Participation is NOT:   
-Very basic comments such as “I agree” or “I disagree;”   
-Restating what has been said \(unless there is a direct purpose in doing so\);   
-Disrespectfully disagreeing;   
-Pat answers that are not thought-provoking or do not move the dialogue forward;   
+What Substantive Participation is NOT:  
+Very basic comments such as “I agree” or “I disagree;”  
+Restating what has been said \(unless there is a direct purpose in doing so\);  
+Disrespectfully disagreeing;  
+Pat answers that are not thought-provoking or do not move the dialogue forward;  
 Greetings/conversation better suited for the Virtual Collegium.
 
-Below are examples of how to stimulate your own and others’ thinking:   
-What would happen if...   
-Other times it may be helpful to...   
-It is my understanding...what is your experience with this?   
-You might approach this from...   
-Is it possible that...   
-Would you consider...   
-Maybe...   
-Possibly...   
-Sometimes...   
-I'm wondering if...   
+Below are examples of how to stimulate your own and others’ thinking:  
+What would happen if...  
+Other times it may be helpful to...  
+It is my understanding...what is your experience with this?  
+You might approach this from...  
+Is it possible that...  
+Would you consider...  
+Maybe...  
+Possibly...  
+Sometimes...  
+I'm wondering if...  
 Do you think...
 
 Evaluation Rubric:
@@ -155,10 +144,10 @@ Response posts to peers' original postings are respectful, show clear synthesis 
 As appropriate, references are included to support what is said in both original and reply posts.  
 All posts are clearly written and contain no APA/spelling/grammatical errors.  That said, a conversational tone, rather than an approach you would take in an academic paper, is perfectly fine.
 
-4% biweekly –   
-4 = outstanding depth of response; always includes a question to advance the discussion, appropriately referenced following APA, no errors in grammar or composition.   
-3-3.5= meeting expectations but some criteria are missing or lacking –may not always include a question to advance discussion, may not reference appropriately or follow APA, may have small grammar/compositional errors   
-1-2.5= not meeting expectations at the graduate level but made an effort   
+4% biweekly –  
+4 = outstanding depth of response; always includes a question to advance the discussion, appropriately referenced following APA, no errors in grammar or composition.  
+3-3.5= meeting expectations but some criteria are missing or lacking –may not always include a question to advance discussion, may not reference appropriately or follow APA, may have small grammar/compositional errors  
+1-2.5= not meeting expectations at the graduate level but made an effort  
 0 = no effort to engage in the forums
 
 Lesson/Adult Learning Design 30%
@@ -204,13 +193,13 @@ Remember the three important phrases:
 >
 > “I wonder….”
 
-LDRS 627 Adult Learning Design Assignment   
+LDRS 627 Adult Learning Design Assignment  
 Grading Rubric
 
 Criteria  
 Exceeding Expectations  
 3  
-Meeting Expectations   
+Meeting Expectations  
 2  
 Not Yet Meeting Expectations  
 1  
@@ -263,7 +252,7 @@ Subheadings according to the assignment guidelines are not used; Session is more
 
 Resources  
 Clearly described, listed, appropriately referenced. Follows APA formatting protocols for writing and referencing.  
-Resources are listed and referenced though may require more description.  Follows APA formatting protocols for writing and referencing.   
+Resources are listed and referenced though may require more description.  Follows APA formatting protocols for writing and referencing.  
 Resources are not listed and/or not referenced.  APA is not followed.
 
 Assessment  
@@ -271,13 +260,13 @@ Clearly described system for collecting information about students’ abilities,
 Evidence of a system for collecting information about students’ abilities, characteristics, skills, understanding and knowledge – may require more detail or description.  Less emphasis on summative testing and more emphasis on formative assessment; gathering data while teaching and learning are occurring;  
 Assessment is not evident; there is more summative than formative assessment and/or data is gathered only at the end of the session and not during the session.
 
-Peer Review   
+Peer Review  
 Evidence in your comments of comparing draft to rubric criteria – in depth comments and suggestions provided  
 Hard on content, soft on people – evidence of challenging peer to think beyond or differently about some aspect of their submission. Kind, specific, helpful comments refer to specific sections and avoid generalizations. No errors in grammar or composition.  
 Evidence in your comments of comparing draft to rubric criteria. Hard on content, soft on people. Kind, specific, helpful comments refer to specific sections and avoid generalizations. Two or fewer errors in grammar or composition.
 
 Not clear whether your review included a close comparison to the rubric.  
-Not hard on content.   
+Not hard on content.  
 Comments are either not specific, unkind or too general. More than three errors in grammar or composition
 
 DETERMINATION OF FINAL GRADE
@@ -287,7 +276,7 @@ Discussion Forums 20%
 Adult Learning Design 30%
 
 COURSE OUTLINE  
-Week 1 —   
+Week 1 —  
 Adult Learning Theory and Perspectives
 
 Readings  
@@ -304,7 +293,7 @@ Cahalan, K. \(2016\). Integrative Learning for Practical Wisdom in Reflective Pr
 
 Note that only certain pages have been assigned for each of these articles.
 
-Part 1: pages 1-12; chapters 18, 19   
+Part 1: pages 1-12; chapters 18, 19  
 Assigned Work  
 Assignment Name & Notes  
 Due Date  
@@ -314,11 +303,11 @@ Read the articles and Active Training text
 
 Do the T.P.I.at [http://www.teachingperspectives.com/tpi/](http://www.teachingperspectives.com/tpi/)
 
-View the four T.P.I. Videos   
-[http://youtu.be/9GN7nN6YnXg](http://youtu.be/9GN7nN6YnXg);   [http://youtu.be/1oz1oPE34OM](http://youtu.be/1oz1oPE34OM);   
+View the four T.P.I. Videos  
+[http://youtu.be/9GN7nN6YnXg](http://youtu.be/9GN7nN6YnXg);   [http://youtu.be/1oz1oPE34OM](http://youtu.be/1oz1oPE34OM);  
 [http://youtu.be/EHy76iHn3Ls](http://youtu.be/EHy76iHn3Ls);  [http://youtu.be/4IB7OhP6k28](http://youtu.be/4IB7OhP6k28)
 
-Post your response to the Discussion Question and respond to others   
+Post your response to the Discussion Question and respond to others  
 Jan. 2-3
 
 Jan. 4-6  
@@ -364,7 +353,7 @@ Powerpoint about change
 
 Chap. 8
 
-Chaps. 4,5,6   
+Chaps. 4,5,6  
 Assigned Work  
 Assignment Name & Notes  
 Due Date  
@@ -385,7 +374,7 @@ Jan. 17-19
 
 Jan. 20
 
-Week 4   
+Week 4  
 Goals and Objectives
 
 Readings  
@@ -412,7 +401,7 @@ Submit Reading Response to Dropbox
 Jan. 24-26
 
 Jan. 27  
-Week 5   
+Week 5  
 Teaching for Critical Thinking
 
 Readings  
@@ -447,7 +436,7 @@ Jan. 29-30
 
 Jan 31-Feb. 3
 
-Week 6   
+Week 6  
 Assessment
 
 Readings  
@@ -455,7 +444,7 @@ Text or Article
 Chapters/Pages  
 Silberman, M. L., & Biech, E. \(2015\). Active training: A handbook of techniques, designs, case examples, and tips \(4th ed.\). Hoboken, New Jersey: John Wiley & Sons
 
-Assessment Strategies and video   
+Assessment Strategies and video  
 Chaps. 15 and 17
 
 Assigned Work  
@@ -473,9 +462,9 @@ Feb. 5-6
 Feb. 7-9
 
 Feb. 10  
-Week 7 Reading and Assignment week   
+Week 7 Reading and Assignment week  
 Use this week to catch up on any assignments and/or reading and get a good start on your final learning design assignment.  
-Week 8   
+Week 8  
 Democratizing Lifelong Learning
 
 Readings  
@@ -532,7 +521,7 @@ Read Brookfield chapter
 
 Post draft Adult Lesson Design assignment for Peer Review in designated forum AND Post your response to the Discussion Question
 
-Respond to your assigned colleague’s draft adult lesson design AND   
+Respond to your assigned colleague’s draft adult lesson design AND  
 interact in the Forum  
 Feb. 26-27
 
@@ -584,7 +573,7 @@ Letter Grade
 Grade  
 Point  
 Value  
-Meaning in Graduate Work Note: For assignments that meet criteria in several categories, instructors will assign an average grade.   
+Meaning in Graduate Work Note: For assignments that meet criteria in several categories, instructors will assign an average grade.  
 A+  
 95-100  
 4.3  
