@@ -4,7 +4,7 @@
 
 ### Course Syllabus
 
-#### LDRS 627 Theory and Practice of Adult Education \(3sem. hr.\)
+#### LDRS 627 Theory and Practice of Adult Education \(3 sem. hr.\)
 
 | Semester |  | Year |  |
 | :--- | :--- | :--- | :--- |
