@@ -1,5 +1,7 @@
-GRADING SYSTEM  
-MA Lead/MAEL Grading Rubric  
+### GRADING SYSTEM
+
+##### MA Lead/MAEL Grading Rubric
+
 In an effort to ensure consistency in the MAL assignment of grades and to inform graduate students of assessments of the quality of work at the graduate level, the following interpretation of grades in assignments and courses offers a guideline.
 
 | Letter Grade | % | Grade Point Value | Meaning in Graduate Work Note: For assignments that meet criteria in several categories, instructors will assign an average grade. |
@@ -27,6 +29,4 @@ This grade is assigned for students withdrawing during the first half of the cou
 ###### \#WP /WF = Withdrew passing / Withdrew failing.
 
 These grades are assigned to students withdrawing during the second half of a course. Grades are not computed into the cumulative GPA. A student may withdraw from a course only because of severe extenuating circumstances and if approval is granted by the Program Director and the Dean of Graduate Studies.
-
-
 
