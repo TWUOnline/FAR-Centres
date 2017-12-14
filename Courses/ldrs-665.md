@@ -14,6 +14,13 @@
 
 ## COURSE DESCRIPTION
 
+Learners will develop the the digital and learning literacies to maximise their ability to create and sustain online communities of inquiry in contemporary digital learning environments for higher education.
+
+Learners will develop the academic skills to discern the credibility, accuracy, and integrity of open access resources available on the Internet and corresponding digital tools to research, analyse and present information for academic purposes.  You will also develop competence in a range of digital tools including: social media; communication and collaboration tools;  and publishing tools to support learning in multi-cultural contexts. This will include knowledge of copyright, open licensing, media literacy and digital citizenship.  
+
+
+
+
 Learners review contemporary online learning models, including digital learning environments, domains of one’s own, and personal learning networks, Learners apply learning theory, assessment strategies, and cross-cultural competency within an online learning environment.
 
 ## COURSE LEARNING OUTCOMES
