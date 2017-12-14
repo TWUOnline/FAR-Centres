@@ -24,11 +24,21 @@ Learners review contemporary online learning models, including digital learning 
 
 On successfully completing this course, students should be able to:
 
+* Apply digital communication and collaboration tools effectively in a higher education context. 
+* Apply advanced search strategies to identify and select relevant open access resources to support learning
+* Demonstrate the effective application of digital skills in support of learning and information literacies to research, produce, analyse and present information online in a higher education context.
+* Use multimodal communication to express outputs of learning effectively in a digital online environment.
+* Evaluate the authority of online information from a variety of sources including open access materials, mass-media, and social media for the purposes of learning in the higher education context. 
+* Develop a positive digital online identity in support of learning commensurate with good practice for privacy, security and interpersonal communications.
+* Demonstrate how to participate legally and ethically in an online digital learning community 
+
 ## STUDENT LEARNING OUTCOMES
 
 [https://www.twu.ca/academics/student-learning-outcomes](https://www.twu.ca/academics/student-learning-outcomes)
 
 ## REQUIRED TEXT\(S\)
 
+Bates, T. \(2015\). Teaching in a digital age. \[electronic resource\]. Victoria : BCcampus, BC Open Textbook Project, 2015. Retrieved from [https://open.bccampus.ca/find-open-textbooks/?uuid=da50f5f1-bbc6-481e-a359-e73007c66932](https://open.bccampus.ca/find-open-textbooks/?uuid=da50f5f1-bbc6-481e-a359-e73007c66932)
 
+Vaughan, N., Cleveland-Innes, M., & Garrison, D. \(2013\). Teaching in blended learning environments: Creating and sustaining communities of inquiry. Athabasca: AU Press. Retrieved from [http://www.aupress.ca/index.php/books/120229](http://www.aupress.ca/index.php/books/120229)
 
