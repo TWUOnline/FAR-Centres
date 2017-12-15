@@ -12,15 +12,15 @@
 | Office Hours | NA | Times | Asynchronous |
 | Place | Online | Prerequisites | None |
 
-## Course Description
+## Course Description*
 
 Learners will develop the digital and learning literacies to maximise their ability to create and sustain online communities of inquiry in contemporary digital learning environments for multi-cultural higher education.
 
-Learners will develop the academic skills to discern the credibility, accuracy, and integrity of open access resources available on the Internet and corresponding digital tools to research, analyse and present information for academic purposes.  You will develop competence in a range of digital tools including: social media; communication and collaboration tools;  and publishing tools to support learning in multi-cultural contexts. This will include knowledge of copyright, open licensing, media literacy and digital citizenship. By the end of the course, you will have the beginnings of a personal cyberinfrastructure to support your work as an online learning professional. [Adapted from and used according to the original Creative Commons Attribution License](https://oeru.org/oeru-partners/otago-polytechnic/learning-in-a-digital-age).
+Learners will develop the academic skills to discern the credibility, accuracy, and integrity of open access resources available on the Internet and corresponding digital tools to research, analyse and present information for academic purposes.  You will develop competence in a range of digital tools including: social media; communication and collaboration tools;  and publishing tools to support learning in multi-cultural contexts. This will include knowledge of copyright, open licensing, media literacy and digital citizenship. By the end of the course, you will have the beginnings of a personal cyberinfrastructure to support your work as an online learning professional.
 
 ~~Learners review contemporary online learning models, including digital learning environments, domains of one’s own, and personal learning networks, Learners apply learning theory, assessment strategies, and cross-cultural competency within an online learning environment.~~
 
-## Course Learning Outcomes
+## Course Learning Outcomes*
 
 On successfully completing this course, students should be able to:
 
@@ -57,4 +57,4 @@ Vaughan, N., Cleveland-Innes, M., & Garrison, D. \(2013\). Teaching in blended l
   * Personal Cyberinfrastructure
 
 
-
+*[Adapted from and used according to the original Creative Commons Attribution License](https://oeru.org/oeru-partners/otago-polytechnic/learning-in-a-digital-age)
