@@ -30,7 +30,8 @@ On successfully completing this course, students should be able to:
 * Use multimodal communication to express outputs of learning effectively in a digital online environment.
 * Evaluate the authority of online information from a variety of sources including open access materials, mass-media, and social media for the purposes of learning in the higher education context. 
 * Develop a positive digital online identity in support of learning commensurate with good practice for privacy, security and interpersonal communications.
-* Demonstrate how to participate legally and ethically in an online digital learning community 
+* Demonstrate how to participate legally and ethically in an online digital learning community
+* Demonstrate developing ability to engage in the 5R rights of open educational resources, 
 
 ## TWU Student Learning Outcomes
 
@@ -47,14 +48,17 @@ Vaughan, N., Cleveland-Innes, M., & Garrison, D. \(2013\). Teaching in blended l
 ## Course Assignments
 
 * daily try 20/50
-* online learners' bill of rights 20/20
+* online learners' bill of rights 15/15
+* online learning manifesto 15/15
 * blog posts 20/50
-* FAR Handbook Creation 40/40
+* FAR Handbook Creation 30/30
   * Adult Learning
   * EdTech
   * Open Licensing
   * Media Literacy
   * Personal Cyberinfrastructure
+
+## Topics
 
 
 *[Adapted from and used according to the original Creative Commons Attribution License](https://oeru.org/oeru-partners/otago-polytechnic/learning-in-a-digital-age)
