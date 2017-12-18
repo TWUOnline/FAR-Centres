@@ -35,7 +35,9 @@ On successfully completing this course, students should be able to:
 
 * Brookfield, Stephen and Preskill, S. \(2016\). The Discussion Book: 50 Great Ways to Get People Talking.  San Francisco: Jossey Bass.    \*This is an excellent resource book.  There is no assigned reading.
 * Brookfield, S. \(2013\). Powerful techniques for teaching adults. San Francisco, CA: Jossey-Bass.
+* Merriam, S. & Bierema, L. \(2013\). Adult Learning: Linking Theory and Practice. Indianapolis: Wiley.
 * Silberman, M. L., & Biech, E. \(2015\). Active training: A handbook of techniques, designs, case examples, and tips \(4th ed.\). Wiley.
+
 * Various articles will be posted on the course hub.
 
 ## COURSE ACTIVITIES/REQUIREMENTS
@@ -47,7 +49,6 @@ Based on the assigned reading, you are encouraged to carefully read and think ab
 The questions for each two week period are clearly stated in the syllabus.
 
 #### LDRS Reading Response Rubric
-
 
 #### 8-10
 
@@ -140,37 +141,41 @@ The questions for each two week period are clearly stated in the syllabus.
 * As appropriate, references are included to support what is said in both original and reply posts.  
 * All posts are clearly written and contain no ~~APA~~/spelling/grammatical errors.  That said, a conversational tone, rather than an approach you would take in an academic paper, is perfectly fine.
 
-4% biweekly –  
-4 = outstanding depth of response; always includes a question to advance the discussion, appropriately referenced following APA, no errors in grammar or composition.  
-3-3.5= meeting expectations but some criteria are missing or lacking –may not always include a question to advance discussion, may not reference appropriately or follow APA, may have small grammar/compositional errors  
-1-2.5= not meeting expectations at the graduate level but made an effort  
-0 = no effort to engage in the forums
+##### 4% biweekly
 
-Lesson/Adult Learning Design 30%
+* 4 = outstanding depth of response; always includes a question to advance the discussion, appropriately referenced following APA, no errors in grammar or composition.
+* 3-3.5= meeting expectations but some criteria are missing or lacking –may not always include a question to advance discussion, may not reference appropriately or follow APA, may have small grammar/compositional errors
+* 1-2.5= not meeting expectations at the graduate level but made an effort
+* 0 = no effort to engage in the forums
+
+##### Lesson/Adult Learning Design 30%
 
 Sketch out the design of one lesson or session of 3-6 hours length that will be useful to you in your work. It may be a formal lesson within an educational institution or a \(corporate\) training program.
 
 Your design document will utilize the following organizational structure: - use titles.
 
-Institutional Context \(Where?\)
+###### Institutional Context \(Where?\)
 
-Intents \(Why?\)  
-Problem Identification  
-Learner Analysis  
-Learning Outcomes/Objectives  
-Integration of Transformational Servant Leadership and Values Based Leadership.
+###### Intents \(Why?\)
 
-Activities \(How?\)  
-Learning Activity \(What?\)  
-Program Sequence \(When?\)
+* Problem Identification
+* Learner Analysis
+* Learning Outcomes/Objectives
+* Integration of Transformational Servant Leadership and Values Based Leadership.
 
-Resources \(With What?\)
+###### Activities \(How?\)
 
-Assessment \(What was Learned?\)
+###### Learning Activity \(What?\)
+
+###### Program Sequence \(When?\)
+
+###### Resources \(With What?\)
+
+###### Assessment \(What was Learned?\)
 
 Use the course textbooks to guide your thinking and structure the content within each of the above sections.
 
-A draft of your learning design is to be posted on Moodle Feb. 28.  Peer review pairing will be given in advance.
+~~A draft of your learning design is to be posted on Moodle Feb. 28~~.  Peer review pairing will be given in advance.
 
 Your peer review should be collegial and address issues like grammar and structure as well as the quality of arguments and evidence presented in the paper.  Use the rubric as a guide and give suggestions accordingly.
 
@@ -189,91 +194,30 @@ Remember the three important phrases:
 >
 > “I wonder….”
 
-LDRS 627 Adult Learning Design Assignment  
-Grading Rubric
+### LDRS 627 Adult Learning Design Assignment Grading Rubric
 
-Criteria  
-Exceeding Expectations  
-3  
-Meeting Expectations  
-2  
-Not Yet Meeting Expectations  
-1  
-Score
+| Criteria | Exceeding Expectations 3 | Meeting Expectations 2 | Not Yet Meeting Expectations 1 | Score |
+| :--- | :--- | :--- | :--- | :--- |
+| Institutional Context \(Where?\) | The location of the proposed adult learning session is identified in sufficient depth so that contextual factors that inform the design are clear. | The location of the proposed adult learning session is identified but there is insufficient information about contextual factors that impact design. | The location of the proposed adult learning session is not identified. |  |
+| Intents \(Why?\) Problem Identification | The purpose or reason that the learning is needed is clearly explained in sufficient depth.  The problem that the training seeks to remedy is identified clearly. | Purpose or reason that the learning is needed is explained but there is insufficient depth about the problem. | The purpose or reason for the learning is not identified. The problem that the training seeks to remedy is not identified. |  |
+| Intents \(Why?\) Learner Analysis | A detailed profile of the learners or participants in the training is given in sufficient depth that anyone else reading the plan can discern whether it would meet needs of learners in another context. | A profile of the learners or participants in the training is given. | A profile of the learners or participants is not given. |  |
+| Intents \(Why?\)  Learning Outcomes/Goals and Objectives | Learning outcomes, goals and objectives are clearly written.  The A,B,C,D format is followed for all goals. Goals and objectives show clear alignment with principles of andragogy. | Learning outcomes, goals and objectives are evident in the learning design.  The ABCD format is followed but there are some inconsistencies. Goals or objectives generally align with principles of andragogy. | Learning outcomes, goals or objectives not in the learning design.  The ABCD format is not followed.  One or more goals or objectives do not align with principles of andragogy. |  |
+| Intents \(Why?\) Integration of Transformational Servant Leadership and Values Based Leadership. | The learning design carefully considers and incorporates TSL and VBL in every activity. | The learning design addresses TSL and VBL. | TSL and VBL are not mentioned or not developed sufficiently. |  |
+| Learning Activities | Information is extremely well organized. The format is very clear and consistent.  The activities are clearly informed by principles of andragogy, are very well described so that anyone could facilitate them, and the sequence of activities makes sense. | Information is organized and synthesized.  The format is clear and consistent. The activities are generally informed by principles of andragogy and explained but may require more detail.  The sequence of activities generally makes sense. | Information is partially organized. Format and is inconsistent. May be confusing to follow meaning. Insufficient detail. |  |
+| Format, Mechanics of writing | Subheadings are used according to the assignment guidelines and are easy to find; no errors in grammar or composition; One lesson or session of 3-6 hours length – clear timeline; easy to follow | Subheadings are used according to the assignment guidelines and are easy to find; One lesson or session of 3-6 hours length but timeline is unclear or not easy to follow; two or fewer errors in grammar or composition. | Subheadings according to the assignment guidelines are not used; Session is more than one session, shorter than 3 hours or more than 6 hours; more than three errors in grammar or composition |  |
+| Resources | Clearly described, listed, appropriately referenced. Follows APA formatting protocols for writing and referencing. | Resources are listed and referenced though may require more description.  Follows APA formatting protocols for writing and referencing. | Resources are not listed and/or not referenced.  APA is not followed. |  |
+| Assessment | Clearly described system for collecting information about students’ abilities, characteristics, skills, understanding and knowledge; less emphasis on summative testing and more emphasis on formative assessment; gathering data while teaching and learning are occurring. | Evidence of a system for collecting information about students’ abilities, characteristics, skills, understanding and knowledge – may require more detail or description.  Less emphasis on summative testing and more emphasis on formative assessment; gathering data while teaching and learning are occurring. | Assessment is not evident; there is more summative than formative assessment and/or data is gathered only at the end of the session and not during the session. |  |
+| Peer Review | Evidence in your comments of comparing draft to rubric criteria – in depth comments and suggestions provided.  Hard on content, soft on people – evidence of challenging peer to think beyond or differently about some aspect of their submission. Kind, specific, helpful comments refer to specific sections and avoid generalizations. No errors in grammar or composition. | Evidence in your comments of comparing draft to rubric criteria. Hard on content, soft on people. Kind, specific, helpful comments refer to specific sections and avoid generalizations. Two or fewer errors in grammar or composition. | Not clear whether your review included a close comparison to the rubric.  Not hard on content.  Comments are either not specific, unkind or too general. More than three errors in grammar or composition |  |
 
-Institutional Context \(Where?\)
+## DETERMINATION OF FINAL GRADE
 
-The location of the proposed adult learning session is identified in sufficient depth so that contextual factors that inform the design are clear.
+* Reading Response 50%
+* Discussion Forums 20%
+* Adult Learning Design 30%
 
-The location of the proposed adult learning session is identified but there is insufficient information about contextual factors that impact design.
+## COURSE OUTLINE
 
-The location of the proposed adult learning session is not identified.
-
-Intents \(Why?\)  
-Problem Identification  
-The purpose or reason that the learning is needed is clearly explained in sufficient depth.  The problem that the training seeks to remedy is identified clearly.  
-The purpose or reason that the learning is needed is explained but there is insufficient depth about the problem.  
-The purpose or reason for the learning is not identified. The problem that the training seeks to remedy is not identified.
-
-Intents \(Why?\)  
-Learner Analysis  
-A detailed profile of the learners or participants in the training is given in sufficient depth that anyone else reading the plan can discern whether it would meet needs of learners in another context.  
-A profile of the learners or participants in the training is given.  
-A profile of the learners or participants is not given.
-
-Intents \(Why?\)  
-Learning Outcomes/Goals and Objectives  
-Learning outcomes, goals and objectives are clearly written.  The A,B,C,D format is followed for all goals. Goals and objectives show clear alignment with principles of andragogy.  
-Learning outcomes, goals and objectives are evident in the learning design.  The ABCD format is followed but there are some inconsistencies. Goals or objectives generally align with principles of andragogy.  
-Learning outcomes, goals or objectives not in the learning design.  The ABCD format is not followed.  One or more goals or objectives do not align with principles of andragogy.
-
-Intents \(Why?\) Integration of Transformational Servant Leadership and Values Based Leadership.
-
-The learning design carefully considers and incorporates TSL and VBL in every activity.  
-The learning design addresses TSL and VBL.  
-TSL and VBL are not mentioned or not developed sufficiently.
-
-Learning Activities  
-Information is extremely well organized. The format is very clear and consistent.  The activities are clearly informed by principles of andragogy, are very well described so that anyone could facilitate them, and the sequence of activities makes sense.
-
-Information is organized and synthesized.  The format is clear and consistent. The activities are generally informed by principles of andragogy and explained but may require more detail.  The sequence of activities generally makes sense.
-
-Information is partially organized. Format and is inconsistent. May be confusing to follow meaning.  
-Insufficient detail.
-
-Format, Mechanics of writing  
-Subheadings are used according to the assignment guidelines and are easy to find; no errors in grammar or composition; One lesson or session of 3-6 hours length – clear timeline; easy to follow  
-Subheadings are used according to the assignment guidelines and are easy to find; One lesson or session of 3-6 hours length but timeline is unclear or not easy to follow; two or fewer errors in grammar or composition;  
-Subheadings according to the assignment guidelines are not used; Session is more than one session, shorter than 3 hours or more than 6 hours; more than three errors in grammar or composition
-
-Resources  
-Clearly described, listed, appropriately referenced. Follows APA formatting protocols for writing and referencing.  
-Resources are listed and referenced though may require more description.  Follows APA formatting protocols for writing and referencing.  
-Resources are not listed and/or not referenced.  APA is not followed.
-
-Assessment  
-Clearly described system for collecting information about students’ abilities, characteristics, skills, understanding and knowledge; less emphasis on summative testing and more emphasis on formative assessment; gathering data while teaching and learning are occurring  
-Evidence of a system for collecting information about students’ abilities, characteristics, skills, understanding and knowledge – may require more detail or description.  Less emphasis on summative testing and more emphasis on formative assessment; gathering data while teaching and learning are occurring;  
-Assessment is not evident; there is more summative than formative assessment and/or data is gathered only at the end of the session and not during the session.
-
-Peer Review  
-Evidence in your comments of comparing draft to rubric criteria – in depth comments and suggestions provided  
-Hard on content, soft on people – evidence of challenging peer to think beyond or differently about some aspect of their submission. Kind, specific, helpful comments refer to specific sections and avoid generalizations. No errors in grammar or composition.  
-Evidence in your comments of comparing draft to rubric criteria. Hard on content, soft on people. Kind, specific, helpful comments refer to specific sections and avoid generalizations. Two or fewer errors in grammar or composition.
-
-Not clear whether your review included a close comparison to the rubric.  
-Not hard on content.  
-Comments are either not specific, unkind or too general. More than three errors in grammar or composition
-
-DETERMINATION OF FINAL GRADE
-
-Reading Response 50%  
-Discussion Forums 20%  
-Adult Learning Design 30%
-
-COURSE OUTLINE  
-Week 1 —  
-Adult Learning Theory and Perspectives
+### Week 1 — Adult Learning Theory and Perspectives
 
 Readings  
 Articles
@@ -559,72 +503,4 @@ March 7-8
 March 9
 
 March 10
-
-GRADING SYSTEM  
-MA Lead/MAEL Grading Rubric  
-In an effort to ensure consistency in the MAL assignment of grades and to inform graduate students of assessments of the quality of work at the graduate level, the following interpretation of grades in assignments and courses offers a guideline.
-
-Letter Grade  
-%  
-Grade  
-Point  
-Value  
-Meaning in Graduate Work Note: For assignments that meet criteria in several categories, instructors will assign an average grade.  
-A+  
-95-100  
-4.3  
-Exceptionally well-reasoned, compelling development of position. Outstanding incorporation of personal vision as well as of references and resources. Strikingly appropriate examples. Extraordinary insight, critical analytical and evaluative ability, and creativity. Superlative style and language usage. Makes an original contribution and is potentially publishable.  
-A  
-90-94  
-4.0  
-Well-argued and convincing development of position. Insightful incorporation of personal vision as well as of references and resources. Notably appropriate examples. Excellent insight, critical analytic and evaluative ability, and creativity. Impressive style and language use.  
-A-  
-85-89  
-3.7  
-Thorough and plausible development of position. Skillful incorporation of personal vision as well as of references and resources. Very good examples. Very good insight, analytic and evaluative ability, and creativity. Commendable and fluent style and language usage.  
-B+  
-80-84  
-3.3  
-Proficient development of position. Appropriate incorporation of personal vision as well as of references and resources. Relevant examples. Good quality insight, analytic and evaluative ability, and creativity. Clear and correct style and language usage.  
-B  
-75-79  
-3.0  
-Competent development of position, but possibly with some gaps and/or limitations. Satisfactory incorporation of personal vision as well as of references and resources. Satisfactory examples. Reasonable insight, analytic and evaluative ability. Little creativity. Generally satisfactory style and language usage, but possibly with some minor flaws.  
-B-  
-70-74  
-2.7\*  
-Unimpressive development of position. Position not completely consistent with personal vision or references and resources not taken fully into account or examples are basic or not completely convincing or lacking acceptable insight and analytic and evaluative ability. Style and language usage with weaknesses \(e.g., clarity, coherence, grammar\). Overall quality shows noticeable deficiencies.  
-C
-
-&lt;70  
-2.0  
-Unacceptable work at graduate level. Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course.  
-\*Note: a grade of “B-“carries a GPA of 2.7; learners require a composite GPA of 3.0 to graduate.
-
-Other Designated Grades  
-INC = Incomplete. A grade may be incomplete if assignments remain outstanding in a course or if the instructor has not yet submitted a grade. If assignments remain outstanding at the end of a course, students must obtain and complete an incomplete grade form from Enrolment Services.  
-W = Withdrew. This grade is assigned for students withdrawing during the first half of the course.  
-WP /WF = Withdrew passing / Withdrew failing. These grades are assigned to students withdrawing during the second half of a course. Grades are not computed into the cumulative GPA. A student may withdraw from a course only because of severe extenuating circumstances and if approval is granted by the Program Director and the Dean of Graduate Studies.
-
-ACADEMIC INTEGRITY AND AVOIDING PLAGIARISM AT TWU  
-As scholars pursuing higher education, academic integrity is a core value of the entire TWU community. Students are invited into this scholarly culture and required to abide by the principles of sound academic scholarship at TWU. This includes, but is not limited to, avoiding all forms of plagiarism and cheating in scholarly work. TWU has a strict policy on plagiarism \(see academic calendar\). Learning what constitutes plagiarism and avoiding it is the student's responsibility. Two resources describing plagiarism and how to avoid it have been prepared by TWU Librarian William Badke and are freely available for viewing at the URLs below:  
-[https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/](https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/) \(Prezi presentation\)  
-[http://bit.ly/1p00KX3](http://bit.ly/1p00KX3)   \(Google Slide presentation offering more comprehensive information\)
-
-STUDENTS WITH A DISABILITY  
-Students with a disability who need assistance are encouraged to contact the Equity of Access Office upon admission to TWU to discuss their specific needs. All disabilities must be recently documented by an appropriately certified professional and include the educational impact of the disability along with recommended accommodations. Within the first two weeks of the semester, students must meet with their professors to agree on accommodations appropriate to each class. Students should follow the steps detailed by the Equity of Access Office on their website at: [http://www.twu.ca/life/wellness/learningresources/disabilities-and-equity-of-access/default.html](http://www.twu.ca/life/wellness/learningresources/disabilities-and-equity-of-access/default.html).
-
-CAMPUS CLOSURE AND CLASS CANCELLATION POLICY  
-n/a generally for online classes but if you’re considering studying on campus, using library or other services please note:  In the event of extreme weather conditions alerts will be posted on the TWU homepage www.twu.ca and on the TWU bulletin line 604.513.2147. The University will also communicate information regarding the cancellation of classes to the following radio stations: CKNW \(980 AM\), CKWX \(1130 AM\), STAR FM \(107.1 FM\), PRAISE \(106.5 FM\) and KARI \(550 AM\).
-
-ATTENDANCE POLICY
-
-For online classes regular and consistent participation is expected.
-
-FINAL EXAMINATIONS
-
-There are no final examinations in this course.
-
-LATE ASSIGNMENTS POLICY  
-Assignments are expected on the due date.  I give everyone a two day grace period without asking.  Requests for extension beyond this must be communicated in advance of the due date. Special circumstances may warrant additional consideration.
 
