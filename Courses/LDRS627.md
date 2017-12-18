@@ -217,7 +217,7 @@ Remember the three important phrases:
 
 ## COURSE OUTLINE
 
-### 
+See the file '627 Schedule'.
 
 
 
