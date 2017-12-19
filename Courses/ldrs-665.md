@@ -4,7 +4,7 @@
 
 ### Course Syllabus
 
-#### LDRS 665 - Creating Online Learning Environments
+#### LDRS 665 - Creating and Sustaining Digital Learning Communities
 
 | Semester |  | Year |  |
 | :--- | :--- | :--- | :--- |
@@ -12,7 +12,7 @@
 | Office Hours | NA | Times | Asynchronous |
 | Place | Online | Prerequisites | None |
 
-## Course Description*
+## Course Description\*
 
 Learners will develop the digital and learning literacies to maximise their ability to create and sustain online communities of inquiry in contemporary digital learning environments for multi-cultural higher education.
 
@@ -20,7 +20,7 @@ Learners will develop the academic skills to discern the credibility, accuracy, 
 
 ~~Learners review contemporary online learning models, including digital learning environments, domains of one’s own, and personal learning networks, Learners apply learning theory, assessment strategies, and cross-cultural competency within an online learning environment.~~
 
-## Course Learning Outcomes*
+## Course Learning Outcomes\*
 
 On successfully completing this course, students should be able to:
 
@@ -60,5 +60,5 @@ Vaughan, N., Cleveland-Innes, M., & Garrison, D. \(2013\). Teaching in blended l
 
 ## Topics
 
+\*[Adapted from and used according to the original Creative Commons Attribution License](https://oeru.org/oeru-partners/otago-polytechnic/learning-in-a-digital-age)
 
-*[Adapted from and used according to the original Creative Commons Attribution License](https://oeru.org/oeru-partners/otago-polytechnic/learning-in-a-digital-age)
