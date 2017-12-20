@@ -95,14 +95,14 @@ The questions for each two week period are clearly stated in the syllabus.
 
 ### Company Website Analysis 20%
 
-Investigate the Human Resources portion of a company's website.  Focus on the training and employee development part of the website. What can they infer about the company’s culture? What leadership traits seem to be valued in employees? How does the company develop leadership in its employees \(e.g., workshops, seminars, mentoring\)? Post the link on your blog and a 500 word  response to the above questions.
+Investigate the Human Resources portion of a company's website.  Focus on the training and employee development part of the website. What can they infer about the company’s learning culture? Would you say it is an authentic learning community?  Why or why not? What leadership traits seem to be valued in employees? How does the company develop leadership in its employees \(e.g., workshops, seminars, mentoring\)? Post the link on your blog and a 500 word  response to the above questions.
 
 | Criteria | Fully Meeting Expectations | Not Yet Meeting                   Expectations | No attempt |
 | :--- | :--- | :--- | :--- |
-| Link posted; 500 word          response |  |  | Link not posted; no               response or attempt to      answer the questions |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Link posted; 500 word          response | Functional link posted | Link is posted but it is         broken | Link not posted; no               response or attempt to      answer the questions |
+| Company's Learning Culture | Discussion of authentic       learning culture is               sufficiently detailed  | Discussion of authentic       learning culture is                incomplete | No discussion of                  company's learning culture  |
+| Leadership Traits | Discussion of perceived      value of leadership traits is sufficiently detailed. | Discussion of perceived      value of leadership traits is incomplete. | No discussion of perceived value of leadership traits. |
+| People Development | Discussion of people           development is sufficiently detailed, including               examples. |  |  |
 |  |  |  |  |
 |  |  |  |  |
 
