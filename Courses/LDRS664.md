@@ -99,7 +99,7 @@ Investigate the Human Resources portion of a company's website.  Focus on the tr
 
 | Criteria | Fully Meeting Expectations | Not Yet Meeting                   Expectations | No attempt or not                 representative of Graduate level work. |
 | :--- | :--- | :--- | :--- |
-| Link posted; 500 word          response | Functional link posted | Link is posted but it is         broken | Link not posted; no               response or attempt to      answer the questions |
+| Link posted; 500 word          response | Functional link posted         500 word response or within +/- 10 words | Link is posted but it is         broken                                 more than 515 words or     fewer than 485 word           response | Link not posted; no               response or attempt to      answer the questions |
 | Company's Learning Culture | Discussion of authentic       learning culture is               sufficiently detailed | Discussion of authentic       learning culture is                incomplete | No discussion of                  company's learning culture |
 | Leadership Traits | Discussion of perceived      value of leadership traits is sufficiently detailed. | Discussion of perceived      value of leadership traits is incomplete. | No discussion of perceived value of leadership traits. |
 | People Development | Discussion of people           development is sufficiently detailed, including               examples. | Discussion of people           development is incomplete and/or lacking examples. | No discussion of people     development. |
