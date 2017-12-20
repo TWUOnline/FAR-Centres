@@ -97,14 +97,13 @@ The questions for each two week period are clearly stated in the syllabus.
 
 Investigate the Human Resources portion of a company's website.  Focus on the training and employee development part of the website. What can they infer about the company’s learning culture? Would you say it is an authentic learning community?  Why or why not? What leadership traits seem to be valued in employees? How does the company develop leadership in its employees \(e.g., workshops, seminars, mentoring\)? Post the link on your blog and a 500 word  response to the above questions.
 
-| Criteria | Fully Meeting Expectations | Not Yet Meeting                   Expectations | No attempt |
+| Criteria | Fully Meeting Expectations | Not Yet Meeting                   Expectations | No attempt or not                 representative of Graduate level work. |
 | :--- | :--- | :--- | :--- |
 | Link posted; 500 word          response | Functional link posted | Link is posted but it is         broken | Link not posted; no               response or attempt to      answer the questions |
-| Company's Learning Culture | Discussion of authentic       learning culture is               sufficiently detailed  | Discussion of authentic       learning culture is                incomplete | No discussion of                  company's learning culture  |
+| Company's Learning Culture | Discussion of authentic       learning culture is               sufficiently detailed | Discussion of authentic       learning culture is                incomplete | No discussion of                  company's learning culture |
 | Leadership Traits | Discussion of perceived      value of leadership traits is sufficiently detailed. | Discussion of perceived      value of leadership traits is incomplete. | No discussion of perceived value of leadership traits. |
-| People Development | Discussion of people           development is sufficiently detailed, including               examples. |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| People Development | Discussion of people           development is sufficiently detailed, including               examples. | Discussion of people           development is incomplete and/or lacking examples. | No discussion of people     development. |
+| Mechanics | No errors in grammar or     composition. | Two or fewer errors in         grammar or composition. | Three or more errors in       grammar or composition. |
 
 ### Platform Paper 30%
 
