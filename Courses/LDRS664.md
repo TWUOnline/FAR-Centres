@@ -40,7 +40,7 @@ On successfully completing this course, students should be able to:
 
 ## COURSE ACTIVITIES/REQUIREMENTS
 
-### Bi-weekly Reading Response Blog Posts 50%
+### Bi-weekly Reading Response Blog Posts 30%
 
 Based on the assigned reading, you are encouraged to carefully read and think about the course material.
 
