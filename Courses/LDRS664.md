@@ -97,8 +97,8 @@ The questions for each two week period are clearly stated in the syllabus.
 
 Investigate the Human Resources portion of a company's website.  Focus on the training and employee development part of the website. What can they infer about the company’s learning culture? Would you say it is an authentic learning community?  Why or why not? What leadership traits seem to be valued in employees? How does the company develop leadership in its employees \(e.g., workshops, seminars, mentoring\)? Post the link on your blog and a 500 word  response to the above questions.
 
-| Criteria | Fully Meeting Expectations | Not Yet Meeting                   Expectations | No attempt or not                 representative of Graduate level work. |
-| :--- | :--- | :--- | :--- |
+| Criteria | Fully Meeting Expectations  5 | Not Yet Meeting                   Expectations                         3-4 | No attempt or not                 representative of Graduate level work.                             0-2  |
+| :--- | :---: | :---: | :--- |
 | Link posted; 500 word          response | Functional link posted         500 word response or within +/- 10 words | Link is posted but it is         broken                                 more than 515 words or     fewer than 485 word           response | Link not posted; no               response or attempt to      answer the questions |
 | Company's Learning Culture | Discussion of authentic       learning culture is               sufficiently detailed | Discussion of authentic       learning culture is                incomplete | No discussion of                  company's learning culture |
 | Leadership Traits | Discussion of perceived      value of leadership traits is sufficiently detailed. | Discussion of perceived      value of leadership traits is incomplete. | No discussion of perceived value of leadership traits. |
@@ -129,7 +129,8 @@ You will write and post a draft to your blog for peer review.  Peer reviewers wi
 
 ## DETERMINATION OF FINAL GRADE
 
-* Reading Response Blog Posts 50%
+* Reading Response Blog Posts 30%
+* Company Website Analysis 20%
 * Platform paper 50%
 
 ## COURSE OUTLINE
