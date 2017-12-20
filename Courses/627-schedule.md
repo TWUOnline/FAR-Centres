@@ -1,26 +1,27 @@
 ### Week 1 — Adult Learning Theory and Perspectives
 
-Readings  
-Articles
-
-Collins, John B. and Daniel D. Pratt \(2011\). The Teaching Perspectives Inventory at 10 Years and 100,000 Respondents: Reliability and Validity of a Teacher Self-Report Inventory. Adult Education Quarterly 61:358-360 and 371-374.
-
-Sandlin, J., Redmon Wright R., Clark C. \(2013\). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. Adult Education Quarterly 63:3, 3-14.
-
-Silberman, M. L., & Biech, E. \(2015\). Active training: A handbook of techniques, designs, case examples, and tips \(4th ed.\). Hoboken, New Jersey: John Wiley & Sons
+#### Readings
 
 Cahalan, K. \(2016\). Integrative Learning for Practical Wisdom in Reflective Practice: Formation and Supervision in Ministry Vol 36  
-      Retrieved Dec. 20 from [http://journals.sfu.ca/rpfs/index.php/rpfs/article/view/452](http://journals.sfu.ca/rpfs/index.php/rpfs/article/view/452)
+ [http://journals.sfu.ca/rpfs/index.php/rpfs/article/view/452](http://journals.sfu.ca/rpfs/index.php/rpfs/article/view/452)
 
-Note that only certain pages have been assigned for each of these articles.
+Collins, John B. and Daniel D. Pratt \(2011\). The Teaching Perspectives Inventory at 10 Years and 100,000 Respondents: Reliability and Validity of a Teacher Self-Report Inventory. _Adult Education Quarterly_ _61_:358-360 and 371-374. \*Note that only certain pages have been assigned
 
-Part 1: pages 1-12; chapters 18, 19  
-Assigned Work  
-Assignment Name & Notes  
-Due Date  
+Merriam, S. &  Bierema, L. \(2013\). _Adult Learning: Linking Theory and Practice_. Indianapolis: Wiley. \*Preface and Chapters 1 and 2,  pp. xi-41.
+
+Sandlin, J., Redmon Wright R., Clark C. \(2013\). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. _Adult Education Quarterly 63_:3, 3-14.  \*Note that only certain pages have been assigned
+
+Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips_ \(4th ed.\). Hoboken, New Jersey: John Wiley & Sons \*Part 1: pages 1-12; chapters 18, 19
+
+#### Assigned Learning Activities
+
 Post your Introduction, read syllabus, familiarize yourself with Moodle site for the course, read the ‘Welcome to Week 1’ notes
 
-Read the articles and Active Training text
+Read Merriam & Bierema text
+
+Read the three articles
+
+Read Silberman text
 
 Do the T.P.I.at [http://www.teachingperspectives.com/tpi/](http://www.teachingperspectives.com/tpi/)
 
@@ -28,57 +29,49 @@ View the four T.P.I. Videos
 [http://youtu.be/9GN7nN6YnXg](http://youtu.be/9GN7nN6YnXg);   [http://youtu.be/1oz1oPE34OM](http://youtu.be/1oz1oPE34OM);  
 [http://youtu.be/EHy76iHn3Ls](http://youtu.be/EHy76iHn3Ls);  [http://youtu.be/4IB7OhP6k28](http://youtu.be/4IB7OhP6k28)
 
-Post your response to the Discussion Question and respond to others  
-Jan. 2-3
+Post your response to the Discussion Question and respond to others
 
-Jan. 4-6  
-Week 2  
-Power, Self-Directed Learning, Transformative Learning
+### 
 
-Readings  
-Text or Article  
-Chapters/Pages  
-Brookfield, S. \(2013\). Powerful techniques for teaching adults.
+### Week 2 Power, Self-Directed Learning, Transformative Learning
 
-Sandlin, J., Redmon Wright R., Clark C. \(2013\). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. Adult Education Quarterly 63:3, 14-16.
+#### Readings
 
-Chaps. 1 and 4
+Brookfield, S. \(2013\). _Powerful techniques for teaching adults_. Chaps. 1 and 4
 
-Note that only certain pages have been assigned for the Sandlin article. You read part last week and focus on a different section this week.  
-Assigned Work  
-Assignment Name & Notes  
-Due Date  
-Read Welcome to week 2 notes and Brookfield text
+Merriam, S. &  Bierema, L. \(2013\). _Adult Learning: Linking Theory and Practice_. Indianapolis: Wiley. \*Chapters 4 and 5 pp. 61-101
+
+Sandlin, J., Redmon Wright R., Clark C. \(2013\). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. _Adult Education Quarterly 63_:3, 14-16. \*\*Note that only certain pages have been assigned. You read part last week and focus on a different section this week.
+
+#### Assigned Learning Activities
+
+Read Welcome to week 2 notes, Brookfield text and Merriam & Bierema text
 
 Go back to Sandlin article and read pages 14-16; read Espiritu article
 
-Post your answer to discussion question and interact in the Forum
+Post your answer to discussion question and respond to others
 
-Submit Reading Response to Dropbox  
-Jan. 8-9
+Submit Reading Response to Dropbox
 
-Jan. 10-12
+### **Weeks 3 and 4 **
 
-Jan. 13  
-Week 3  
-Experience, Emotions and Motivation
+### **Experience, Emotions, Motivation, Body and Spirit in Adult Education**
 
-Readings  
-Text or Article  
-Chapters/Pages  
-Brookfield, S. \(2013\). Powerful techniques for teaching adults.
+**\*Note this is a two week span; there is more reading on these important topics**
 
-Silberman, M. L., & Biech, E. \(2015\). Active training: A handbook of techniques, designs, case examples, and tips \(4th ed.\). Hoboken, New Jersey: John Wiley & Sons
+#### Readings
+
+Brookfield, S. \(2013\). _Powerful techniques for teaching adults_. \*Chapter 8
+
+Merriam, S. &  Bierema, L. \(2013\). _Adult Learning: Linking Theory and Practice_. Indianapolis: Wiley. Chapters 6, 7, 8 and 9  pp. 104-188
+
+Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips _\(4th ed.\). Hoboken, New Jersey: John Wiley & Sons \*Chapters 4, 5, 6
 
 Powerpoint about change
 
-Chap. 8
+#### Assigned Learning Activities
 
-Chaps. 4,5,6  
-Assigned Work  
-Assignment Name & Notes  
-Due Date  
-Read ‘Welcome to Week 3’ notes, View video ‘Chaos Theory’ and read Brookfield
+Read ‘Welcome to Week 3’ notes, View video ‘Chaos Theory’ and read Brookfield, Merriam & Bierema texts
 
 Read through the powerpoint about Change
 
@@ -86,49 +79,37 @@ View videos: Chaos Theory and Impact on Careers and How I learned to embrace cha
 
 Read Silberman text
 
-Post your response to the Discussion Question and interact in the Forum
+Post your response to the Discussion Question and respond to others 
 
-Complete and submit to Dropbox CIQ \(survey asking for feedback\)  
-Jan. 15-16
+Complete and submit to Dropbox CIQ \(survey asking for feedback\)
 
-Jan. 17-19
+### Week 5 Goals, Objectives and Assessment
 
-Jan. 20
+#### Readings
 
-Week 4  
-Goals and Objectives
+Angelo, T. & Cross, K. \(1993\). _Classroom Assessment Techniques: A Handbook for College Teachers_, 2nd Ed. Indianapolis: Wiley.  \*see posted pdf of open source selected examples from the resource as well as short video.
 
-Readings  
-Text or Article  
-Chapters/Pages  
-Silberman, M. L., & Biech, E. \(2015\). Active training: A handbook of techniques, designs, case examples, and tips \(4th ed.\). Hoboken, New Jersey: John Wiley & Sons
+Merriam, S. &  Bierema, L. \(2013\). _Adult Learning: Linking Theory and Practice_. Indianapolis: Wiley. Chap 3 pp. 42-60
+
+Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips_ \(4th ed.\). Hoboken, New Jersey: John Wiley & Sons \*Pages 13-18 and Chaps. 1 and 2; 15 and 17
 
 Powerpoint on Goals and Objectives
 
-Pages 13-18 and Chaps. 1 and 2
+#### Assigned Learning Activities
 
-Assigned Work  
-Assignment Name & Notes  
-Due Date  
-Read ‘Welcome to week 4 notes’ and Silberman text
+Read ‘Welcome to week 5 notes’, Silberman text, Merriam & Bierema text and Cross pdf
 
 Read through powerpoints on Goals and Objectives
 
-Post your response to the discussion question and interact in the forum
+Post your response to the discussion question and respond to others 
 
-Submit Reading Response to Dropbox  
- Jan. 22-23
+Submit Reading Response to Dropbox
 
-Jan. 24-26
+### Week 6 Teaching for Critical Thinking
 
-Jan. 27  
-Week 5  
-Teaching for Critical Thinking
+Brookfield, S. \(2013\). \_Powerful techniques for teaching adults \*\_Chap 2
 
-Readings  
-Text or Article  
-Chapters/Pages  
-Brookfield, S. \(2013\). Powerful techniques for teaching adults
+Merriam, S. &  Bierema, L. \(2013\). _Adult Learning: Linking Theory and Practice_. Indianapolis: Wiley. \*Ch. 11 pp 212-237.
 
 video [http://youtu.be/Y8umk4w8kB8](http://youtu.be/Y8umk4w8kB8)  Critical Thinking
 
@@ -140,11 +121,11 @@ The Art of Close Reading \(Part One\)
 The Art of Close Reading \(Part Two\)  
 The Art of Close Reading \(Part Three\)
 
-Chap. 2  
-Assigned Work  
-Assignment Name & Notes  
-Due Date  
-Read ‘Welcome to week 5 notes’,  Brookfield text, view the posted graphic and view video
+#### Assigned Learning Activities
+
+Read ‘Welcome to week 5 notes’,  Brookfield text, Merriam & Bierema text
+
+view the posted graphic and view video
 
 Read and consider collated CQI comments
 
@@ -152,136 +133,83 @@ Read www.criticalthinking.org articles
 
 Read The Power of Dialogue \(2016\)
 
-Post your response to the Discussion Question and interact in the Forum  
-Jan. 29-30
+Post your response to the Discussion Question and respond to others 
 
-Jan 31-Feb. 3
+### Week 7 Reading and Assignment week
 
-Week 6  
-Assessment
+#### Assigned Learning Activities
 
-Readings  
-Text or Article  
-Chapters/Pages  
-Silberman, M. L., & Biech, E. \(2015\). Active training: A handbook of techniques, designs, case examples, and tips \(4th ed.\). Hoboken, New Jersey: John Wiley & Sons
+Use this week to catch up on any assignments and/or reading and get a good start on your final learning design assignment.
 
-Assessment Strategies and video  
-Chaps. 15 and 17
+### Week 8 Democratizing Lifelong Learning
 
-Assigned Work  
-Assignment Name & Notes  
-Due Date  
-Read ‘Welcome to week 6 notes’,  Silberman, Browse through the Assessment Strategies doc and view video of CATS
+#### Readings
 
-Read the article: The practice of dialogue in critical pedagogy
+Alfred, M. \(2016\). Creating Space for Social Justice Education in an era of Global and Neoliberal Capitalism: An Imperative for Adult Education. _Dialogues in Social Justice \(1\)_,  31-34.
 
-Post your response to the Discussion Question and interact in the Forum
+Brookfield, S. \(2013\). _Powerful techniques for teaching adults_. \*Chapters 5 and 6
 
-Submit Reading Response to Dropbox  
-Feb. 5-6
+Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips_ \(4th ed.\). Hoboken, New Jersey: John Wiley & Sons \*Chapter 12
 
-Feb. 7-9
+Snell-Herzog, P. et al \(2016\). Moral and Cultural Awareness in Emerging Adulthood: Preparing for Multi-Faith Workplaces.Religions, 7, 40.
 
-Feb. 10  
-Week 7 Reading and Assignment week  
-Use this week to catch up on any assignments and/or reading and get a good start on your final learning design assignment.  
-Week 8  
-Democratizing Lifelong Learning
+#### Assigned Learning Activities
 
-Readings  
-Text or Article  
-Chapters/Pages  
-Silberman, M. L., & Biech, E. \(2015\). Active training: A handbook of techniques, designs, case examples, and tips \(4th ed.\). Hoboken, New Jersey: John Wiley & Sons
+Read ‘Welcome to week 8 notes’,  Silberman text, Brookfield text
 
-Brookfield, S. \(2013\). Powerful techniques for teaching adults.
+Read two articles
 
-Article:  Moral and Cultural Awareness in Emerging Adulthood: Preparing for Multi-Faith Workplaces \(2016\)
+Post your response to the Discussion Question and respond to others 
 
-Article: Creating Space for Social Justice Education \(2016\)  
-Chap. 12
+Submit Reading Response to Dropbox
 
-Chaps 5 and 6
+### Week 9 Opening Exercises, Discussion Methods, Active Training, Technology
 
-Assigned Work  
-Assignment Name & Notes  
-Due Date  
-Read ‘Welcome to week 8 notes’,  Silberman and Brookfield texts
+#### Readings
 
-Read article – moral dimension
+Brookfield, S. \(2013\). _Powerful techniques for teaching adults_. \*Chap 3
 
-Read article - globalization
+Merriam, S. &  Bierema, L. \(2013\). _Adult Learning: Linking Theory and Practice_. Indianapolis: Wiley. \*chapter 10 pp. 190-211
 
-Post your response to the Discussion Question and interact in the Forum
+Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips_ \(4th ed.\). Hoboken, New Jersey: John Wiley & Sons \*Chaps 3, 7, 8, 9, 10, 11, 13 \*Skim these chapters and read what is interesting and useful to your practice and context.
 
-Submit Reading Response to Dropbox  
-Feb. 19-20
+#### Assigned Work
 
-Feb. 21-23
-
-Feb. 24  
-Week 9  
-Opening Exercises, Discussion Methods, Active Training, Technology
-
-Readings  
-Text or Article  
-Chapters/Pages  
-Silberman, M. L., & Biech, E. \(2015\). Active training: A handbook of techniques, designs, case examples, and tips \(4th ed.\). Hoboken, New Jersey: John Wiley & Sons
-
-Brookfield, S. \(2013\). Powerful techniques for teaching adults.  
-Chaps 3, 7, 8, 9, 10, 11, 13  \*Skim these chapters and read what is interesting and useful to your practice and context.
-
-Chap 3  
-Assigned Work  
-Assignment Name & Notes  
-Due Date  
 Read ‘Welcome to week 9’ notes
 
 Read Silberman chapters
 
 Read Brookfield chapter
 
-Post draft Adult Lesson Design assignment for Peer Review in designated forum AND Post your response to the Discussion Question
+Read Merriam & Bierema chapter
 
-Respond to your assigned colleague’s draft adult lesson design AND  
-interact in the Forum  
-Feb. 26-27
+Post draft Adult Lesson Design assignment for Peer Review AND Post your response to the Discussion Question
 
-Feb. 28
+Respond to your assigned colleague’s draft adult lesson design AND respond to others' blog posts
 
-March 1-3
+### Week 10 Creativity, Structured Activities, Team Learning and Integration/implementation
 
-Week 10  
-Creativity, Structured Activities, Team Learning and Integration/implementation
+#### Readings
 
-Readings  
-Text or Article  
-Chapters/Pages  
-Silberman, M. L., & Biech, E. \(2015\). Active training: A handbook of techniques, designs, case examples, and tips \(4th ed.\). Hoboken, New Jersey: John Wiley & Sons
+American Institutes for Research, \(nd\). Promoting Teacher Effectiveness: Adult Education Teacher Competencies. [https://learn.twu.ca/pluginfile.php/62194/mod\_resource/content/1/Adult\_Educator\_Competencies.pdf](https://learn.twu.ca/pluginfile.php/62194/mod_resource/content/1/Adult_Educator_Competencies.pdf)
 
-Brookfield, S. \(2013\). Powerful techniques for teaching adults.
+Brookfield, S. \(2013\). _Powerful techniques for teaching adults_. \*Chapter 7
 
-Competencies of Adult Educators
+Merriam, S. &  Bierema, L. \(2013\). _Adult Learning: Linking Theory and Practice_. Indianapolis: Wiley. \*Chapter 12
 
-Chaps 14, 16
+Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips _\(4th ed.\). Hoboken, New Jersey: John Wiley & Sons. \*Chaps 14, 16
 
-Chap 7  
-Assigned Work  
-Assignment Name & Notes  
-Due Date  
+#### Assigned Learning Activities
+
 Read ‘Welcome to week 10’ notes, Silberman chapters
 
-Read Brookfield chapter and take a look at draft competencies doc.
+Read Brookfield chapter and Merriam and Bierema chapter
 
-Post your response to the Discussion Question and interact in the Forum
+Review draft competencies doc.
+
+Post your response to the Discussion Question in your blog and respond to others 
 
 Submit to Dropbox your revised Adult Learning Design, incorporating peer feedback
 
-Submit final Reading Response to Dropbox  
-March 5-6
-
-March 7-8
-
-March 9
-
-March 10
+Submit final Reading Response to Dropbox
 

@@ -1,152 +1,138 @@
-TRINITY WESTERN UNIVERSITY
-Certificate in Coaching and Facilitation 
-Course Syllabus 
+# TRINITY WESTERN UNIVERSITY
 
+### Certificate in Coaching and Facilitation and Master of Arts in Leadership
 
-LDRS 664 Creating Authentic Learning Communities (3 sem. hr.)
-Click here and type Semester (Spring/Fall/Summer) and Year
+### Course Syllabus
 
+#### LDRS 664 Creating Authentic Learning Communities \(3 sem. hr.\) 
 
+| Semester |  | Year |  |
+| :--- | :--- | :--- | :--- |
+| Instructor |  | Contact |  |
+| Office Hours | NA | Times | Asynchronous |
+| Place | Online | Prerequisites LDRS 627 | None |
 
+## COURSE DESCRIPTION
 
-Instructor: Click and add your name
-Contact Info: Add contact info
-Office Hours: Add office hours        
-________________
+Learners explore theoretical foundations of learning communities, explore strategies for creating authentic learning communities, and apply strategies within a learning/coaching context.
 
+## COURSE LEARNING OUTCOMES
 
+On successfully completing this course, students should be able to:
 
+1. Articulate a justified, world-view based vision for adult learning communities.
+2. Apply strategies for forging learning connections with students and creating authentic learning communities.
+3. Articulate a platform of beliefs about adult learning for a specific organization. 
+4. Understand that good teaching can never be reduced to technique. Good teaching comes from the identity and integrity of the teacher.
 
-Time:  Click here and add time
-Place:  Click here and add location 
-Prerequisites: LDRS 627
+## STUDENT LEARNING OUTCOMES
 
+[https://www.twu.ca/academics/student-learning-outcomes](https://www.twu.ca/academics/student-learning-outcomes)
 
-COURSE DESCRIPTION
-Learners explore theoretical foundations of learning communities, explore strategies for creating authentic learning communities, and apply strategies within a learning/coaching context. 
+## REQUIRED TEXT\(S\)
 
+* Brookfield, Stephen and Preskill, S. \(2016\). _The Discussion Book: 50 Great Ways to Get People Talking_.  San Francisco: Jossey Bass.    \*This is an excellent resource book.  There is no assigned reading.
+* Palmer, P.J. \(2017\). _The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life_. Hoboken, NJ: Jossey-Bass.
 
-COURSE LEARNING OUTCOMES
-Click here and type
+* Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips _\(4th ed.\). Wiley. 
 
+* Wheatley, M. \(2017\). _Who Do We Choose to Be? : Facing Reality, Claiming Leadership, Restoring Sanity._ Oakland, CA: Berrett-Koehler Publishers.
 
-STUDENT LEARNING OUTCOMES
-https://www.twu.ca/academics/student-learning-outcomes
+## COURSE ACTIVITIES/REQUIREMENTS
 
+### Bi-weekly Reading Response Blog Posts 50%
 
-REQUIRED TEXT(S)
-Click here and type
+Based on the assigned reading, you are encouraged to carefully read and think about the course material.
 
+The questions for each two week period are clearly stated in the syllabus.
 
-COURSE ACTIVITIES/REQUIREMENTS
-Click here and add Course Requirements
+#### LDRS 664 Reading Response Rubric
 
+#### 8-10
 
-DETERMINATION OF FINAL GRADE
-Click here and type any comments
+* Reader identifies information from the assigned reading that resonates or strikes them in a personal way and clearly explains the reason for their choices.
+* The responses show superior depth of knowledge on the topic, clear synthesis and evaluation of the content read, and provide depth, breath, or new insight to the topic.
+* Reader demonstrates an accurate understanding of this chosen information in the text.
+* Reader uses information from the text to interpret chosen concepts or make connections to other situations or contexts logically through analysis, evaluation, inference, or comparison/contrast.
+* Reader defines uncommon or challenging words and shows evidence of doing the intellectual work necessary to understand challenging text.
+* Reader identifies points of view and implications in the text and critically analyses their own response to these.
+* No errors in grammar or composition. Page restrictions and format followed. Submitted on time.
 
+#### 5-7
 
-Type requirement (e.g. “Research Paper”)
-	Type % requirement is worth
-	%
-	Requirement
-	Worth
-	%
-	Requirement
-	Worth
-	%
-	Requirement
-	Worth
-	%
-	Requirement
-	Worth
-	%
-	Requirement
-	Worth
-	%
-	TOTAL
-	100
-	%
-	
+* Reader identifies information from the assigned reading that resonates or strikes them in a personal way but the reason for their choices is not completely or clearly explained.  
+* The responses show adequate depth of knowledge on the topic, a good synthesis but may lack in evaluation of the content read, and providing new insight to  
+  the topic.  
+* Reader demonstrates a partial understanding of this chosen information in the text.  
+* Reader uses information from the text to interpret chosen concepts but does not make connections to other situations or contexts.  
+* Reader partially integrates interpretation of the text with text-based support.  
+* Reader does not define uncommon or challenging words necessary to understanding the text.  
+* Reader does not identify points of view and implications in the text or critically analyze their own response to these.  
+* Fewer than 3 errors in grammar or composition. Page restrictions and format not followed.  Not submitted.
 
+#### 2-4
 
-GRADING SYSTEM
-MA Lead/MAEL Grading Rubric
-In an effort to ensure consistency in the MAL assignment of grades and to inform graduate students of assessments of the quality of work at the graduate level, the following interpretation of grades in assignments and courses offers a guideline.
+* Reader demonstrates insufficient understanding of the chosen concepts.  
+* The responses show inadequate depth of knowledge on the topic, a synthesis that misses key concepts, and is not a critical analysis.  
+* Reader uses information from the text to make simplistic interpretations of the text without using significant concepts or by making only limited connections to other situations or contexts.  
+* Reader does not integrate interpretation of the text with text-based support.  
+* Reader does not define uncommon or challenging words necessary to understanding the text.  
+* Reader does not identify points of view and implications in the text or critically analyze their own response to these.  
+* More than 3 errors in grammar or composition. Page restrictions and format followed. Not submitted on time.  
 
+#### 1
 
-Letter Grade
-	%
-	Grade
-Point
-Value
-	Meaning in Graduate Work Note: For assignments that meet criteria in several categories, instructors will assign an average grade. 
-	A+
-	95-100
-	4.3
-	Exceptionally well-reasoned, compelling development of position. Outstanding incorporation of personal vision as well as of references and resources. Strikingly appropriate examples. Extraordinary insight, critical analytical and evaluative ability, and creativity. Superlative style and language usage. Makes an original contribution and is potentially publishable.
-	A
-	90-94
-	4.0
-	Well-argued and convincing development of position. Insightful incorporation of personal vision as well as of references and resources. Notably appropriate examples. Excellent insight, critical analytic and evaluative ability, and creativity. Impressive style and language use.
-	A-
-	85-89
-	3.7
-	Thorough and plausible development of position. Skillful incorporation of personal vision as well as of references and resources. Very good examples. Very good insight, analytic and evaluative ability, and creativity. Commendable and fluent style and language usage.
-	B+
-	80-84
-	3.3
-	Proficient development of position. Appropriate incorporation of personal vision as well as of references and resources. Relevant examples. Good quality insight, analytic and evaluative ability, and creativity. Clear and correct style and language usage.
-	B
-	75-79
-	3.0
-	Competent development of position, but possibly with some gaps and/or limitations. Satisfactory incorporation of personal vision as well as of references and resources. Satisfactory examples. Reasonable insight, analytic and evaluative ability. Little creativity. Generally satisfactory style and language usage, but possibly with some minor flaws.
-	B-
-	70-74
-	2.7*
-	Unimpressive development of position. Position not completely consistent with personal vision or references and resources not taken fully into account or examples are basic or not completely convincing or lacking acceptable insight and analytic and evaluative ability. Style and language usage with weaknesses (e.g., clarity, coherence, grammar). Overall quality shows noticeable deficiencies.
-	C
-	<70
-	2.0
-	Unacceptable work at graduate level. Shows lack of understanding and/or competence in several of the criteria described above. This grade is a failing grade at the graduate level, and students receiving a “C” course grade are required to re-take the course.
-	*Note: a grade of “B-“carries a GPA of 2.7; learners require a composite GPA of 3.0 to graduate.
+* Reader demonstrates little or no understanding of the text; may be inaccurate.  
+* The responses are superficial and do not include critical analysis.  
+* Reader makes little or no interpretation of the text.  
+* Reader’s response is insufficient to show that criteria are met.  
+* More than 5 errors in grammar or composition. Page restrictions and format followed. Not submitted on time.
 
+#### 0
 
-Other Designated Grades
-INC = Incomplete. A grade may be incomplete if assignments remain outstanding in a course or if the instructor has not yet submitted a grade. If assignments remain outstanding at the end of a course, students must obtain and complete an incomplete grade form from Enrolment Services.
-W = Withdrew. This grade is assigned for students withdrawing during the first half of the course.
-WP /WF = Withdrew passing / Withdrew failing. These grades are assigned to students withdrawing during the second half of a course. Grades are not computed into the cumulative GPA. A student may withdraw from a course only because of severe extenuating circumstances and if approval is granted by the Program Director and the Dean of Graduate Studies.   
+* Reader’s response is absent or does not address the task.  
+* Reader’s response is insufficient to show that criteria are met
 
+#### 
 
-ACADEMIC INTEGRITY AND AVOIDING PLAGIARISM AT TWU
-As scholars pursuing higher education, academic integrity is a core value of the entire TWU community. Students are invited into this scholarly culture and required to abide by the principles of sound academic scholarship at TWU. This includes, but is not limited to, avoiding all forms of plagiarism and cheating in scholarly work. TWU has a strict policy on plagiarism (see academic calendar). Learning what constitutes plagiarism and avoiding it is the student's responsibility. Two resources describing plagiarism and how to avoid it have been prepared by TWU Librarian William Badke and are freely available for viewing at the URLs below:
-https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/ (Prezi presentation)
-http://bit.ly/1p00KX3   (Google Slide presentation offering more comprehensive information)
+### Platform Paper 30%
 
+This is a two part assignment. Please organize your paper with subheadings according to the following.
 
-STUDENTS WITH A DISABILITY
-Students with a disability who need assistance are encouraged to contact the Equity of Access Office upon admission to TWU to discuss their specific needs. All disabilities must be recently documented by an appropriately certified professional and include the educational impact of the disability along with recommended accommodations. Within the first two weeks of the semester, students must meet with their professors to agree on accommodations appropriate to each class. Students should follow the steps detailed by the Equity of Access Office on their website at: http://www.twu.ca/life/wellness/learningresources/disabilities-and-equity-of-access/default.html. 
+In the first part, consider teaching, learning and context.  In this section depict your ideal adult education learning environment in all its facets. Consider student outcomes, instructional climate, instructional organization, community, personal beliefs.  
 
+In the second part,  consider the administrative or supervisory aspects of your role as an adult educator. Describe the means to realize these educational goals. In what ways will you achieve the vision? What will be your routine behaviours? 
 
-CAMPUS CLOSURE AND CLASS CANCELLATION POLICY
-n/a generally for online classes but if you’re considering studying on campus, using library or other services please note:  In the event of extreme weather conditions alerts will be posted on the TWU homepage www.twu.ca and on the TWU bulletin line 604.513.2147. The University will also communicate information regarding the cancellation of classes to the following radio stations: CKNW (980 AM), CKWX (1130 AM), STAR FM (107.1 FM), PRAISE (106.5 FM) and KARI (550 AM). 
+You are encouraged to write a contextualized platform grounded in your experience and to consider this as a realistic rather than hypothetical exercise.  
 
+You will write and post a draft to your blog for peer review.  Peer reviewers will be assigned in advance.  
 
-ATTENDANCE POLICY
+### Platform Paper Grading Rubric
 
+| Criteria                       \*use as subheadings | Exceeding                  Expectations            10 | Meeting                     Expectations            8-9 | Not Yet Meeting         Expectations             up to 7 | Score |
+| :--- | :--- | :--- | :--- | :--- |
+| Ideal adult education learning                     environment | The context of            teaching and              learning is explained in  depth.  All            aspects are covered.  | The context of            teaching and               learning is identified.All aspects are         mentioned. | The context is not   mentioned. Or, some aspects are missing. |  |
+| Administrative and   supervisory aspects of the adult               educator's \(your\)       leadership role  | The means to realize educational goals    are fully explained   such that another     reader could easily   implement them in   the case you were    not able to. Routine behaviours are         described with         precision. | The means to realize educational goals    are explained.          Routine behaviours   are described. | The means to realize educational goals    are insufficiently         explained.  |  |
+| Format, Mechanics   of writing | Subheadings are       used according to     the assignment        guidelines and are   easy to find; no         errors in grammar or composition. | Subheadings are       used according to     the assignment         guidelines and are   easy to find; two or   fewer errors in          grammar or               composition. | Subheadings             according to the       assignment              guidelines are not     used;  more than        three errors in          grammar or               composition |  |
+| Resources | Listed, appropriately referenced. Follows APA formatting         protocols for writing and referencing. | Listed, appropriately referenced. Follows APA formatting         protocols for writing and referencing. | Resources are not      isted and/or not referenced.  APA is not    followed. |  |
+| Peer Review | Evidence in your        comments of            comparing draft to   rubric criteria – in    depth comments      and suggestions      provided.  Hard on   content, soft on people – evidence of      challenging peer to   think beyond or        differently about      some aspect of their submission. Kind,    specific, helpful        comments refer to    specific sections      and avoid                  generalizations.       No errors in grammar or composition. | Evidence in your        comments of            comparing draft to    rubric criteria. Hard on content, soft on  people. Kind,             specific, helpful        comments refer to     specific sections      and avoid generalizations.                          Two or fewer   errors in grammar or composition. | Not clear whether     your review included a close comparison  to the rubric.  Not    hard on content.      Comments are either not specific, unkind or too general.        More than three       errors in   grammar  or    composition |  |
 
-For online classes regular and consistent participation is expected. 
+## DETERMINATION OF FINAL GRADE
 
+* Reading Response Blog Posts 50%
+* Platform paper 50%
 
-FINAL EXAMINATIONS
-
-
-There are no final examinations in this course.
+## COURSE OUTLINE
 
 
 
 
-LATE ASSIGNMENTS POLICY
-Assignments are expected on the due date.  I give everyone a two day grace period without asking.  Requests for extension beyond this must be communicated in advance of the due date. Special circumstances may warrant additional consideration.
-Updated September 11, 2017
-Syllabus Template Approved by University Senate October 4, 2016
+
+
+
+
+
+
+
+
+

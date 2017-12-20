@@ -212,12 +212,10 @@ Remember the three important phrases:
 ## DETERMINATION OF FINAL GRADE
 
 * Reading Response 50%
-* Discussion Forums 20%
+* Blog Posts 20%
 * Adult Learning Design 30%
 
 ## COURSE OUTLINE
 
 See the file '627 Schedule'.
-
-
 
