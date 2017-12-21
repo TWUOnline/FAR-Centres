@@ -23,28 +23,28 @@ This course provides students with a practical setting in which to apply what th
 **Before the course begins students will have:**
 
 Researched and secured a practicum project.  
-Secured a mentor.   
+Secured a mentor.  
 Submitted a Project Proposal.
 
 **During the course students will:**
 
 Demonstrate the ability to create realistic, attainable Goals, Learning Objectives, and  
-Supportive Activities that will ensure successful project outcomes and demonstrate leadership development;   
-Fulfill their Project Objectives and Activities Plan \(may revise\);   
-Create a shared vision with project mentor and TWU instructor; a vision that drives their   
-passion to become a more effective leader including leading change;   
-Seek to make a positive difference in the organization of their project setting, both by fulfilling   
-an organizational need and being an effective leader;   
-Fulfill the required practicum hours for a total of 50 hours. Time spent on planning, consulting   
-with mentor and practicum instructor, and working on the Moodle requirements may be   
-logged along with time spent on the actual project process;   
-Further their knowledge on leadership by reflecting on, and responding to selected readings   
-in alternate-week Forum Discussions on Moodle;   
-Show depth of learning by integrating Certificate in Coaching and Facilitation concepts into   
-their alternate-week Reflective Journals \(template provided\) as related to their practicum experience;   
+Supportive Activities that will ensure successful project outcomes and demonstrate leadership development;  
+Fulfill their Project Objectives and Activities Plan \(may revise\);  
+Create a shared vision with project mentor and TWU instructor; a vision that drives their  
+passion to become a more effective leader including leading change;  
+Seek to make a positive difference in the organization of their project setting, both by fulfilling  
+an organizational need and being an effective leader;  
+Fulfill the required practicum hours for a total of 50 hours. Time spent on planning, consulting  
+with mentor and practicum instructor, and working on the Moodle requirements may be  
+logged along with time spent on the actual project process;  
+Further their knowledge on leadership by reflecting on, and responding to selected readings  
+in alternate-week Forum Discussions on Moodle;  
+Show depth of learning by integrating Certificate in Coaching and Facilitation concepts into  
+their alternate-week Reflective Journals \(template provided\) as related to their practicum experience;  
 Make use of their support team:  
 Meet with or communicate via email with professor as needed;  
-Meet with mentor as needed for professional and leadership guidance in order to gauge and assess the practicum experience.   
+Meet with mentor as needed for professional and leadership guidance in order to gauge and assess the practicum experience.  
 Use the Time Log and Verification of Hours responsibly
 
 **This theory to practice process will help students to**:
@@ -54,44 +54,34 @@ Use the Time Log and Verification of Hours responsibly
 * further develop professional skills and explore how these skills might relate to their values and motivations related to work; and
 * Consider the association between career interests and personal calling.
 
-
-
 ## STUDENT LEARNING OUTCOMES
 
 [https://www.twu.ca/academics/student-learning-outcomes](https://www.twu.ca/academics/student-learning-outcomes)
 
 ## REQUIRED TEXT\(S\)
 
-* Brookfield, Stephen and Preskill, S. \(2016\). The Discussion Book: 50 Great Ways to Get People Talking.  San Francisco: Jossey Bass.    \*This is an excellent resource book.  There is no assigned reading.
-* Brookfield, S. \(2013\). Powerful techniques for teaching adults. San Francisco, CA: Jossey-Bass.
-* Merriam, S. & Bierema, L. \(2013\). Adult Learning: Linking Theory and Practice. Indianapolis: Wiley.
-* Silberman, M. L., & Biech, E. \(2015\). Active training: A handbook of techniques, designs, case examples, and tips \(4th ed.\). Wiley.
-
-* Various articles will be posted on the course hub.
+none
 
 ## COURSE ACTIVITIES/REQUIREMENTS
 
 **Project Proposal**  
-Submit a working draft via email to TWU instructor before registration.   
-
+Submit a working draft via email to TWU instructor before registration.
 
 ### **Mentor Agreement Form **
 
-Due Week 1  
-  
-**Project Objectives and Activities** **Plan** **& Competencies Selection                                                                                              ** 
+Due Week 1
 
-Complete and submit a working draft by week 2 \(or week 3 at the latest\). May revise as you go.  
+**Project Objectives and Activities** **Plan** **& Competencies Selection                                                                                              **
 
+Complete and submit a working draft by week 2 \(or week 3 at the latest\). May revise as you go.
 
-### **Reflective Journals** 
+### **Reflective Journals**
 
-Alternate weeks-due dates 
+Alternate weeks-due dates
 
-### Blog Posts: Reading Responses                                                                                                                                                         
+### Blog Posts: Reading Responses
 
-Alternate weeks-due dates   
-
+Alternate weeks-due dates
 
 ### **Verification of Hours **
 
@@ -122,20 +112,6 @@ Time Log and Verification of Hours \(meets required hours\)            _\__/10
 Full marks are awarded for task completion and required hours logged and verified.
 
 ## COURSE OUTLINE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
