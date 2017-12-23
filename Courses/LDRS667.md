@@ -14,8 +14,6 @@ TRINITY WESTERN UNIVERSITY
 
 ## COURSE DESCRIPTION
 
-Learners explore theoretical foundations of learning communities, explore strategies for creating authentic learning communities, and apply strategies within a learning/coaching context.
-
 This course provides students with a practical setting in which to apply what they have learned in the Certificate in Coaching and Facilitation. Practicum must be with a supervised business, non-profit agency, social service agency, or institution related to the student’s personal interests and future plans. The course includes readings, written assignments and discussion forums.
 
 ## COURSE LEARNING OUTCOMES
@@ -35,7 +33,7 @@ Create a shared vision with project mentor and TWU instructor; a vision that dri
 passion to become a more effective leader including leading change;  
 Seek to make a positive difference in the organization of their project setting, both by fulfilling  
 an organizational need and being an effective leader;  
-Fulfill the required practicum hours for a total of 50 hours. Time spent on planning, consulting  
+Fulfill the required practicum hours for a total of 100 hours. Time spent on planning, consulting  
 with mentor and practicum instructor, and working on the Moodle requirements may be  
 logged along with time spent on the actual project process;  
 Further their knowledge on leadership by reflecting on, and responding to selected readings  
@@ -98,16 +96,14 @@ Project Proposal \(submitted prior to registration\)                _**/15
 Mentor Agreement                                    **_/10  
 Leadership Competencies Selection Form                        _**/10  
 Project Objectives and Activities Plan                        **_/15  
-Journals \(4 entries x 5\)                                 _**/40  
-**_Time Log and Verification of Hours \(meets required hours\)            _\__/10
+Journals \(5 entries x 8\)                                 _**/40    
+**\_Time Log and Verification of Hours \(meets required hours\)            _\_\_/10
 
 ```
                                    Total:             ___/100
 ```
 
 Full marks are awarded for task completion and required hours logged and verified.
-
-
 
 ## COURSE OUTLINE
 
