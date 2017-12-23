@@ -64,22 +64,20 @@ none
 
 ## COURSE ACTIVITIES/REQUIREMENTS
 
-**Project Proposal**  
+### **Project Proposal**
+
+  
 Submit a working draft via email to TWU instructor before registration.
 
 ### **Mentor Agreement Form **
 
 Due Week 1
 
-**Project Objectives and Activities** **Plan** **& Competencies Selection                                                                                              **
+### **Project Objectives and Activities** **Plan** **& Competencies Selection                                                                                              **
 
 Complete and submit a working draft by week 2 \(or week 3 at the latest\). May revise as you go.
 
-### **Reflective Journals**
-
-Alternate weeks-due dates
-
-### Blog Posts: Reading Responses
+### Blog Posts: Reflective Journals 
 
 Alternate weeks-due dates
 
@@ -102,7 +100,8 @@ Mentor Agreement                                    **_/10
 Leadership Competencies Selection Form                        _**/10  
 Project Objectives and Activities Plan                        **_/15  
 Journals \(4 entries x 5\)                                 _**/20  
-Forums \(4 entries x 5\)                                 **_/20  
+Written Report  /20**_
+
 Time Log and Verification of Hours \(meets required hours\)            _\__/10
 
 ```
