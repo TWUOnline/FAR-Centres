@@ -3,7 +3,7 @@
 The Far Centre Coaching and Facilitation Certificate is a Post Graduate Education Certificate offered by the Faculty of Education and specifically designed for the growing demand in online or hybrid learning professionals. This certification will enable learners to seek employment in the following areas:
 
 * online learning facilitation,
-* international facilitation and coaching of learners around the world,
+* ~~international ~~facilitation and coaching of **international **learners~~ around the world~~, \(suggest to reword redundancies\)
 * organizational professional development, and
 * coaching within an organizational setting.
 
@@ -14,7 +14,7 @@ This certificate can eventually ladder into a MA in Educational Studies: Interna
 #### Planning
 
 1. Plan appropriate group processes to support transformative learning.  \(KA\)
-2. Understand and apply the use of technology, time and physical space to support learning. 
+2. ~~Understand and a ~~Apply the use of technology, time and physical space to support learning. 
     \(KA\)
 
 #### Facilitating and Coaching
@@ -28,14 +28,14 @@ This certificate can eventually ladder into a MA in Educational Studies: Interna
 
 #### Knowledge
 
-1. Understand learning theory and develop the ability to identify indivdual and group learning 
+1. ~~Understand ~~**Describe various** learning theor**ies**~~y~~ and develop the ability to identify indiv**i**dual and group learning 
     needs. \(KA\)
-2. Become familiar with a variety of facilitation/coaching methods and techniques.  \(KA\)
+2. ~~Become familiar with~~ **Identify **a variety of facilitation/coaching methods and techniques.  \(KA\)
 
 #### Professionalism
 
 1. Engage in ongoing reflection and learning related to coaching and facilitation.   \(II\)
-2. Cultivate an understanding of personal values and beliefs and their impact on facilitation, 
+2. ~~Cultivate an understanding of~~ **Reflect on** personal values and beliefs and their impact on facilitation, 
     coaching and learning. \(II, SF\) 
    Revised from [https://www.iaf-world.org/site/professional/core-competencies](https://www.iaf-world.org/site/professional/core-competencies)
 
@@ -52,13 +52,13 @@ This program is well-suited for students who:
 
 ### Certificate Delivery Models
 
-The program is flexibly designed as either a traditionally offered, full time program for learners interested in preparing for a role in Far Centre Coaching and Facilitation or as a fully online program for learners who are actively working as Far Centre Coaches and Facilitators and are looking for a credential related to their roles.
+The program is flexibly designed as either a traditionally offered, full time program for learners interested in preparing for a role in Far Centre Coaching and Facilitation, or as a fully online program for learners who are actively working as Far Centre Coaches and Facilitators and are looking for a credential related to their roles.
 
 #### FOUNDATIONS \(REQUIRED\)
 
 ##### LDRS 627 Theory and Practice of Adult Education
 
-Introduction to principles and practices of adult education. Focusing on facilitation methods and instructional design, this course develops practical skills necessary to teach adults. Whether in a classroom, other formal learning context or workplace, leaders are all teachers. This course equips leaders to facilitate transformational learning experiences that are learner-centered, supportive, well-organized and based on critical inquiry in the context of practice.
+~~Introduction ~~**Learners are introduced **to principles and practices of adult education. Focusing on facilitation methods and instructional design, this course develops practical skills necessary to teach adults. Whether in a classroom, other formal learning context or workplace, leaders are all teachers. This course equips leaders to facilitate transformational learning experiences that are learner-centered, supportive, well-organized and based on critical inquiry in the context of practice.
 
 ##### LDRS 664 Creating and Leading Authentic Learning Communities
 
