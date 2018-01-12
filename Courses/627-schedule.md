@@ -11,19 +11,15 @@ Sandlin, J., Redmon Wright R., Clark C. \(2013\). Reexamining Theories of Adult 
 
 Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips_ \(4th ed.\). Hoboken, New Jersey: John Wiley & Sons \*Part 1: pages 1-12; chapters 18, 19
 
-Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.
-
-
+Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc. Chapters 1-4
 
 #### Assigned Learning Activities
 
 Post your Introduction, read syllabus, familiarize yourself with Moodle site for the course, read the ‘Welcome to Week 1’ notes
 
-Read Wang text
+Read Wang and Silberman texts
 
 Read the three articles
-
-Read Silberman text
 
 Do the T.P.I.at [http://www.teachingperspectives.com/tpi/](http://www.teachingperspectives.com/tpi/)
 
@@ -43,9 +39,7 @@ Brookfield, S. \(2013\). _Powerful techniques for teaching adults_. Chaps. 1 and
 
 Sandlin, J., Redmon Wright R., Clark C. \(2013\). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. _Adult Education Quarterly 63_:3, 14-16. \*\*Note that only certain pages have been assigned. You read part last week and focus on a different section this week.
 
-Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.
-
-
+Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.  Chapters 8, 10
 
 #### Assigned Learning Activities
 
@@ -69,7 +63,7 @@ Brookfield, S. \(2013\). _Powerful techniques for teaching adults_. \*Chapter 8
 
 Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips _\(4th ed.\). Hoboken, New Jersey: John Wiley & Sons \*Chapters 4, 5, 6
 
-Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.
+Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc. Chapers 11
 
 Powerpoint about change
 
@@ -95,7 +89,7 @@ Angelo, T. & Cross, K. \(1993\). _Classroom Assessment Techniques: A Handbook fo
 
 Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips_ \(4th ed.\). Hoboken, New Jersey: John Wiley & Sons \*Pages 13-18 and Chaps. 1 and 2; 15 and 17
 
-Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.
+Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc. Chapters 12, 16
 
 Powerpoint on Goals and Objectives
 
@@ -113,7 +107,7 @@ Submit Reading Response to Dropbox
 
 Brookfield, S. \(2013\). \_Powerful techniques for teaching adults \*\_Chap 2
 
-Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.
+Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc. Chapters 5, 17
 
 video [http://youtu.be/Y8umk4w8kB8](http://youtu.be/Y8umk4w8kB8)  Critical Thinking
 
@@ -157,6 +151,10 @@ Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniqu
 
 Snell-Herzog, P. et al \(2016\). Moral and Cultural Awareness in Emerging Adulthood: Preparing for Multi-Faith Workplaces.Religions, 7, 40.
 
+Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.  Chapter 1, 6, 7 and 15
+
+
+
 #### Assigned Learning Activities
 
 Read ‘Welcome to week 8 notes’,  Silberman text, Brookfield text
@@ -175,7 +173,7 @@ Brookfield, S. \(2013\). _Powerful techniques for teaching adults_. \*Chap 3
 
 Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips_ \(4th ed.\). Hoboken, New Jersey: John Wiley & Sons \*Chaps 3, 7, 8, 9, 10, 11, 13 \*Skim these chapters and read what is interesting and useful to your practice and context.
 
-Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.
+Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc. Chapters 13
 
 #### Assigned Work
 
@@ -198,8 +196,6 @@ Brookfield, S. \(2013\). _Powerful techniques for teaching adults_. \*Chapter 7
 Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips _\(4th ed.\). Hoboken, New Jersey: John Wiley & Sons. \*Chaps 14, 16
 
 Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.
-
-
 
 #### Assigned Learning Activities
 
