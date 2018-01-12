@@ -74,7 +74,7 @@ Learners develop self-awareness and cultural competency, developing practical st
 
 Learners explore theoretical foundations of transformational learning, theory, and coaching. Building on the theoretical foundations, learners review coaching and facilitation strategies, applying strategies within a learning/coaching context.
 
-##### LDRS 665 Creating Online Learning Environments
+##### LDRS 665 Creating and Sustaining Digital Learning Environments
 
 Learners review contemporary online learning models, including learning managements systems, domains of one’s own, and personal learning networks, Learners apply learning theory, assessment strategies, and cross-cultural competency within and online learning environment.
 
