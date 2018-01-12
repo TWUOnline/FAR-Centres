@@ -7,17 +7,19 @@ Cahalan, K. \(2016\). Integrative Learning for Practical Wisdom in Reflective Pr
 
 Collins, John B. and Daniel D. Pratt \(2011\). The Teaching Perspectives Inventory at 10 Years and 100,000 Respondents: Reliability and Validity of a Teacher Self-Report Inventory. _Adult Education Quarterly_ _61_:358-360 and 371-374. \*Note that only certain pages have been assigned
 
-Merriam, S. &  Bierema, L. \(2013\). _Adult Learning: Linking Theory and Practice_. Indianapolis: Wiley. \*Preface and Chapters 1 and 2,  pp. xi-41.
-
 Sandlin, J., Redmon Wright R., Clark C. \(2013\). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. _Adult Education Quarterly 63_:3, 3-14.  \*Note that only certain pages have been assigned
 
 Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips_ \(4th ed.\). Hoboken, New Jersey: John Wiley & Sons \*Part 1: pages 1-12; chapters 18, 19
+
+Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.
+
+
 
 #### Assigned Learning Activities
 
 Post your Introduction, read syllabus, familiarize yourself with Moodle site for the course, read the ‘Welcome to Week 1’ notes
 
-Read Merriam & Bierema text
+Read Wang text
 
 Read the three articles
 
@@ -39,13 +41,15 @@ Post your response to the Discussion Question and respond to others
 
 Brookfield, S. \(2013\). _Powerful techniques for teaching adults_. Chaps. 1 and 4
 
-Merriam, S. &  Bierema, L. \(2013\). _Adult Learning: Linking Theory and Practice_. Indianapolis: Wiley. \*Chapters 4 and 5 pp. 61-101
-
 Sandlin, J., Redmon Wright R., Clark C. \(2013\). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. _Adult Education Quarterly 63_:3, 14-16. \*\*Note that only certain pages have been assigned. You read part last week and focus on a different section this week.
+
+Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.
+
+
 
 #### Assigned Learning Activities
 
-Read Welcome to week 2 notes, Brookfield text and Merriam & Bierema text
+Read Welcome to week 2 notes, Brookfield text and Wang text
 
 Go back to Sandlin article and read pages 14-16; read Espiritu article
 
@@ -63,15 +67,15 @@ Submit Reading Response to Dropbox
 
 Brookfield, S. \(2013\). _Powerful techniques for teaching adults_. \*Chapter 8
 
-Merriam, S. &  Bierema, L. \(2013\). _Adult Learning: Linking Theory and Practice_. Indianapolis: Wiley. Chapters 6, 7, 8 and 9  pp. 104-188
-
 Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips _\(4th ed.\). Hoboken, New Jersey: John Wiley & Sons \*Chapters 4, 5, 6
+
+Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.
 
 Powerpoint about change
 
 #### Assigned Learning Activities
 
-Read ‘Welcome to Week 3’ notes, View video ‘Chaos Theory’ and read Brookfield, Merriam & Bierema texts
+Read ‘Welcome to Week 3’ notes, View video ‘Chaos Theory’ and read Brookfield, Wang texts
 
 Read through the powerpoint about Change
 
@@ -79,7 +83,7 @@ View videos: Chaos Theory and Impact on Careers and How I learned to embrace cha
 
 Read Silberman text
 
-Post your response to the Discussion Question and respond to others 
+Post your response to the Discussion Question and respond to others
 
 Complete and submit to Dropbox CIQ \(survey asking for feedback\)
 
@@ -89,19 +93,19 @@ Complete and submit to Dropbox CIQ \(survey asking for feedback\)
 
 Angelo, T. & Cross, K. \(1993\). _Classroom Assessment Techniques: A Handbook for College Teachers_, 2nd Ed. Indianapolis: Wiley.  \*see posted pdf of open source selected examples from the resource as well as short video.
 
-Merriam, S. &  Bierema, L. \(2013\). _Adult Learning: Linking Theory and Practice_. Indianapolis: Wiley. Chap 3 pp. 42-60
-
 Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips_ \(4th ed.\). Hoboken, New Jersey: John Wiley & Sons \*Pages 13-18 and Chaps. 1 and 2; 15 and 17
+
+Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.
 
 Powerpoint on Goals and Objectives
 
 #### Assigned Learning Activities
 
-Read ‘Welcome to week 5 notes’, Silberman text, Merriam & Bierema text and Cross pdf
+Read ‘Welcome to week 5 notes’, Silberman text, Wang text and Cross pdf
 
 Read through powerpoints on Goals and Objectives
 
-Post your response to the discussion question and respond to others 
+Post your response to the discussion question and respond to others
 
 Submit Reading Response to Dropbox
 
@@ -109,7 +113,7 @@ Submit Reading Response to Dropbox
 
 Brookfield, S. \(2013\). \_Powerful techniques for teaching adults \*\_Chap 2
 
-Merriam, S. &  Bierema, L. \(2013\). _Adult Learning: Linking Theory and Practice_. Indianapolis: Wiley. \*Ch. 11 pp 212-237.
+Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.
 
 video [http://youtu.be/Y8umk4w8kB8](http://youtu.be/Y8umk4w8kB8)  Critical Thinking
 
@@ -123,7 +127,7 @@ The Art of Close Reading \(Part Three\)
 
 #### Assigned Learning Activities
 
-Read ‘Welcome to week 5 notes’,  Brookfield text, Merriam & Bierema text
+Read ‘Welcome to week 5 notes’,  Brookfield text, Wang
 
 view the posted graphic and view video
 
@@ -133,7 +137,7 @@ Read www.criticalthinking.org articles
 
 Read The Power of Dialogue \(2016\)
 
-Post your response to the Discussion Question and respond to others 
+Post your response to the Discussion Question and respond to others
 
 ### Week 7 Reading and Assignment week
 
@@ -159,7 +163,7 @@ Read ‘Welcome to week 8 notes’,  Silberman text, Brookfield text
 
 Read two articles
 
-Post your response to the Discussion Question and respond to others 
+Post your response to the Discussion Question and respond to others
 
 Submit Reading Response to Dropbox
 
@@ -169,19 +173,15 @@ Submit Reading Response to Dropbox
 
 Brookfield, S. \(2013\). _Powerful techniques for teaching adults_. \*Chap 3
 
-Merriam, S. &  Bierema, L. \(2013\). _Adult Learning: Linking Theory and Practice_. Indianapolis: Wiley. \*chapter 10 pp. 190-211
-
 Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips_ \(4th ed.\). Hoboken, New Jersey: John Wiley & Sons \*Chaps 3, 7, 8, 9, 10, 11, 13 \*Skim these chapters and read what is interesting and useful to your practice and context.
+
+Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.
 
 #### Assigned Work
 
 Read ‘Welcome to week 9’ notes
 
-Read Silberman chapters
-
-Read Brookfield chapter
-
-Read Merriam & Bierema chapter
+Read Silberman, Brookfield and Wang chapters
 
 Post draft Adult Lesson Design assignment for Peer Review AND Post your response to the Discussion Question
 
@@ -195,19 +195,21 @@ American Institutes for Research, \(nd\). Promoting Teacher Effectiveness: Adult
 
 Brookfield, S. \(2013\). _Powerful techniques for teaching adults_. \*Chapter 7
 
-Merriam, S. &  Bierema, L. \(2013\). _Adult Learning: Linking Theory and Practice_. Indianapolis: Wiley. \*Chapter 12
-
 Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips _\(4th ed.\). Hoboken, New Jersey: John Wiley & Sons. \*Chaps 14, 16
+
+Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.
+
+
 
 #### Assigned Learning Activities
 
 Read ‘Welcome to week 10’ notes, Silberman chapters
 
-Read Brookfield chapter and Merriam and Bierema chapter
+Read Brookfield and Wang chapters
 
 Review draft competencies doc.
 
-Post your response to the Discussion Question in your blog and respond to others 
+Post your response to the Discussion Question in your blog and respond to others
 
 Submit to Dropbox your revised Adult Learning Design, incorporating peer feedback
 
