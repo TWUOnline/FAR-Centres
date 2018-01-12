@@ -1,4 +1,4 @@
-##### LDRS  663 Effective Coaching for Transformational Learning
+## LDRS  663 Effective Coaching for Transformational Learning
 
 Learners explore theoretical foundations of transformational learning, theory, and coaching. Building on the theoretical foundations, learners review coaching and facilitation strategies, applying strategies within a learning/coaching context.
 
@@ -13,15 +13,17 @@ On successful completion of this course, students should be able to:
 
 1. analyze the characteristics of theoretical models of teaching and learning;
 
-2. evaluate the quality of the feedback provided to students in light of relevant evidence-based research
+2. demonstrate metacognitive strategies for self-regulated learning;
 
-3. create a learning environment that supports and enhances deep approaches to learning;
+3. evaluate the quality of the feedback provided to students in light of relevant evidence-based research
 
-4. diagnose student misconceptions related to course content and take appropriate steps to provide scaffolding;
+4. create a learning environment that supports and enhances deep approaches to learning;
 
-5. evaluate the ways that interactions occur in a learning environment and develop ideas to encourage high quality educative interactions;
+5. diagnose student misconceptions related to course content and take appropriate steps to provide scaffolding;
 
-6. design activities to direct cognitive and social processes to realize learning outcomes.
+6. evaluate the ways that interactions occur in a learning environment and develop ideas to encourage high quality educative interactions;
+
+7. design activities to direct cognitive and social processes to realize learning outcomes.
 
 #### Course Learning Activities
 
