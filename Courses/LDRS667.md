@@ -29,7 +29,7 @@ This course provides students with a practical setting in which to apply what th
 * Engage in ongoing reflection and learning related to coaching and facilitation. 
 * Reflect on personal values and beliefs and their impact on facilitation, coaching and learning.
 * Demonstrate the ability to create realistic, attainable goals, learning objectives, and supportive activities that will ensure successful project outcomes and demonstrate leadership development;
-* ~~ Fulfill their Project Objectives and Activities Plan \(may revise\);~~
+* ~~Fulfill their Project Objectives and Activities Plan \(may revise\);~~
 * ~~Create a shared vision with project mentor and TWU instructor; a vision that drives their passion to become a more effective leader including leading change;~~
 * ~~Seek to make a positive difference in the organization of their project setting, both by fulfilling an organizational need and being an effective leader;~~
 * ~~Fulfill the required practicum hours for a total of 100 hours. Time spent on planning, consulting with mentor and practicum instructor, and working on the Moodle requirements may be logged along with time spent on the actual project process;~~
