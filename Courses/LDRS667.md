@@ -20,37 +20,25 @@ This course provides students with a practical setting in which to apply what th
 
 **Before the course begins students will have:**
 
-Researched and secured a practicum project.  
-Secured a mentor.  
-Submitted a Project Proposal.
+* Researched and secured a practicum project.
+* Secured a mentor.
+* Submitted a Project Proposal.
 
 **During the course students will:**
 
-Demonstrate the ability to create realistic, attainable Goals, Learning Objectives, and  
-Supportive Activities that will ensure successful project outcomes and demonstrate leadership development;  
-Fulfill their Project Objectives and Activities Plan \(may revise\);  
-Create a shared vision with project mentor and TWU instructor; a vision that drives their  
-passion to become a more effective leader including leading change;  
-Seek to make a positive difference in the organization of their project setting, both by fulfilling  
-an organizational need and being an effective leader;  
-Fulfill the required practicum hours for a total of 100 hours. Time spent on planning, consulting  
-with mentor and practicum instructor, and working on the Moodle requirements may be  
-logged along with time spent on the actual project process;  
-Further their knowledge on leadership by reflecting on, and responding to selected readings  
-in alternate-week Forum Discussions on Moodle;  
-Show depth of learning by integrating Certificate in Coaching and Facilitation concepts into  
-their alternate-week Reflective Journals \(template provided\) as related to their practicum experience;  
-Make use of their support team:  
-Meet with or communicate via email with professor as needed;  
-Meet with mentor as needed for professional and leadership guidance in order to gauge and assess the practicum experience.  
-Use the Time Log and Verification of Hours responsibly
-
-**This theory to practice process will help students to**:
-
-* show evidence of their ability to integrate what they have learned through in-class study, life experience, and past leadership applications into a structured setting by accomplishing all of the requirements of this course in relation to carrying out a project;
-* thoughtfully engage and reflect on the effects of ineffective leadership principles in contrast to effective leadership principles in order to better understand the balance as it relates to the development of leaders;
-* further develop professional skills and explore how these skills might relate to their values and motivations related to work; and
-* Consider the association between career interests and personal calling.
+* Engage in ongoing reflection and learning related to coaching and facilitation. 
+* Reflect on personal values and beliefs and their impact on facilitation, coaching and learning.
+* Demonstrate the ability to create realistic, attainable goals, learning objectives, and supportive activities that will ensure successful project outcomes and demonstrate leadership development;
+* ~~ Fulfill their Project Objectives and Activities Plan \(may revise\);~~
+* ~~Create a shared vision with project mentor and TWU instructor; a vision that drives their passion to become a more effective leader including leading change;~~
+* ~~Seek to make a positive difference in the organization of their project setting, both by fulfilling an organizational need and being an effective leader;~~
+* ~~Fulfill the required practicum hours for a total of 100 hours. Time spent on planning, consulting with mentor and practicum instructor, and working on the Moodle requirements may be logged along with time spent on the actual project process;~~
+* ~~Further their knowledge on leadership by reflecting on, and responding to selected readings in alternate-week Forum discussions on Moodle;~~
+* ~~Show depth of learning by integrating Certificate in Coaching and Facilitation concepts into their alternate-week Reflective Journals \(template provided\) as related to their practicum experience;~~
+* ~~Make use of their support team: Meet with or communicate via email with professor as needed; Meet with mentor as needed for professional and leadership guidance in order to gauge and assess the practicum experience.~~
+* ~~Use the Time Log and Verification of Hours responsibly This theory to practice process will help students to:~~
+* show evidence of their ability to integrate what they have learned through in-class study, life experience, and past leadership applications into a structured setting ~~by accomplishing all of the requirements of this course in relation to carrying out a project;~~
+* thoughtfully engage and reflect on ~~the effects of ineffective leadership principles in contrast to~~ effective leadership principles ~~in order to better understand the balance as it relates to the development of leaders;~~ 
 
 ## STUDENT LEARNING OUTCOMES
 
@@ -96,7 +84,7 @@ Project Proposal \(submitted prior to registration\)                _**/15
 Mentor Agreement                                    **_/10  
 Leadership Competencies Selection Form                        _**/10  
 Project Objectives and Activities Plan                        **_/15  
-Journals \(5 entries x 8\)                                 _**/40    
+Journals \(5 entries x 8\)                                 _**/40          
 **\_Time Log and Verification of Hours \(meets required hours\)            _\_\_/10
 
 ```
