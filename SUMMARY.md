@@ -10,5 +10,4 @@
 * [LDRS 665](Courses/ldrs-665.md)
 * [LDRS 667](Courses/LDRS667.md)
 * [MA Lead Grading Rubric](ma-lead-grading-rubric.md)
-* [Program Blueprint](program-blueprint.md)
 
