@@ -28,7 +28,7 @@ On successful completion of this course, students should be able to:
 #### Course Learning Activities
 
 | Activity | Grade | Outcomes |
-| :--- | :--- | :--- |
+ :--- | :--- | :--- |
 | Weekly blog posts | 20% \(10 @ 2% ea\) | 1-5 |
 | Learning environment critique | 20% | 1, 4 |
 | FAR Handbook Creation | 30% | 2, 5 |
