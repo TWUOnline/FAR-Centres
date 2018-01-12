@@ -35,8 +35,9 @@ On successfully completing this course, students should be able to:
 
 * Brookfield, Stephen and Preskill, S. \(2016\). The Discussion Book: 50 Great Ways to Get People Talking.  San Francisco: Jossey Bass.    \*This is an excellent resource book.  There is no assigned reading. \(This text will also be used in LDRS 664\)
 * Brookfield, S. \(2013\). Powerful techniques for teaching adults. San Francisco, CA: Jossey-Bass.
-* Merriam, S. & Bierema, L. \(2013\). Adult Learning: Linking Theory and Practice. Indianapolis: Wiley.
-* Silberman, M. L., & Biech, E. \(2015\). Active training: A handbook of techniques, designs, case examples, and tips \(4th ed.\). Wiley. \(This text will also be used in LDRS 664\)
+
+* Silberman, M. L., & Biech, E. \(2015\). Active training: A handbook of techniques, designs, case examples, and tips \(4th ed.\). Wiley. \(This text will also be used in LDRS 664\)                                                                                                                               
+* Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.
 
 * Various articles will be posted on the course hub.
 
@@ -95,7 +96,7 @@ The questions for each two week period are clearly stated in the syllabus.
 * Reader’s response is absent or does not address the task.  
 * Reader’s response is insufficient to show that criteria are met
 
-### ~~Forum Discussions~~ Blog Posts 20%
+### Blog Posts 20%
 
 * Online group discussions in this class are meant to be conversational though APA references for anything ‘borrowed’ is still expected.
 * PARTICIPATION: Each week you are required to post a reflection \(of about 3 to 4 paragraphs with references following\) to a given prompt and then, make several substantive written reply posts to others’ reflections and/or replies.
@@ -116,7 +117,8 @@ The questions for each two week period are clearly stated in the syllabus.
 * Restating what has been said \(unless there is a direct purpose in doing so\);
 * Disrespectfully disagreeing;
 * Pat answers that are not thought-provoking or do not move the dialogue forward;
-* ~~Greetings/conversation better suited for the Virtual Collegium.~~
+
+
 
 ##### Below are examples of how to stimulate your own and others’ thinking:
 
