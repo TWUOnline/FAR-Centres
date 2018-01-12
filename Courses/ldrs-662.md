@@ -2,61 +2,45 @@
 
 ### 3 semester hours, offered online, asynchronously
 
-**COURSE DESCRIPTION**
+#### **COURSE DESCRIPTION**
 
 Learners expand self-awareness and cultural competency, developing and applying practical strategies to create and facilitate culturally inclusive and respectful learning environments.
 
-**COURSE LEARNING OUTCOMES**
+#### **COURSE LEARNING OUTCOMES**
 
 On successful completion of this course, students should be able to:
 
-1.Cultivate an understanding of personal cultural values and beliefs.
+* Cultivate an understanding of personal cultural values and beliefs.
+* Evaluate the cultural-inclusivity of educational structures and processes
+* Assess culturally-inclusive theoretical perspectives.
+* Apply culturally-competent strategies in the design of culturally inclusive learning environments.
+* Apply culturally-inclusive facilitation/coaching methods.
+* Create a learning experience that includes culturally-inclusive group processes.
 
-1. Evaluate the cultural-inclusivity of educational structures and processes
-2. Assess culturally-inclusive theoretical perspectives.
-3. Apply culturally-competent strategies in the design of culturally inclusive learning environments.
-4. Apply culturally-inclusive facilitation/coaching methods.
-5. Create a learning experience that includes culturally-inclusive group processes.
+#### **PROGRAM LEARNING OUTCOMES**
 
-**PROGRAM LEARNING OUTCOMES**
+###### **Theoretical Foundation**
 
-**Theoretical Foundation**
+1. Apply learning theory to curriculum design and facilitation practices
+2. Assess individual and group learning needs. \(Knowledge and its Application\)
+3. Demonstrate effective use of a variety of facilitation/coaching methods and techniques.\(Knowledge and its Application\)
 
-1.Apply learning theory to curriculum design and facilitation practices
+###### **Designing Learning Experiences**
 
-2.Assess individual and group learning needs. \(Knowledge and its Application\)
+1. Design appropriate group processes to support transformative learning. \(Knowledge and its Application\)
+2. Effectively use technology, time and physical space to create supportive learning environments. \(Knowledge and its Application,\(Aesthetic Expression and Interpretation\)
 
-3.Demonstrate effective use of a variety of facilitation/coaching methods and techniques.\(Knowledge and its Application\)
+###### **Facilitation and Coaching**
 
+1. Create and sustain a participatory environment that supports critical and creative thinking in a
+2. variety of disciplines. \(Knowledge and its Application, Cognitive Complexity\)
+3. Demonstrate effective facilitation and coaching communication skills \(eg. active listening, developing rapport, providing feedback\) \(Inter- and Intra-personal wellness, Spiritual Formation \)
+4. Create learning environments of inclusivity, safety and trust.\(Social Responsibility and Global Engagement\)
 
+###### **Professionalism**
 
-**Designing Learning Experiences**
-
-4.Design appropriate group processes to support transformative learning. \(Knowledge and its Application\)
-
-5.Effectively use technology, time and physical space to create supportive learning environments. \(Knowledge and its Application,\(Aesthetic Expression and Interpretation\)
-
-
-
-**Facilitation and Coaching**
-
-6.Create and sustain a participatory environment that supports critical and creative thinking in a
-
-variety of disciplines. \(Knowledge and its Application, Cognitive Complexity\)
-
-7.Demonstrate effective facilitation and coaching communication skills \(eg. active listening, developing rapport, providing feedback\) \(Inter- and Intra-personal wellness, Spiritual Formation \)
-
-8.Create learning environments of inclusivity, safety and trust.\(Social Responsibility and Global Engagement\)
-
-
-
-**Professionalism**
-
-9.Engage in refelective practice related to coaching and facilitation. \(Cognitive Complexity, Inter- and Intra-personal Wellness\)
-
-10.Cultivate an understanding of personal values and beliefs and their impact on facilitation,
-
-coaching and learning. \(Inter- and Intra-personal Wellness, Spiritual Formation \)
+1. Engage in refelective practice related to coaching and facilitation. \(Cognitive Complexity, Inter- and Intra-personal Wellness\)
+2. Cultivate an understanding of personal values and beliefs and their impact on facilitation, coaching and learning. \(Inter- and Intra-personal Wellness, Spiritual Formation \)
 
 **UNIVERSITY STUDENT LEARNING OUTCOMES**
 
@@ -72,13 +56,11 @@ Mackey, E. \(2002\). The house of difference: Cultural politics and national ide
 
 Navarro, S.B., Zervas, P. Gesa, R.F. & Sampson, D.G. \(2016\). Developing teachers’ competencies for designing inclusive learning experiences. Journal of Educational Technology & Society, 19i1\), 17-27.
 
-Palos, A.L. & McGinnis, E.I. Precious Knowledge . Retrieved from http://www.pbs.org/independentlens/films/precious-knowledge/
+Palos, A.L. & McGinnis, E.I. Precious Knowledge . Retrieved from [http://www.pbs.org/independentlens/films/precious-knowledge/](http://www.pbs.org/independentlens/films/precious-knowledge/)
 
 McIntosh, P. \(1989\). White privilege: Unpacking the invisible knapsack. Peace and Freedom Magazine. Women’s International League for Peace and Freedom: Philadelphia, PA, \(pp. 10-12\).
 
 Project Implicit. Social Attitudes Assessment. Harvard University. Retrieved from:[https://implicit.harvard.edu/implicit/](https://implicit.harvard.edu/implicit/).
-
-
 
 **ADDITIONAL RESOURCES**
 
@@ -94,11 +76,9 @@ Risku, M. & Harding, L. \(2013\). Indigenous ways of knowing. In Education for T
 
 Saldivar, K. M. \(2015\). Team-based learning: A model for democratic and culturally competent 21st century public administrators. Journal of Public Affairs Education, 143-164.
 
-The Center for Organizational Cultural Competence.http://www.culturalcompetence.ca/
+The Center for Organizational Cultural Competence.[http://www.culturalcompetence.ca/](http://www.culturalcompetence.ca/)
 
 University of Ottawa. “Cultural awareness or sensitivity.” Retrieved from:[https://www.med.uottawa.ca/sim/data/Cultural\_Awareness\_e.htm](https://www.med.uottawa.ca/sim/data/Cultural_Awareness_e.htm)
-
-
 
 **COURSE LEARNING ACTIVITIES**
 
@@ -108,8 +88,6 @@ University of Ottawa. “Cultural awareness or sensitivity.” Retrieved from:[h
 | Critical Analysis of Learning Activity | 3-5 pages |
 | Culturally Inclusive Theoretical Perspective | 10 pages |
 | Culturally Inclusive Learning Design | 10 pages |
-
-
 
 **ASSESSMENT of LEARNING \(grade\)**
 
@@ -135,8 +113,6 @@ University of Ottawa. “Cultural awareness or sensitivity.” Retrieved from:[h
 | **Unit 8** | How would a coach facilitate culturally-inclusive group processes? | Read: Gay, G. \(2010\). Chapter 6. | Blog 8: Selected methods to use to facilitate ulturally inclusive group processes | 6 |
 | **Unit 9** | How do I use my own cultural identity awareness to support culturally-inclusive learning? | Read: Gay, G. \(2010\). Chapter 7. | Blog 9: outline of Theoretical perspective**Assignment:**Culturally Inclusive Theoretical Perspective | 6 |
 | **Unit 10** | What questions do I have at the end of this course to guide my future learning? |  | Blog 10: How the learning experience I designed is culturally inclusive**Assignment:**Culturally Inclusive Theoretical Perspective |  |
-
-
 
 
 
