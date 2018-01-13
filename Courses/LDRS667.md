@@ -14,7 +14,7 @@ TRINITY WESTERN UNIVERSITY
 
 ## COURSE DESCRIPTION
 
-This course provides students with a practical setting in which to apply what they have learned in the Certificate in Coaching and Facilitation. Practicum must be with a supervised business, non-profit agency, social service agency, or institution related to the student’s personal interests and future plans. The course includes readings, written assignments and discussion forums.
+This course provides students with a practical setting in which to apply what they have learned in the Certificate in Coaching and Facilitation. Practicum must be with a supervised business, non-profit agency, social service agency, or institution related to the student’s personal interests and future plans. ~~The course includes readings, written assignments and discussion forums.~~
 
 ## COURSE LEARNING OUTCOMES
 
@@ -84,7 +84,7 @@ Project Proposal \(submitted prior to registration\)                _**/15
 Mentor Agreement                                    **_/10  
 Leadership Competencies Selection Form                        _**/10  
 Project Objectives and Activities Plan                        **_/15  
-Journals \(5 entries x 8\)                                 _**/40          
+Journals \(5 entries x 8\)                                 _**/40            
 **\_Time Log and Verification of Hours \(meets required hours\)            _\_\_/10
 
 ```
