@@ -14,7 +14,7 @@
 
 ## COURSE DESCRIPTION
 
-Introduction to principles and practices of adult education. Focusing on facilitation methods and instructional design, this course develops practical skills necessary to teach adults. Whether in a classroom, other formal learning context or workplace, leaders are all teachers. This course equips leaders to facilitate transformational learning experiences that are learner-centered, supportive, well-organized and based on critical inquiry in the context of practice.
+**Learners will be introduced** ~~Introduction ~~to principles and practices of adult education. Focusing on facilitation methods and instructional design, this course develops practical skills necessary to teach adults. Whether in a classroom, other formal learning context or workplace, **the class will explore how** leaders are all teachers. This course equips leaders to facilitate transformational learning experiences that are learner-centered, supportive, well-organized and based on critical inquiry in the context of practice.
 
 ## COURSE LEARNING OUTCOMES
 
@@ -36,7 +36,8 @@ On successfully completing this course, students should be able to:
 * Brookfield, Stephen and Preskill, S. \(2016\). The Discussion Book: 50 Great Ways to Get People Talking.  San Francisco: Jossey Bass.    \*This is an excellent resource book.  There is no assigned reading. \(This text will also be used in LDRS 664\)
 * Brookfield, S. \(2013\). Powerful techniques for teaching adults. San Francisco, CA: Jossey-Bass.
 
-* Silberman, M. L., & Biech, E. \(2015\). Active training: A handbook of techniques, designs, case examples, and tips \(4th ed.\). Wiley. \(This text will also be used in LDRS 664\)                                                                                                                               
+* Silberman, M. L., & Biech, E. \(2015\). Active training: A handbook of techniques, designs, case examples, and tips \(4th ed.\). Wiley. \(This text will also be used in LDRS 664\)
+
 * Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.
 
 * Various articles will be posted on the course hub.
@@ -117,8 +118,6 @@ The questions for each two week period are clearly stated in the syllabus.
 * Restating what has been said \(unless there is a direct purpose in doing so\);
 * Disrespectfully disagreeing;
 * Pat answers that are not thought-provoking or do not move the dialogue forward;
-
-
 
 ##### Below are examples of how to stimulate your own and others’ thinking:
 
