@@ -22,7 +22,7 @@ This course provides students with a practical setting in which to apply what th
 * Secured a mentor.
 * Submitted a Project Proposal.
 
-##### **During the course students will:**
+On successful completion of this course, students should be able to:
 
 * Engage in ongoing reflection and learning related to coaching and facilitation. 
 * Reflect on personal values and beliefs and their impact on facilitation, coaching and learning.
@@ -67,8 +67,6 @@ Students will be evaluated on a Pass/Fail basis according to the course learning
 All assignments be submitted electronically. Check APA guidelines for required format. Hard copy submissions are not accepted. Adhering to DUE DATES is important.
 
 Assignments are expected to meet academic standards in regard to relevance of content, organization and structure, integration of course reading material, practical application of leadership principles, and sophistication of writing style i.e. proper paragraph and sentence structure, grammar, punctuation, and spelling. \(Note: APA format is required.\)
-
-
 
 | Requirement | Value |
 | :--- | :--- |
