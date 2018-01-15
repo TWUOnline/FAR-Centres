@@ -25,7 +25,7 @@ On successfully completing this course, students should be able to:
 3. Categorize and appraise various approaches to adult learning.
 4. Assess the strengths and weaknesses of various approaches to adult learning.
 5. Categorize and appraise various approaches to adult learning assessment.
-6. Based on your synthesis of perspectives, themes and ideas design one lesson or session that will be useful to you in your work.
+6. Based on your synthesis of perspectives, themes and ideas, design one lesson or session that will be useful to you in your work.
 
 ## STUDENT LEARNING OUTCOMES
 
