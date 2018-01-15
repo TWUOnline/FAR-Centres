@@ -58,7 +58,7 @@ The program is flexibly designed as either a traditionally offered, full time pr
 
 ##### LDRS 627 Theory and Practice of Adult Education
 
-Learners are introduced** **to principles and practices of adult education. Focusing on facilitation methods and instructional design, this course develops practical skills necessary to teach adults. Whether in a classroom, other formal learning context or workplace, **the class will explore how **leaders are all teachers. This course equips leaders to facilitate transformational learning experiences that are learner-centered, supportive, well-organized and based on critical inquiry in the context of practice.
+Learners are introduced** **to principles and practices of adult education. Focusing on facilitation methods and instructional design, this course develops practical skills necessary to teach adults. Whether in a classroom, other formal learning context or workplace, the class will explore how** **leaders are all teachers. This course equips leaders to facilitate transformational learning experiences that are learner-centered, supportive, well-organized and based on critical inquiry in the context of practice.
 
 ##### LDRS 664 Creating and Leading Authentic Learning Communities
 
@@ -82,7 +82,7 @@ Learners review contemporary online learning models, including learning manageme
 
 ##### LDRS 667 Practicum \(Personal and Professional Practice and Reflection\)
 
-This course provides students with a practical setting in which to apply what they have learned in the Certificate in Coaching and Facilitation. Using reflective practice, learners apply learning theory, assessment theory, facilitation practices, and cross-cultural competency, in a professional learning facilitation setting. The practicum must be with a supervised business, non-profit agency, social service agency, or institution related to the student’s personal interests and future plans.
+This course provides students with a practical setting in which to apply what they have learned in the Certificate in Coaching and Facilitation. Using reflective practice, learners apply learning theory, assessment theory, facilitation practices, and cross-cultural competency, in a professional learning facilitation setting. The practicum must be with a supervised business, non-profit agency, social service agency, or institution related to the student’s personal interests and future plans.
 
 ##### Current courses at TWU – quick scan
 
