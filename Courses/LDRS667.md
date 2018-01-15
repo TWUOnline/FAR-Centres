@@ -68,16 +68,7 @@ All assignments be submitted electronically. Check APA guidelines for required f
 
 Assignments are expected to meet academic standards in regard to relevance of content, organization and structure, integration of course reading material, practical application of leadership principles, and sophistication of writing style i.e. proper paragraph and sentence structure, grammar, punctuation, and spelling. \(Note: APA format is required.\)
 
-Requirement                                               Pass/Fail Value
 
-                /15  
-Mentor Agreement                                    /10  
-Leadership Competencies Selection Form                        /10  
-Project Objectives and Activities Plan                        /15  
-Journals \(5 entries x 8\)                                 \_/40                  
-Time Log and Verification of Hours \(meets required hours\)            /10
-
-Total:             \_/100
 
 | Requirement | Value |
 | :--- | :--- |
