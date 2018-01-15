@@ -1,5 +1,3 @@
-# TRINITY WESTERN UNIVERSITY
-
 ### Certificate in Coaching and Facilitation and Master of Arts in Leadership
 
 ### Course Syllabus
@@ -12,11 +10,11 @@
 | Office Hours | NA | Times | Asynchronous |
 | Place | Online | Prerequisites | None |
 
-## COURSE DESCRIPTION
+#### COURSE DESCRIPTION
 
 Learners will be introduced to principles and practices of adult education. Focusing on facilitation methods and instructional design, this course develops practical skills necessary to teach adults. Whether in a classroom, other formal learning context or workplace, the class will explore how leaders are all teachers. This course equips leaders to facilitate transformational learning experiences that are learner-centered, supportive, well-organized and based on critical inquiry in the context of practice.
 
-## COURSE LEARNING OUTCOMES
+#### COURSE LEARNING OUTCOMES
 
 On successfully completing this course, students should be able to:
 
@@ -27,11 +25,11 @@ On successfully completing this course, students should be able to:
 5. Categorize and appraise various approaches to adult learning assessment.
 6. Based on your synthesis of perspectives, themes and ideas, design one lesson or session that will be useful to you in your work.
 
-## STUDENT LEARNING OUTCOMES
+#### STUDENT LEARNING OUTCOMES
 
 [https://www.twu.ca/academics/student-learning-outcomes](https://www.twu.ca/academics/student-learning-outcomes)
 
-## REQUIRED TEXT\(S\)
+#### REQUIRED TEXT\(S\)
 
 * Brookfield, Stephen and Preskill, S. \(2016\). The Discussion Book: 50 Great Ways to Get People Talking.  San Francisco: Jossey Bass.    \*This is an excellent resource book.  There is no assigned reading. \(This text will also be used in LDRS 664\)
 * Brookfield, S. \(2013\). Powerful techniques for teaching adults. San Francisco, CA: Jossey-Bass.
@@ -42,17 +40,17 @@ On successfully completing this course, students should be able to:
 
 * Various articles will be posted on the course hub.
 
-## COURSE ACTIVITIES/REQUIREMENTS
+#### COURSE ACTIVITIES/REQUIREMENTS
 
-### Bi-weekly Reading Responses 50%
+##### Bi-weekly Reading Responses 50%
 
 Based on the assigned reading, you are encouraged to carefully read and think about the course material.
 
 The questions for each two week period are clearly stated in the syllabus.
 
-#### LDRS Reading Response Rubric
+##### LDRS Reading Response Rubric
 
-#### 8-10
+###### 8-10
 
 * Reader identifies information from the assigned reading that resonates or strikes them in a personal way and clearly explains the reason for their choices.
 * The responses show superior depth of knowledge on the topic, clear synthesis and evaluation of the content read, and provide depth, breath, or new insight to the topic.
@@ -62,7 +60,7 @@ The questions for each two week period are clearly stated in the syllabus.
 * Reader identifies points of view and implications in the text and critically analyses their own response to these.
 * No errors in grammar or composition. Page restrictions and format followed. Submitted on time.
 
-#### 5-7
+###### 5-7
 
 * Reader identifies information from the assigned reading that resonates or strikes them in a personal way but the reason for their choices is not completely or clearly explained.  
 * The responses show adequate depth of knowledge on the topic, a good synthesis but may lack in evaluation of the content read, and providing new insight to  
@@ -74,7 +72,7 @@ The questions for each two week period are clearly stated in the syllabus.
 * Reader does not identify points of view and implications in the text or critically analyze their own response to these.  
 * Fewer than 3 errors in grammar or composition. Page restrictions and format not followed.  Not submitted.
 
-#### 2-4
+###### 2-4
 
 * Reader demonstrates insufficient understanding of the chosen concepts.  
 * The responses show inadequate depth of knowledge on the topic, a synthesis that misses key concepts, and is not a critical analysis.  
@@ -84,7 +82,7 @@ The questions for each two week period are clearly stated in the syllabus.
 * Reader does not identify points of view and implications in the text or critically analyze their own response to these.  
 * More than 3 errors in grammar or composition. Page restrictions and format followed. Not submitted on time.  
 
-#### 1
+###### 1
 
 * Reader demonstrates little or no understanding of the text; may be inaccurate.  
 * The responses are superficial and do not include critical analysis.  
@@ -92,12 +90,12 @@ The questions for each two week period are clearly stated in the syllabus.
 * Reader’s response is insufficient to show that criteria are met.  
 * More than 5 errors in grammar or composition. Page restrictions and format followed. Not submitted on time.
 
-#### 0
+###### 0
 
 * Reader’s response is absent or does not address the task.  
 * Reader’s response is insufficient to show that criteria are met
 
-### Blog Posts 20%
+##### Blog Posts 20%
 
 * Online group discussions in this class are meant to be conversational though APA references for anything ‘borrowed’ is still expected.
 * PARTICIPATION: Each week you are required to post a reflection \(of about 3 to 4 paragraphs with references following\) to a given prompt and then, make several substantive written reply posts to others’ reflections and/or replies.
@@ -133,7 +131,7 @@ The questions for each two week period are clearly stated in the syllabus.
 * I'm wondering if...
 * Do you think...
 
-#### Evaluation Rubric:
+##### Evaluation Rubric:
 
 * The original posting is of high quality, showing depth of knowledge on the topic.  The post ends with an open-ended question to advance the discussion.  
 * Replies occur under two or more different threads, other than that belonging to the student. Replies are posted on more than one day during the posting period.  
@@ -194,20 +192,20 @@ Remember the three important phrases:
 >
 > “I wonder….”
 
-### LDRS 627 Adult Learning Design Assignment Grading Rubric
+#### LDRS 627 Adult Learning Design Assignment Grading Rubric
 
-| Criteria | Exceeding Expectations 3 | Meeting Expectations 2 | Not Yet Meeting Expectations 1 | Score |
-| :--- | :--- | :--- | :--- | :--- |
-| Institutional Context \(Where?\) | The location of the proposed adult learning session is identified in sufficient depth so that contextual factors that inform the design are clear. | The location of the proposed adult learning session is identified but there is insufficient information about contextual factors that impact design. | The location of the proposed adult learning session is not identified. |  |
-| Intents \(Why?\) Problem Identification | The purpose or reason that the learning is needed is clearly explained in sufficient depth.  The problem that the training seeks to remedy is identified clearly. | Purpose or reason that the learning is needed is explained but there is insufficient depth about the problem. | The purpose or reason for the learning is not identified. The problem that the training seeks to remedy is not identified. |  |
-| Intents \(Why?\) Learner Analysis | A detailed profile of the learners or participants in the training is given in sufficient depth that anyone else reading the plan can discern whether it would meet needs of learners in another context. | A profile of the learners or participants in the training is given. | A profile of the learners or participants is not given. |  |
-| Intents \(Why?\)  Learning Outcomes/Goals and Objectives | Learning outcomes, goals and objectives are clearly written.  The A,B,C,D format is followed for all goals. Goals and objectives show clear alignment with principles of andragogy. | Learning outcomes, goals and objectives are evident in the learning design.  The ABCD format is followed but there are some inconsistencies. Goals or objectives generally align with principles of andragogy. | Learning outcomes, goals or objectives not in the learning design.  The ABCD format is not followed.  One or more goals or objectives do not align with principles of andragogy. |  |
-| Intents \(Why?\) Integration of Transformational Servant Leadership and Values Based Leadership. | The learning design carefully considers and incorporates TSL and VBL in every activity. | The learning design addresses TSL and VBL. | TSL and VBL are not mentioned or not developed sufficiently. |  |
-| Learning Activities | Information is extremely well organized. The format is very clear and consistent.  The activities are clearly informed by principles of andragogy, are very well described so that anyone could facilitate them, and the sequence of activities makes sense. | Information is organized and synthesized.  The format is clear and consistent. The activities are generally informed by principles of andragogy and explained but may require more detail.  The sequence of activities generally makes sense. | Information is partially organized. Format and is inconsistent. May be confusing to follow meaning. Insufficient detail. |  |
-| Format, Mechanics of writing | Subheadings are used according to the assignment guidelines and are easy to find; no errors in grammar or composition; One lesson or session of 3-6 hours length – clear timeline; easy to follow | Subheadings are used according to the assignment guidelines and are easy to find; One lesson or session of 3-6 hours length but timeline is unclear or not easy to follow; two or fewer errors in grammar or composition. | Subheadings according to the assignment guidelines are not used; Session is more than one session, shorter than 3 hours or more than 6 hours; more than three errors in grammar or composition |  |
-| Resources | Clearly described, listed, appropriately referenced. Follows APA formatting protocols for writing and referencing. | Resources are listed and referenced though may require more description.  Follows APA formatting protocols for writing and referencing. | Resources are not listed and/or not referenced.  APA is not followed. |  |
-| Assessment | Clearly described system for collecting information about students’ abilities, characteristics, skills, understanding and knowledge; less emphasis on summative testing and more emphasis on formative assessment; gathering data while teaching and learning are occurring. | Evidence of a system for collecting information about students’ abilities, characteristics, skills, understanding and knowledge – may require more detail or description.  Less emphasis on summative testing and more emphasis on formative assessment; gathering data while teaching and learning are occurring. | Assessment is not evident; there is more summative than formative assessment and/or data is gathered only at the end of the session and not during the session. |  |
-| Peer Review | Evidence in your comments of comparing draft to rubric criteria – in depth comments and suggestions provided.  Hard on content, soft on people – evidence of challenging peer to think beyond or differently about some aspect of their submission. Kind, specific, helpful comments refer to specific sections and avoid generalizations. No errors in grammar or composition. | Evidence in your comments of comparing draft to rubric criteria. Hard on content, soft on people. Kind, specific, helpful comments refer to specific sections and avoid generalizations. Two or fewer errors in grammar or composition. | Not clear whether your review included a close comparison to the rubric.  Not hard on content.  Comments are either not specific, unkind or too general. More than three errors in grammar or composition |  |
+| Criteria | Exceeding Expectations 3 | Meeting Expectations 2 | Not Yet Meeting Expectations 1 | 
+| :--- | :--- | :--- | :--- |
+| Institutional Context \(Where?\) | The location of the proposed adult learning session is identified in sufficient depth so that contextual factors that inform the design are clear. | The location of the proposed adult learning session is identified but there is insufficient information about contextual factors that impact design. | The location of the proposed adult learning session is not identified. |
+| Intents \(Why?\) Problem Identification | The purpose or reason that the learning is needed is clearly explained in sufficient depth.  The problem that the training seeks to remedy is identified clearly. | Purpose or reason that the learning is needed is explained but there is insufficient depth about the problem. | The purpose or reason for the learning is not identified. The problem that the training seeks to remedy is not identified. |
+| Intents \(Why?\) Learner Analysis | A detailed profile of the learners or participants in the training is given in sufficient depth that anyone else reading the plan can discern whether it would meet needs of learners in another context. | A profile of the learners or participants in the training is given. | A profile of the learners or participants is not given. |
+| Intents \(Why?\)  Learning Outcomes/Goals and Objectives | Learning outcomes, goals and objectives are clearly written.  The A,B,C,D format is followed for all goals. Goals and objectives show clear alignment with principles of andragogy. | Learning outcomes, goals and objectives are evident in the learning design.  The ABCD format is followed but there are some inconsistencies. Goals or objectives generally align with principles of andragogy. | Learning outcomes, goals or objectives not in the learning design.  The ABCD format is not followed.  One or more goals or objectives do not align with principles of andragogy. |
+| Intents \(Why?\) Integration of Transformational Servant Leadership and Values Based Leadership. | The learning design carefully considers and incorporates TSL and VBL in every activity. | The learning design addresses TSL and VBL. | TSL and VBL are not mentioned or not developed sufficiently. |
+| Learning Activities | Information is extremely well organized. The format is very clear and consistent.  The activities are clearly informed by principles of andragogy, are very well described so that anyone could facilitate them, and the sequence of activities makes sense. | Information is organized and synthesized.  The format is clear and consistent. The activities are generally informed by principles of andragogy and explained but may require more detail.  The sequence of activities generally makes sense. | Information is partially organized. Format and is inconsistent. May be confusing to follow meaning. Insufficient detail. |
+| Format, Mechanics of writing | Subheadings are used according to the assignment guidelines and are easy to find; no errors in grammar or composition; One lesson or session of 3-6 hours length – clear timeline; easy to follow | Subheadings are used according to the assignment guidelines and are easy to find; One lesson or session of 3-6 hours length but timeline is unclear or not easy to follow; two or fewer errors in grammar or composition. | Subheadings according to the assignment guidelines are not used; Session is more than one session, shorter than 3 hours or more than 6 hours; more than three errors in grammar or composition |
+| Resources | Clearly described, listed, appropriately referenced. Follows APA formatting protocols for writing and referencing. | Resources are listed and referenced though may require more description.  Follows APA formatting protocols for writing and referencing. | Resources are not listed and/or not referenced.  APA is not followed. |
+| Assessment | Clearly described system for collecting information about students’ abilities, characteristics, skills, understanding and knowledge; less emphasis on summative testing and more emphasis on formative assessment; gathering data while teaching and learning are occurring. | Evidence of a system for collecting information about students’ abilities, characteristics, skills, understanding and knowledge – may require more detail or description.  Less emphasis on summative testing and more emphasis on formative assessment; gathering data while teaching and learning are occurring. | Assessment is not evident; there is more summative than formative assessment and/or data is gathered only at the end of the session and not during the session. |
+| Peer Review | Evidence in your comments of comparing draft to rubric criteria – in depth comments and suggestions provided.  Hard on content, soft on people – evidence of challenging peer to think beyond or differently about some aspect of their submission. Kind, specific, helpful comments refer to specific sections and avoid generalizations. No errors in grammar or composition. | Evidence in your comments of comparing draft to rubric criteria. Hard on content, soft on people. Kind, specific, helpful comments refer to specific sections and avoid generalizations. Two or fewer errors in grammar or composition. | Not clear whether your review included a close comparison to the rubric.  Not hard on content.  Comments are either not specific, unkind or too general. More than three errors in grammar or composition |
 
 ## DETERMINATION OF FINAL GRADE
 

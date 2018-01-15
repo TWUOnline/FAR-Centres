@@ -1,5 +1,3 @@
-# TRINITY WESTERN UNIVERSITY
-
 ### Certificate in Coaching and Facilitation and Master of Arts in Leadership
 
 ### Course Syllabus
@@ -12,7 +10,7 @@
 | Office Hours | NA | Times | Asynchronous |
 | Place | Online | Prerequisites | None |
 
-## Course Description\*
+#### Course Description\*
 
 Learners will develop the digital and learning literacies to maximise their ability to create and sustain online communities of inquiry in contemporary digital learning environments for multi-cultural higher education.
 
@@ -20,7 +18,7 @@ Learners will develop the academic skills to discern the credibility, accuracy, 
 
 ~~Learners review contemporary online learning models, including digital learning environments, domains of one’s own, and personal learning networks, Learners apply learning theory, assessment strategies, and cross-cultural competency within an online learning environment.~~
 
-## Course Learning Outcomes\*
+#### Course Learning Outcomes\*
 
 On successfully completing this course, students should be able to:
 
@@ -33,11 +31,11 @@ On successfully completing this course, students should be able to:
 * Demonstrate how to participate legally and ethically in an online digital learning community
 * Demonstrate developing ability to engage in the 5R rights of open educational resources, 
 
-## TWU Student Learning Outcomes
+#### TWU Student Learning Outcomes
 
 [https://www.twu.ca/academics/student-learning-outcomes](https://www.twu.ca/academics/student-learning-outcomes)
 
-## Required Resources
+#### Required Resources
 
 Bates, T. \(2015\). Teaching in a digital age. \[electronic resource\]. Victoria : BCcampus, BC Open Textbook Project, 2015. Retrieved from [https://open.bccampus.ca/find-open-textbooks/?uuid=da50f5f1-bbc6-481e-a359-e73007c66932](https://open.bccampus.ca/find-open-textbooks/?uuid=da50f5f1-bbc6-481e-a359-e73007c66932)
 
@@ -45,7 +43,7 @@ Campbell, G. \(2009\). A Personal Cyberinfrastructure. EDUCAUSE Review, 44\(5\),
 
 Vaughan, N., Cleveland-Innes, M., & Garrison, D. \(2013\). Teaching in blended learning environments: Creating and sustaining communities of inquiry. Athabasca: AU Press. Retrieved from [http://www.aupress.ca/index.php/books/120229](http://www.aupress.ca/index.php/books/120229)
 
-## Course Assignments
+#### Course Assignments
 
 * daily try 20/50
 * online learners' bill of rights 15/15
@@ -58,7 +56,7 @@ Vaughan, N., Cleveland-Innes, M., & Garrison, D. \(2013\). Teaching in blended l
   * Media Literacy
   * Personal Cyberinfrastructure
 
-## Topics
+#### Topics
 
 \*[Adapted from and used according to the original Creative Commons Attribution License](https://oeru.org/oeru-partners/otago-polytechnic/learning-in-a-digital-age)
 

@@ -42,11 +42,11 @@ On successful completion of this course, students should be able to:
 1. Engage in refelective practice related to coaching and facilitation. \(Cognitive Complexity, Inter- and Intra-personal Wellness\)
 2. Cultivate an understanding of personal values and beliefs and their impact on facilitation, coaching and learning. \(Inter- and Intra-personal Wellness, Spiritual Formation \)
 
-**UNIVERSITY STUDENT LEARNING OUTCOMES**
+#### **UNIVERSITY STUDENT LEARNING OUTCOMES**
 
 [https://www.twu.ca/academics/student-learning-outcomes](https://www.twu.ca/academics/student-learning-outcomes)
 
-**REQUIRED TEXTS**
+#### **REQUIRED TEXTS**
 
 Cochrane, S. V., Chhabra, M., & Jones, M. A. \(Eds.\). \(2017\). Culturally Responsive Teaching and Reflection in Higher Education: Promising Practices from the Cultural Literacy Curriculum Institute. Taylor & Francis.
 
@@ -62,7 +62,7 @@ McIntosh, P. \(1989\). White privilege: Unpacking the invisible knapsack. Peace 
 
 Project Implicit. Social Attitudes Assessment. Harvard University. Retrieved from:[https://implicit.harvard.edu/implicit/](https://implicit.harvard.edu/implicit/).
 
-**ADDITIONAL RESOURCES**
+#### **ADDITIONAL RESOURCES**
 
 Castellon, A. \(2017\). Indigenous integration: 101+ lesson ideas for secondary and college teachers.
 
@@ -80,7 +80,7 @@ The Center for Organizational Cultural Competence.[http://www.culturalcompetence
 
 University of Ottawa. “Cultural awareness or sensitivity.” Retrieved from:[https://www.med.uottawa.ca/sim/data/Cultural\_Awareness\_e.htm](https://www.med.uottawa.ca/sim/data/Cultural_Awareness_e.htm)
 
-**COURSE LEARNING ACTIVITIES**
+#### **COURSE LEARNING ACTIVITIES**
 
 | Blog Posts | 1 per unit \(10 total\) |
 | :--- | :--- |
@@ -89,7 +89,7 @@ University of Ottawa. “Cultural awareness or sensitivity.” Retrieved from:[h
 | Culturally Inclusive Theoretical Perspective | 10 pages |
 | Culturally Inclusive Learning Design | 10 pages |
 
-**ASSESSMENT of LEARNING \(grade\)**
+#### **ASSESSMENT of LEARNING \(grade\)**
 
 | **Learning Activity** | **Grade** | **Learning Outcome** |
 | :--- | :--- | :--- |
@@ -99,7 +99,7 @@ University of Ottawa. “Cultural awareness or sensitivity.” Retrieved from:[h
 | Culturally Inclusive Theoretical Perspective | 20% | 3 |
 | Culturally Inclusive Learning Design | 20% | 4-6 |
 
-**COURSE OUTLINE**
+#### **COURSE OUTLINE**
 
 | **UNIT** | **Guiding Inquiry** | **Learning Activities** | **LEARNING ASSESSMENT** | **Learning Outcome** |
 | :--- | :--- | :--- | :--- | :--- |

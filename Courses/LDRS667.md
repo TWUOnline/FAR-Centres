@@ -1,6 +1,6 @@
-## Certificate in Coaching and Facilitation and Master of Arts in Leadership
+### Certificate in Coaching and Facilitation and Master of Arts in Leadership
 
-## Course Syllabus
+### Course Syllabus
 
 #### LDRS 667 Practicum \(Personal and Professional Practice and Reflection\) \(3 sem. hr.\)
 
@@ -10,11 +10,11 @@
 | Office Hours | NA | Times | Asynchronous |
 | Place | Online | Prerequisites LDRS 627,     664, 662, one of: 663, 664 or 665 | None |
 
-### COURSE DESCRIPTION
+#### COURSE DESCRIPTION
 
 This course provides students with a practical setting in which to apply what they have learned in the Certificate in Coaching and Facilitation. Using reflective practice, learners apply learning theory, assessment theory, facilitation practices, and cross-cultural competency, in a professional learning facilitation setting. The practicum must be with a supervised business, non-profit agency, social service agency, or institution related to the student’s personal interests and future plans.
 
-### COURSE LEARNING OUTCOMES
+#### COURSE LEARNING OUTCOMES
 
 ##### **Before the course begins students will have:**
 
@@ -30,15 +30,15 @@ On successful completion of this course, students should be able to:
 * show evidence of their ability to integrate what they have learned through in-class study, life experience, and past leadership applications into a structured setting
 * thoughtfully engage and reflect on effective leadership principles.
 
-### STUDENT LEARNING OUTCOMES
+#### STUDENT LEARNING OUTCOMES
 
 [https://www.twu.ca/academics/student-learning-outcomes](https://www.twu.ca/academics/student-learning-outcomes)
 
-### REQUIRED TEXT\(S\)
+#### REQUIRED TEXT\(S\)
 
 none
 
-### COURSE ACTIVITIES/REQUIREMENTS
+#### COURSE ACTIVITIES/REQUIREMENTS
 
 ##### **Project Proposal**
 
@@ -60,7 +60,7 @@ Alternate weeks-due dates
 
 Due last week of practicum
 
-### DETERMINATION OF FINAL GRADE
+#### DETERMINATION OF FINAL GRADE
 
 Students will be evaluated on a Pass/Fail basis according to the course learning outcomes noted above. Students must complete the required contractual hours, submit all required forms, and complete 80% of the required assignments to receive a pass. Course requirements are given a percentage value to total 100% so as to assess the 80% completion.
 
@@ -79,7 +79,7 @@ Assignments are expected to meet academic standards in regard to relevance of co
 
 Full marks are awarded for task completion and required hours logged and verified.
 
-## COURSE OUTLINE
+#### COURSE OUTLINE
 
 
 

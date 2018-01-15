@@ -1,4 +1,4 @@
-## LDRS  663 Effective Coaching for Transformational Learning
+### LDRS  663 Effective Coaching for Transformational Learning
 
 Learners explore theoretical foundations of transformational learning, theory, and coaching. Building on the theoretical foundations, learners review coaching and facilitation strategies, applying strategies within a learning/coaching context.
 
@@ -28,7 +28,7 @@ On successful completion of this course, students should be able to:
 #### Course Learning Activities
 
 | Activity | Grade | Outcomes |
- :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | Weekly blog posts | 20% \(10 @ 2% ea\) | 1-5 |
 | Learning environment critique | 20% | 1, 4 |
 | FAR Handbook Creation | 30% | 2, 5 |
