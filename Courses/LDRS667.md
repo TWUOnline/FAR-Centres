@@ -85,7 +85,7 @@ Mentor Agreement                                    **_/10
 Leadership Competencies Selection Form                        _**/10  
 Project Objectives and Activities Plan                        **_/15  
 Journals \(5 entries x 8\)                                 _**/40            
-**\_Time Log and Verification of Hours \(meets required hours\)            _\_\_/10
+**Time Log and Verification of Hours \(meets required hours\)            /10
 
 
 Total:             ___/100
