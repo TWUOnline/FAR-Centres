@@ -82,7 +82,7 @@ Learners review contemporary online learning models, including learning manageme
 
 ##### LDRS 667 Practicum \(Personal and Professional Practice and Reflection\)
 
-Using reflective practice, learners apply learning theory, assessment theory, facilitation practices, and cross-cultural competency, in a professional learning facilitation setting.
+This course provides students with a practical setting in which to apply what they have learned in the Certificate in Coaching and Facilitation. Using reflective practice, learners apply learning theory, assessment theory, facilitation practices, and cross-cultural competency, in a professional learning facilitation setting. The practicum must be with a supervised business, non-profit agency, social service agency, or institution related to the student’s personal interests and future plans.
 
 ##### Current courses at TWU – quick scan
 
