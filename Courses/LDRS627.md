@@ -175,7 +175,7 @@ Your design document will utilize the following organizational structure: - use 
 
 Use the course textbooks to guide your thinking and structure the content within each of the above sections.
 
-~~A draft of your learning design is to be posted on Moodle Feb. 28~~.  Peer review pairing will be given in advance.
+Peer review pairing will be given in advance.
 
 Your peer review should be collegial and address issues like grammar and structure as well as the quality of arguments and evidence presented in the paper.  Use the rubric as a guide and give suggestions accordingly.
 

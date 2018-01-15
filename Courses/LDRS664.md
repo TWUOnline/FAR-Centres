@@ -23,7 +23,7 @@ On successfully completing this course, students should be able to:
 1. Articulate a justified, world-view based vision for adult learning communities.
 2. Apply strategies for forging learning connections with students and creating authentic learning communities.
 3. Articulate a platform of beliefs about adult learning for a specific organization. 
-4. ~~Understand that good teaching can never be reduced to technique. Good teaching comes from the identity and integrity of the teacher.~~Discuss the identity and integrity of the teacher and how these traits lead to effective teaching.
+4. Discuss the identity and integrity of the teacher and how these traits lead to effective teaching.
 
 ## STUDENT LEARNING OUTCOMES
 
