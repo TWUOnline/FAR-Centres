@@ -87,9 +87,9 @@ Project Objectives and Activities Plan                        **_/15
 Journals \(5 entries x 8\)                                 _**/40            
 **\_Time Log and Verification of Hours \(meets required hours\)            _\_\_/10
 
-```
-                                   Total:             ___/100
-```
+
+Total:             ___/100
+
 
 Full marks are awarded for task completion and required hours logged and verified.
 
