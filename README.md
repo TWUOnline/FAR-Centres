@@ -1,13 +1,13 @@
 ### FAR Centre Coaching and Facilitation Certificate
 
-The Far Centre Coaching and Facilitation Certificate is a Post Graduate Education Certificate offered by the Faculty of Education and specifically designed for the growing demand in online or hybrid learning professionals. This certification will enable learners to seek employment in the following areas:
+The Far Centre Coaching and Facilitation Certificate is a Post Graduate Certificate offered by TWU specifically designed for the growing demand in online or hybrid learning professionals. This certification will enable learners to seek employment in the following areas:
 
 * online learning facilitation,
 * facilitation and coaching of international learners 
 * organizational professional development, and
 * coaching within an organizational setting.
 
-This certificate can eventually ladder into a MA in Educational Studies: International Education or Online Education or Curriculum and Instructional Studies. \(Concern with regard to TQS – may not be viewed as relevant to BC K-12 system for applicants wanting to complete the MA\)
+This certificate can eventually ladder into a MA in Leadership. 
 
 ### Certificate Outcomes
 
@@ -41,7 +41,11 @@ This certificate can eventually ladder into a MA in Educational Studies: Interna
 
 ### Certificate Admissions
 
-A Bachelor’s Degree is a requirement for entry.  \(GPA?\) \(Prior Learning\)
+* Bachelor's Degree
+* relevant leadership experience
+* IELTS 6.5 or equivalent
+
+Students who wish to ladder into the MA Leadership will be required to meet admissions requirements.
 
 This program is well-suited for students who:
 
@@ -60,7 +64,7 @@ The program is flexibly designed as either a traditionally offered, full time pr
 
 Learners are introduced** **to principles and practices of adult education. Focusing on facilitation methods and instructional design, this course develops practical skills necessary to teach adults. Whether in a classroom, other formal learning context or workplace, the class will explore how** **leaders are all teachers. This course equips leaders to facilitate transformational learning experiences that are learner-centered, supportive, well-organized and based on critical inquiry in the context of practice.
 
-##### LDRS 662 Culturally Responsive Communication and Facilitation
+##### LDRS 662 Intercultural Communication and Facilitation
 
 Learners develop self-awareness and cultural competency, developing practical strategies for creating culturally inclusive and respectful learning environments.
 
