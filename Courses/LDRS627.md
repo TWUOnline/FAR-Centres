@@ -194,7 +194,7 @@ Remember the three important phrases:
 
 #### LDRS 627 Adult Learning Design Assignment Grading Rubric
 
-| Criteria | Exceeding Expectations 3 | Meeting Expectations 2 | Not Yet Meeting Expectations 1 | 
+| Criteria | Exceeding Expectations 3 | Meeting Expectations 2 | Not Yet Meeting Expectations 1 |
 | :--- | :--- | :--- | :--- |
 | Institutional Context \(Where?\) | The location of the proposed adult learning session is identified in sufficient depth so that contextual factors that inform the design are clear. | The location of the proposed adult learning session is identified but there is insufficient information about contextual factors that impact design. | The location of the proposed adult learning session is not identified. |
 | Intents \(Why?\) Problem Identification | The purpose or reason that the learning is needed is clearly explained in sufficient depth.  The problem that the training seeks to remedy is identified clearly. | Purpose or reason that the learning is needed is explained but there is insufficient depth about the problem. | The purpose or reason for the learning is not identified. The problem that the training seeks to remedy is not identified. |
@@ -215,5 +215,5 @@ Remember the three important phrases:
 
 ## COURSE OUTLINE
 
-See the file '627 Schedule'.
+See the file '627 Schedule'. 
 
