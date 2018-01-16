@@ -7,7 +7,7 @@ The Far Centre Coaching and Facilitation Certificate is a Post Graduate Certific
 * organizational professional development, and
 * coaching within an organizational setting.
 
-This certificate can eventually ladder into a MA in Leadership. 
+This certificate can eventually ladder into a MA in Leadership.
 
 ### Certificate Outcomes
 
@@ -75,6 +75,8 @@ Learners explore theoretical foundations of learning communities, explore strate
 #### SPECIALIZATION \(CHOOSE ONE\)
 
 ##### LDRS  663 Effective Coaching for Transformational Learning
+
+Effective coaching for transformational learning in Blended Learning environments. \(Combine w/ 665\)
 
 Learners explore theoretical foundations of transformational learning, theory, and coaching. Building on the theoretical foundations, learners review coaching and facilitation strategies, applying strategies within a learning/coaching context.
 
