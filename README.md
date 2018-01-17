@@ -60,33 +60,33 @@ The program is flexibly designed as either a traditionally offered, full time pr
 
 #### FOUNDATIONS \(REQUIRED\)
 
-##### LDRS 627 Theory and Practice of Adult Education
+##### LDRS 627 Theory and Practice of Adult Education \(Adrienne\)
 
 Learners are introduced** **to principles and practices of adult education. Focusing on facilitation methods and instructional design, this course develops practical skills necessary to teach adults. Whether in a classroom, other formal learning context or workplace, the class will explore how** **leaders are all teachers. This course equips leaders to facilitate transformational learning experiences that are learner-centered, supportive, well-organized and based on critical inquiry in the context of practice.
 
-##### LDRS 662 Intercultural Communication and Facilitation
+##### LDRS 662 Intercultural Communication and Facilitation \(Imbenzi & Melinda?\)
 
 Learners develop self-awareness and cultural competency, developing practical strategies for creating culturally inclusive and respectful learning environments.
 
-##### LDRS 664 Creating and Leading Authentic Learning Communities
+##### LDRS 664 Creating and Leading Authentic Learning Communities \(Cathy & Adrienne/Kim?\)
 
 Learners explore theoretical foundations of learning communities, explore strategies for creating authentic learning communities, and apply strategies within a learning/coaching context.
 
 #### SPECIALIZATION \(CHOOSE ONE\)
 
-##### LDRS  663 Effective Coaching for Transformational Learning
+##### LDRS  663 Effective Coaching for Transformational Learning \(Colin & Mark\)
 
 Effective coaching for transformational learning in Blended Learning environments. \(Combine w/ 665\)
 
 Learners explore theoretical foundations of transformational learning, theory, and coaching. Building on the theoretical foundations, learners review coaching and facilitation strategies, applying strategies within a learning/coaching context.
 
-##### LDRS 665 Creating and Sustaining Digital Learning Environments
+##### ~~LDRS 665 Creating and Sustaining Digital Learning Environments~~
 
-Learners review contemporary online learning models, including learning managements systems, domains of one’s own, and personal learning networks, Learners apply learning theory, assessment strategies, and cross-cultural competency within and online learning environment.
+~~Learners review contemporary online learning models, including learning managements systems, domains of one’s own, and personal learning networks, Learners apply learning theory, assessment strategies, and cross-cultural competency within and online learning environment.~~
 
 #### PRACTICUM \(REQUIRED\)
 
-##### LDRS 667 Practicum \(Personal and Professional Practice and Reflection\)
+##### LDRS 667 Practicum \(Personal and Professional Practice and Reflection\) \(Kim? Cathy? Matthew?\)
 
 This course provides students with a practical setting in which to apply what they have learned in the Certificate in Coaching and Facilitation. Using reflective practice, learners apply learning theory, assessment theory, facilitation practices, and cross-cultural competency, in a professional learning facilitation setting. The practicum must be with a supervised business, non-profit agency, social service agency, or institution related to the student’s personal interests and future plans.
 
