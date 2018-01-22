@@ -59,8 +59,7 @@ Vaughan, N., Cleveland-Innes, M., & Garrison, D. \(2013\). Teaching in blended l
 
 #### From 665
 
-Apply digital communication and collaboration tools effectively in a higher education context.
-
+* Apply digital communication and collaboration tools effectively in a higher education context.
 * Apply advanced search strategies to identify and select relevant open access resources to support learning
 * Demonstrate the effective application of digital skills in support of learning and information literacies to research, produce, analyse and present information online in a higher education context.
 * Use multimodal communication to express outputs of learning effectively in a digital online environment.
