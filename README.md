@@ -74,9 +74,9 @@ Learners explore theoretical foundations of learning communities, explore strate
 
 #### SPECIALIZATION \(CHOOSE ONE\)
 
-##### LDRS  663 Effective Coaching for Transformational Learning \(Colin & Mark\)
+##### ~~LDRS  663 Effective Coaching for Transformational Learning \(Colin & Mark\)~~
 
-Effective coaching for transformational learning in Blended Learning environments. \(Combine w/ 665\)
+##### Effective coaching for transformational learning in Blended Learning environments. \(Combine w/ 665\)
 
 Learners explore theoretical foundations of transformational learning, theory, and coaching. Building on the theoretical foundations, learners review coaching and facilitation strategies, applying strategies within a learning/coaching context.
 
