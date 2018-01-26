@@ -1,3 +1,7 @@
+### Merged with 663
+
+---
+
 ### Certificate in Coaching and Facilitation and Master of Arts in Leadership
 
 ### Course Syllabus
