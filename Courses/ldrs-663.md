@@ -29,7 +29,17 @@ On successful completion of this course, students should be able to:
 
 7. design activities to direct cognitive and social processes to realize learning outcomes.
 
-#### 
+8. Apply digital communication and collaboration tools effectively in a higher education context. 
+
+9. Apply advanced search strategies to identify and select relevant open access resources to support learning
+10. Demonstrate the effective application of digital skills in support of learning and information literacies to research, produce, analyse and present information online in a higher education context.
+11. Use multimodal communication to express outputs of learning effectively in a digital online environment.
+12. Evaluate the authority of online information from a variety of sources including open access materials, mass-media, and social media for the purposes of learning in the higher education context. 
+13. Develop a positive digital online identity in support of learning commensurate with good practice for privacy, security and interpersonal communications.
+14. Demonstrate how to participate legally and ethically in an online digital learning community
+15. Demonstrate developing ability to engage in the 5R rights of open educational resources, 
+
+
 
 #### Course Learning Activities
 
@@ -50,10 +60,6 @@ Vaughan, N., Cleveland-Innes, M., & Garrison, D. \(2013\). Teaching in blended l
 [http://www.liberatingstructures.com/](http://www.liberatingstructures.com/)
 
 [http://www.teamcoachingzone.com/team-coaching-podcast/](http://www.teamcoachingzone.com/team-coaching-podcast/)
-
-
-
- 
 
 ---
 
