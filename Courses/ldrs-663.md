@@ -33,7 +33,7 @@ On successful completion of this course, students should be able to:
 
 9. ~~Apply advanced search strategies to identify and select relevant open access resources to support learning~~
 
-10. demonstrate the effective application of digital skills in support of learning and information literacies to research, produce, analyse and present information online~~~~ in a higher education contex~~t~~.
+10. demonstrate the effective application of digital skills in support of learning and information literacies to research, produce, analyse and present information online ~~in a higher education context~~.
 
 11. use multimodal communication to express outputs of learning effectively in a digital online environment.
 
