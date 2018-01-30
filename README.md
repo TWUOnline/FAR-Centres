@@ -1,6 +1,6 @@
 ### FAR Centre Coaching and Facilitation Certificate
 
-The Far Centre Coaching and Facilitation Certificate is a Post Graduate Certificate offered by TWU specifically designed for the growing demand in online or hybrid learning professionals. This certification will enable learners to seek employment in the following areas:
+The Far Centre Coaching and Facilitation Certificate is a Post Graduate Certificate offered by TWU specifically designed for the growing demand for online or hybrid learning professionals. This certification will enable learners to seek employment in the following areas:
 
 * online learning facilitation,
 * facilitation and coaching of international learners 
@@ -49,7 +49,7 @@ Students who wish to ladder into the MA Leadership will be required to meet admi
 
 This program is well-suited for students who:
 
-* Are proficient with technology, web tools and communicating with social media.
+* Are proficient with technology, web tools, and communicating with social media.
 * Are self-directed learners.
 * Have experience with facilitating learning in a variety of contexts
 * Have experience in online learning as a facilitator or course developer.
@@ -68,21 +68,13 @@ Learners are introduced** **to principles and practices of adult education. Focu
 
 Learners develop self-awareness and cultural competency, developing practical strategies for creating culturally inclusive and respectful learning environments.
 
-##### LDRS 664 Creating and Leading Authentic Learning Communities \(Cathy & Adrienne/Kim?\)
-
-Learners explore theoretical foundations of learning communities, explore strategies for creating authentic learning communities, and apply strategies within a learning/coaching context.
-
-#### SPECIALIZATION \(CHOOSE ONE\)
-
-##### ~~LDRS  663 Effective Coaching for Transformational Learning \(Colin & Mark\)~~
-
-##### Effective coaching for transformational learning in Blended Learning environments. \(Combine w/ 665\)
+##### LDRS 663 - Effective coaching for transformational learning in Blended Learning environments. \(Combine w/ 665\)
 
 Learners explore theoretical foundations of transformational learning, theory, and coaching. Building on the theoretical foundations, learners review coaching and facilitation strategies, applying strategies within a learning/coaching context.
 
-##### ~~LDRS 665 Creating and Sustaining Digital Learning Environments~~
+##### LDRS 664 Creating and Leading Authentic Learning Communities \(Cathy & Adrienne/Kim?\)
 
-~~Learners review contemporary online learning models, including learning managements systems, domains of one’s own, and personal learning networks, Learners apply learning theory, assessment strategies, and cross-cultural competency within and online learning environment.~~
+Learners explore theoretical foundations of learning communities, explore strategies for creating authentic learning communities, and apply strategies within a learning/coaching context.
 
 #### PRACTICUM \(REQUIRED\)
 
