@@ -68,7 +68,7 @@ Learners are introduced** **to principles and practices of adult education. Focu
 
 Learners develop self-awareness and cultural competency, developing practical strategies for creating culturally inclusive and respectful learning environments.
 
-##### LDRS 663 - Effective coaching for transformational learning in Blended Learning environments. \(Combine w/ 665\)
+##### LDRS 663 - Effective coaching for transformational learning in Blended Learning environments. \(Colin & Mark\)
 
 Learners explore theoretical foundations of transformational learning, theory, and coaching. Building on the theoretical foundations, learners review coaching and facilitation strategies, applying strategies within a learning/coaching context.
 
