@@ -35,10 +35,10 @@
 
 | Citation | ISBN | Cost |
 | :--- | :--- | :--- |
-| Brookfield, Stephen and Preskill, S. \(2016\). _The Discussion Book: 50 Great Ways to Get People Talking_.  San Francisco: Jossey Bass.    \*This is an excellent resource book.  There is no assigned reading. \(also used in LDRS 627\) |  |  |
-| Palmer, P.J. \(2017\). _The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life_. Hoboken, NJ: Jossey-Bass. | 978-1-119-41304-2 | 30 |
-| Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips _\(4th ed.\). Wiley. \(also used in LDRS 627\) |  |  |
-| Wheatley, M. \(2017\). _Who Do We Choose to Be? : Facing Reality, Claiming Leadership, Restoring Sanity._ Oakland, CA: Berrett-Koehler Publishers. | 978-1523083633 | 25 |
+| ~~Brookfield, Stephen and Preskill, S. \(2016\). _The Discussion Book: 50 Great Ways to Get People Talking_.  San Francisco: Jossey Bass.    \*This is an excellent resource book.  There is no assigned reading. \(also used in LDRS 627\)~~ | Duplicate |  |
+| ~~Palmer, P.J. \(2017\). _The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life_. Hoboken, NJ: Jossey-Bass.~~ | Duplicate| |
+| ~~Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips _\(4th ed.\). Wiley. \(also used in LDRS 627\)~~ | Duplicate |  |
+| ~~Wheatley, M. \(2017\). _Who Do We Choose to Be? : Facing Reality, Claiming Leadership, Restoring Sanity._ Oakland, CA: Berrett-Koehler Publishers.~~|Duplicate |  |
 
 #### 667
 
