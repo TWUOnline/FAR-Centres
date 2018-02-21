@@ -6,8 +6,10 @@
 | :--- | :--- | :--- |
 | Brookfield, Stephen and Preskill, S. \(2016\). The Discussion Book: 50 Great Ways to Get People Talking.  San Francisco: Jossey Bass.    \*This is an excellent resource book.  There is no assigned reading. \(This text will also be used in LDRS 664\) | 978-1119049715 | 24.95/16.99\(e-book\) |
 | Brookfield, S. \(2013\). Powerful techniques for teaching adults. San Francisco, CA: Jossey-Bass. | 978-1-118-01700-5 | 42 |
+| Palmer, P.J. (2017). The Courage to Teach: Exploring the Inner Landscape of a Teacher's Life. Hoboken, NJ: Jossey-Bass. |978-0787996864  |  31CAD|
 | Silberman, M. L., & Biech, E. \(2015\). Active training: A handbook of techniques, designs, case examples, and tips \(4th ed.\). Wiley. \(This text will also be used in LDRS 664\) | 978-1-118-97201-4 | 43.50 |
 | Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc | 9781681236018 | 46 |
+| Wheatley, M. (2017). Who Do We Choose to Be? : Facing Reality, Claiming Leadership, Restoring Sanity. Oakland, CA: Berrett-Koehler Publishers. |  978-1523083633|  13 CAD|
 
 #### 662
 
