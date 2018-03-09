@@ -66,7 +66,7 @@ Learners are introduced to principles and practices of adult education. Focusing
 
 ##### LDRS 662 Intercultural Communication and Facilitation 
 
-Learners develop self-awareness and cultural competency, developing practical strategies for creating culturally inclusive and respectful learning environments.
+Learners expand self-awareness and cultural competency, developing and applying practical strategies to create and facilitate culturally inclusive and respectful learning environments. Emphasizes placed on engagement and experience allowing learners to establish meaningful communication and relationships in overcoming barriers.
 
 ##### LDRS 663 - Coaching for Transformational Blended Learning
 
@@ -74,7 +74,7 @@ Examines the theoretical foundations and professional practices of coaching lear
 
 ##### LDRS 664 Creating and Leading Authentic Learning Communities 
 
-Learners explore theoretical foundations of learning communities, explore strategies for creating authentic learning communities, and apply strategies within a learning/coaching context.
+Learners explore theoretical foundations of learning communities, explore strategies for creating authentic learning communities, and apply those strategies in a learning/coaching context.  This course takes a personal transformation approach to teaching and learning as well as considers the science of living systems in an organizational context and how to plan and lead for authentic learning.  It explores themes such as identity, perception, interconnectedness and organization. It will equip learners to create effective learning environments. Learners will develop a platform inclusive of their personal philosophy of Learning Communities, what it means to be personally authentic and how to lead authentically in a learning environment.
 
 #### PRACTICUM \(REQUIRED\)
 
