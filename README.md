@@ -1,13 +1,13 @@
-### FAR Centre Coaching and Facilitation Certificate
+### Graduate Certificate in Coaching and Facilitation
 
-The Far Centre Coaching and Facilitation Certificate is a Post Graduate Certificate offered by TWU specifically designed for the growing demand for online or hybrid learning professionals. This certification will enable learners to seek employment in the following areas:
+The Graduate Certificate in Coaching and Facilitation offered by TWU Extension is specifically designed for the growing demand for online or hybrid learning professionals. This certification will enable learners to seek employment in the following areas:
 
 * online learning facilitation,
 * facilitation and coaching of international learners 
 * organizational professional development, and
 * coaching within an organizational setting.
 
-This certificate can eventually ladder into an MA in Leadership.
+This is a stand-alone certificate and the individual courses may ladder into the MA Leadership.
 
 ### Certificate Outcomes
 
