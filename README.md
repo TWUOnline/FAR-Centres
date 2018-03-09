@@ -1,13 +1,13 @@
-### Graduate Certificate in Coaching and Facilitation
+### Graduate Certificate in Adult Education: Coaching and Facilitation
 
-The Graduate Certificate in Coaching and Facilitation offered by TWU Extension is specifically designed for the growing demand for online or hybrid learning professionals. This certification will enable learners to seek employment in the following areas:
+The Graduate Certificate in Adult Education: Coaching and Facilitation offered by TWU Extension is specifically designed for the growing demand for online or hybrid learning professionals. This certification will enable learners to seek employment in the following areas:
 
 * online learning facilitation,
 * facilitation and coaching of international learners 
 * organizational professional development, and
 * coaching within an organizational setting.
 
-This is a stand-alone certificate and the individual courses may ladder into the MA Leadership.
+This is a stand-alone certificate and the individual courses qualify as electives in the MA Leadership program.
 
 ### Certificate Outcomes
 
@@ -28,7 +28,7 @@ This is a stand-alone certificate and the individual courses may ladder into the
 
 #### Knowledge
 
-1. Describe various learning theories and develop the ability to identify indiv**i**dual and group learning 
+1. Describe various learning theories and develop the ability to identify individual and group learning 
     needs. \(KA\)
 2. Identify a variety of facilitation/coaching methods and techniques.  \(KA\)
 
@@ -45,7 +45,7 @@ This is a stand-alone certificate and the individual courses may ladder into the
 * relevant leadership experience
 * IELTS 6.5 or equivalent
 
-Students who wish to ladder into the MA Leadership will be required to meet admissions requirements.
+Students who wish to ladder into the MA Leadership will be required to meet admissions requirements for the MA Leadership.
 
 This program is well-suited for students who:
 
@@ -60,27 +60,27 @@ The program is flexibly designed as either a traditionally offered, full time pr
 
 #### FOUNDATIONS \(REQUIRED\)
 
-##### LDRS 627 Theory and Practice of Adult Education \(Adrienne\)
+##### LDRS 627 Theory and Practice of Adult Education 
 
-Learners are introduced** **to principles and practices of adult education. Focusing on facilitation methods and instructional design, this course develops practical skills necessary to teach adults. Whether in a classroom, other formal learning context or workplace, the class will explore how** **leaders are all teachers. This course equips leaders to facilitate transformational learning experiences that are learner-centered, supportive, well-organized and based on critical inquiry in the context of practice.
+Learners are introduced to principles and practices of adult education. Focusing on facilitation methods and instructional design, this course develops practical skills necessary to teach adults. Whether in a classroom, other formal learning context or workplace, the class will explore how leaders are all teachers. This course equips leaders to facilitate transformational learning experiences that are learner-centered, supportive, well-organized and based on critical inquiry in the context of practice.
 
-##### LDRS 662 Intercultural Communication and Facilitation \(Imbenzi\)
+##### LDRS 662 Intercultural Communication and Facilitation 
 
 Learners develop self-awareness and cultural competency, developing practical strategies for creating culturally inclusive and respectful learning environments.
 
-##### LDRS 663 - Effective coaching for transformational learning in Blended Learning environments. \(Colin & Mark\)
+##### LDRS 663 - Coaching for Transformational Blended Learning
 
 Examines the theoretical foundations and professional practices of coaching learners in blended-learning environments with an emphasis on facilitating transformational learning experiences. The intersection of adult education, educational technology, and international education thought is investigated in relation to the development of effective strategies for coaching learners within the emerging context of technologically distributed global higher education. Projects develop digital literacy skills, including the use of communication, collaboration and publishing tools; and media literacy, including knowledge of copyright, open licensing, and digital citizenship.
 
-##### LDRS 664 Creating and Leading Authentic Learning Communities \(Cathy & Adrienne\)
+##### LDRS 664 Creating and Leading Authentic Learning Communities 
 
 Learners explore theoretical foundations of learning communities, explore strategies for creating authentic learning communities, and apply strategies within a learning/coaching context.
 
 #### PRACTICUM \(REQUIRED\)
 
-##### LDRS 667 Practicum \(Personal and Professional Practice and Reflection\) \(Kim? Cathy? Matthew?\)
+##### LDRS 667 Practicum \(Personal and Professional Practice and Reflection\) 
 
-This course provides students with a practical setting in which to apply what they have learned in the Certificate in Coaching and Facilitation. Using reflective practice, learners apply learning theory, assessment theory, facilitation practices, and cross-cultural competency, in a professional learning facilitation setting. The practicum must be with a supervised business, non-profit agency, social service agency, or institution related to the student’s personal interests and future plans.
+This course provides students with a practical setting in which to apply what they have learned in the Graduate Certificate in Adult Education: Coaching and Facilitation. Using reflective practice, learners apply learning theory, assessment theory, facilitation practices, and cross-cultural competency, in a professional learning facilitation setting. The practicum must be with a supervised business, non-profit agency, social service agency, or institution related to the student’s personal interests and future plans.
 
 ##### Current courses at TWU – quick scan
 
