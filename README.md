@@ -66,7 +66,7 @@ Learners are introduced to principles and practices of adult education. Focusing
 
 ##### LDRS 662 Intercultural Communication and Facilitation 
 
-Learners expand self-awareness and cultural competency, developing and applying practical strategies to create and facilitate culturally inclusive and respectful learning environments. Emphasizes placed on engagement and experience allowing learners to establish meaningful communication and relationships in overcoming barriers.
+Learners expand self-awareness and cultural competency, developing and applying practical strategies to create and facilitate culturally inclusive and respectful learning environments. Emphasis is placed on engagement and experience allowing learners to establish meaningful communication and relationships in overcoming barriers.
 
 ##### LDRS 663 - Coaching for Transformational Blended Learning
 
@@ -74,7 +74,7 @@ Examines the theoretical foundations and professional practices of coaching lear
 
 ##### LDRS 664 Creating and Leading Authentic Learning Communities 
 
-Learners explore theoretical foundations of learning communities, explore strategies for creating authentic learning communities, and apply those strategies in a learning/coaching context.  This course takes a personal transformation approach to teaching and learning as well as considers the science of living systems in an organizational context and how to plan and lead for authentic learning.  It explores themes such as identity, perception, interconnectedness and organization. It will equip learners to create effective learning environments. Learners will develop a platform inclusive of their personal philosophy of Learning Communities, what it means to be personally authentic and how to lead authentically in a learning environment.
+Course Description: Learners explore theoretical foundations of learning communities, evaluate strategies for creating authentic learning communities, and apply those strategies in a learning/coaching context.   Learners explore teaching and learning through the lens of personal transformation and then widen their lens to consider systems theory and challenges of leading for an authentic learning environment. Learners explore themes such as identity, perception, interconnectedness and learning organizations. Learners will develop a personal philosophy of Learning Communities, exploring what it means to be personally authentic and how to lead authentically in a learning environment.
 
 #### PRACTICUM \(REQUIRED\)
 
