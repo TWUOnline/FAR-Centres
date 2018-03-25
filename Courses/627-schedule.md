@@ -39,7 +39,7 @@ Brookfield, S. \(2013\). _Powerful techniques for teaching adults_. Chaps. 1 and
 
 Sandlin, J., Redmon Wright R., Clark C. \(2013\). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. _Adult Education Quarterly 63_:3, 14-16. \*\*Note that only certain pages have been assigned. You read part last week and focus on a different section this week.
 
-Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.  Chapters 8, 10
+Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.  Chapters 10
 
 #### Assigned Learning Activities
 
@@ -152,8 +152,6 @@ Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniqu
 Snell-Herzog, P. et al \(2016\). Moral and Cultural Awareness in Emerging Adulthood: Preparing for Multi-Faith Workplaces.Religions, 7, 40.
 
 Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.  Chapter 1, 6, 7 and 15
-
-
 
 #### Assigned Learning Activities
 
