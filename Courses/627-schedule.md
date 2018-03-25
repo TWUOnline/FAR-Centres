@@ -63,7 +63,7 @@ Brookfield, S. \(2013\). _Powerful techniques for teaching adults_. \*Chapter 8
 
 Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips _\(4th ed.\). Hoboken, New Jersey: John Wiley & Sons \*Chapters 4, 5, 6
 
-Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc. Chapers 11
+Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc. Chaper 11
 
 Powerpoint about change
 
