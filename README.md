@@ -3,11 +3,11 @@
 The proposed 15 semester hour _Graduate Certificate in Adult Education: Coaching and Facilitation_ offered by TWU Extension is specifically designed for the growing demand for online or hybrid learning professionals. This certification will enable learners to seek employment in the following areas:
 
 * online learning facilitation,
-* facilitation and coaching of international learners 
+* facilitation and coaching of international learners, 
 * organizational professional development, and
 * coaching within an organizational setting.
 
-This is a stand-alone certificate and the individual courses qualify as electives in the MA Leadership program.
+This is a stand-alone certificate and the individual courses qualify as electives in the MA Leadership program. 
 
 ### Certificate Outcomes
 
@@ -82,15 +82,15 @@ Course Description: Learners explore theoretical foundations of learning communi
 
 This course provides students with a practical setting in which to apply what they have learned in the Graduate Certificate in Adult Education: Coaching and Facilitation. Using reflective practice, learners apply learning theory, assessment theory, facilitation practices, and cross-cultural competency, in a professional learning facilitation setting. The practicum must be with a supervised business, non-profit agency, social service agency, or institution related to the student’s personal interests and future plans.
 
-##### Current courses at TWU – quick scan
+~~##### Current courses at TWU – quick scan
 
-* Com 372 Cross Cultural Communications
+~~* Com 372 Cross Cultural Communications
 * EDUC 490 Selected topics in Education
 * EDUC 321, 401 \(curriculum and assessment courses\)
 * LDRS 230 Leading Teams and Groups
-* LDRS 255 Leading and Coaching 
+* LDRS 255 Leading and Coaching~~
 
-### Faculty
+### _Potential_ Faculty
 
 * Adrienne Castellon, EdD
 * Catherine Penfold Navarro, PhD
@@ -98,21 +98,22 @@ This course provides students with a practical setting in which to apply what th
 * Colin Madland, M.Ed.
 * Mark Halvorson, Ph.D
 * Melinda Dewsbury, MA
-* Matthew Etherington, PhD  Learning Theory:  Inquiry, Project Based, Problem Based, Appreciative Inquiry etc.
+~~* Matthew Etherington, PhD  Learning Theory:  Inquiry, Project Based, Problem Based, Appreciative Inquiry etc.~~
 * Jim Parsons, PhD
 * Julie Lane, EdD
 * Christian Klaue, EdD
 
 ### Employment Sectors
 
-Graduates of this program deliver value to the educational market by having entry-level skills that assist them to seek work as facilitators and learning coaches in numerous hybrid educational settings, both locally and in other global locations.  Graduates would also be well prepared to work in sectors beyond education supporting work-place change and training needs.
+Graduates of this program deliver value to the educational market by _having a sound foundation of skills and knowledge_ that assist them to seek work as facilitators and learning coaches in numerous _multi-disciplinary_ hybrid educational settings, both locally and in other global locations.  Graduates would also be well prepared to work in sectors beyond education supporting work-place change and training needs.
 
+* FAR Center Facilitation
 * Adult Education
-* K-12 Hybrid Education
+* K-12 Hybrid Education _\(supplementary credential; does not imply TQS approval or regulatory certification\)_
 * Postsecondary teaching \(supplementary credential\)
-* Online learning
-* Far Center Facilitation
-* Workplace Facilitation
-
-
+* Online Learning
+* Workplace Facilitation/_Corporate Training
+* Christian Ministry
+* Healthcare Training
+* Non-Profit Leadership_
 
