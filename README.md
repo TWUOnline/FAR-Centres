@@ -92,16 +92,22 @@ This course provides students with a practical setting in which to apply what th
 
 ### _Potential_ Faculty
 
+_* Douglas Atha, DSL_
 * Adrienne Castellon, EdD
-* Catherine Penfold Navarro, PhD
-* Imbenzi George, PhD
-* Colin Madland, M.Ed.
-* Mark Halvorson, Ph.D
 * Melinda Dewsbury, MA
-~~* Matthew Etherington, PhD  Learning Theory:  Inquiry, Project Based, Problem Based, Appreciative Inquiry etc.~~
-* Jim Parsons, PhD
-* Julie Lane, EdD
+* Imbenzi George, PhD
+_* Greg Gerber, EdD_
+* Mark Halvorson, PhD
 * Christian Klaue, EdD
+* Julie Lane, EdD
+* Colin Madland, MEd
+_* Kelly Marjanovic, MA_ 
+* Jim Parsons, PhD
+* Catherine Penfold Navarro, PhD
+_* Heather Strong, PhD_
+_* Tina Wu, PhD_
+~~* Matthew Etherington, PhD  Learning Theory:  Inquiry, Project Based, Problem Based, Appreciative Inquiry etc.~~
+
 
 ### Employment Sectors
 
