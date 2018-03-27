@@ -100,12 +100,12 @@ _* Greg Gerber, EdD_
 * Mark Halvorson, PhD
 * Christian Klaue, EdD
 * Julie Lane, EdD
-* Colin Madland, MEd
+* Colin Madland, MEd  
 _* Kelly Marjanovic, MA_ 
 * Jim Parsons, PhD
 * Catherine Penfold Navarro, PhD
 _* Heather Strong, PhD_
-_* Tina Wu, PhD_
+_* Tina Wu, PhD_  
 ~~* Matthew Etherington, PhD  Learning Theory:  Inquiry, Project Based, Problem Based, Appreciative Inquiry etc.~~
 
 
