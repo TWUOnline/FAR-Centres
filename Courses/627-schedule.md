@@ -51,7 +51,7 @@ Post your answer to discussion question and respond to others
 
 Submit Reading Response to Dropbox
 
-### **Weeks 3 and 4 **
+### **Weeks 3  **
 
 ### **Experience, Emotions, Motivation, Body and Spirit in Adult Education**
 
@@ -81,7 +81,7 @@ Post your response to the Discussion Question and respond to others
 
 Complete and submit to Dropbox CIQ \(survey asking for feedback\)
 
-### Week 5 Goals, Objectives and Assessment
+### Week 4 Goals, Objectives 
 
 #### Readings
 
@@ -103,7 +103,7 @@ Post your response to the discussion question and respond to others
 
 Submit Reading Response to Dropbox
 
-### Week 6 Teaching for Critical Thinking
+### Week 5 Teaching for Critical Thinking
 
 Brookfield, S. \(2013\). \_Powerful techniques for teaching adults \*\_Chap 2
 
@@ -132,6 +132,8 @@ Read www.criticalthinking.org articles
 Read The Power of Dialogue \(2016\)
 
 Post your response to the Discussion Question and respond to others
+
+### Week 6 Assessment
 
 ### Week 7 Reading and Assignment week
 
