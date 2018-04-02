@@ -81,7 +81,7 @@ Post your response to the Discussion Question and respond to others
 
 Complete and submit to Dropbox CIQ \(survey asking for feedback\)
 
-### Week 4 Goals, Objectives 
+### Week 4 Goals, Objectives
 
 #### Readings
 
@@ -195,7 +195,7 @@ Brookfield, S. \(2013\). _Powerful techniques for teaching adults_. \*Chapter 7
 
 Silberman, M. L., & Biech, E. \(2015\). _Active training: A handbook of techniques, designs, case examples, and tips _\(4th ed.\). Hoboken, New Jersey: John Wiley & Sons. \*Chaps 14, 16
 
-Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc.
+Wang, . C. X. \(2017\). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc. Chapters 8, 9
 
 #### Assigned Learning Activities
 
