@@ -43,7 +43,7 @@ This is a stand-alone certificate and the individual courses qualify as elective
 
 * Bachelor's Degree
 * relevant leadership experience
-* IELTS 6.5 or equivalent
+* IELTS 7.0 or equivalent
 
 Students who wish to ladder into the MA Leadership will be required to meet admissions requirements for the MA Leadership.
 
@@ -58,39 +58,92 @@ This program is well-suited for students who:
 
 The program is flexibly designed as either a traditionally offered, full time program for learners interested in preparing for a role in FAR Centre Coaching and Facilitation, or as a fully online program for learners who are actively working as Far Centre Coaches and Facilitators and are looking for a credential related to their roles.
 
-#### FOUNDATIONS \(REQUIRED\)
+### FOUNDATIONS \(REQUIRED\)
 
-##### LDRS 627 Theory and Practice of Adult Education
+#### LDRS 627 Theory and Practice of Adult Education
 
 Learners are introduced to principles and practices of adult education. Focusing on facilitation methods and instructional design, this course develops practical skills necessary to teach adults. Whether in a classroom, other formal learning context or workplace, the class will explore how leaders are all teachers. This course equips leaders to facilitate transformational learning experiences that are learner-centered, supportive, well-organized and based on critical inquiry in the context of practice.
 
-##### LDRS 662 Intercultural Communication and Facilitation
+#### LDRS 662 Intercultural Communication and Facilitation
 
-Learners expand self-awareness and cultural competency, developing and applying practical strategies to create and facilitate culturally inclusive and respectful learning environments. Emphasis is placed on engagement and experience allowing learners to establish meaningful communication and relationships in overcoming barriers.
+Learners will expand self-awareness and cultural competency, developing and applying practical strategies to create and facilitate culturally inclusive and respectful learning environments. Emphasis is placed on engagement and experience allowing learners to establish meaningful intercultural communication and relationships and applying coaching/facilitation skills to overcoming barriers related to challenges faced by indigenous people globally. Topics include analyzing personal cultural values and beliefs; examining the implicit biases in educational structures and processes; and strategies for creating inclusive learning environments.
 
-##### LDRS 663 - Coaching for Transformational Blended Learning
+###### Course Learning Outcomes
+On successful completion of this course, students should be able to:
+1. Express and respect personal cultural values and beliefs.
+2. Evaluate the cultural-inclusivity of educational structures and processes
+3. Assess culturally-inclusive theoretical perspectives, including global Indigenous perspectives.
+4. Apply culturally-competent strategies in the design of culturally inclusive learning environments.
+5. Apply culturally-inclusive facilitation/coaching methods.
+6. Create a learning experience that includes culturally-inclusive group processes.
+
+###### Assessments
+| Assessment | Value | Outcomes |
+|:---|:---|:---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+#### LDRS 663 - Coaching for Transformational Blended Learning
 
 Examines the theoretical foundations and professional practices of coaching learners in blended-learning environments with an emphasis on facilitating transformational learning experiences. The intersection of adult education, educational technology, and international education thought is investigated in relation to the development of effective strategies for coaching learners within the emerging context of technologically distributed global higher education. Projects develop digital literacy skills, including the use of communication, collaboration and publishing tools; and media literacy, including knowledge of copyright, open licensing, and digital citizenship.
 
-##### LDRS 664 Creating and Leading Authentic Learning Communities
+###### Course Learning outcomes
+
+###### Assessments
+| Assessment | Value | Outcomes |
+|:---|:---|:---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+#### LDRS 664 Creating and Leading Authentic Learning Communities
 
 Course Description: Learners explore theoretical foundations of learning communities, evaluate strategies for creating authentic learning communities, and apply those strategies in a learning/coaching context.   Learners explore teaching and learning through the lens of personal transformation and then widen their lens to consider systems theory and challenges of leading for an authentic learning environment. Learners explore themes such as identity, perception, interconnectedness and learning organizations. Learners will develop a personal philosophy of Learning Communities, exploring what it means to be personally authentic and how to lead authentically in a learning environment.
 
-#### PRACTICUM \(REQUIRED\)
+###### Course Learning outcomes
 
-##### LDRS 667 Practicum \(Personal and Professional Practice and Reflection\)
+###### Assessments
+| Assessment | Value | Outcomes |
+|:---|:---|:---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+### PRACTICUM \(REQUIRED\)
+
+#### LDRS 667 Practicum \(Personal and Professional Practice and Reflection\)
 
 This course provides students with a practical setting in which to apply what they have learned in the Graduate Certificate in Adult Education: Coaching and Facilitation. Using reflective practice, learners apply learning theory, assessment theory, facilitation practices, and cross-cultural competency, in a professional learning facilitation setting. The practicum must be with a supervised business, non-profit agency, social service agency, or institution related to the student’s personal interests and future plans.
 
-~~##### Current courses at TWU – quick scan~~
+###### Course Learning outcomes
 
-* ~~Com 372 Cross Cultural Communications~~
-* ~~EDUC 490 Selected topics in Education~~
-* ~~EDUC 321, 401 \(curriculum and assessment courses\)~~
-* ~~LDRS 230 Leading Teams and Groups~~
-* ~~LDRS 255 Leading and Coaching~~
+###### Assessments
+| Assessment | Value | Outcomes |
+|:---|:---|:---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
-### _Potential_ Faculty
+#### Current courses at TWU – quick scan
+
+As required for new program approval, the following courses are the result of an 'environmental scan' of existing courses that could overlap or complement the ones proposed.  These are not prerequisites.
+
+* Com 372 Cross Cultural Communications
+* EDUC 490 Selected topics in Education
+* EDUC 321, 401 \(curriculum and assessment courses\)
+* LDRS 230 Leading Teams and Groups
+* LDRS 255 Leading and Coaching
+
+### _Potential Faculty who might, after consultation, be involved as instructors_
 
 * _Douglas Atha, DSL_
 * Adrienne Castellon, EdD
@@ -113,10 +166,10 @@ This course provides students with a practical setting in which to apply what th
 
 Graduates of this program deliver value to the educational market by _having a sound foundation of skills and knowledge_ that assist them to seek work as facilitators and learning coaches in numerous _multi-disciplinary_ hybrid educational settings, both locally and in other global locations.  Graduates would also be well prepared to work in sectors beyond education supporting work-place change and training needs.
 
-* FAR Center Facilitation
+* FAR Centre Facilitation
 * Adult Education
-* K-12 Hybrid Education _(supplementary credential; does not imply TQS approval or regulatory certification)_
-* Postsecondary teaching \(supplementary credential\)
+* K-12 Hybrid Education _(supplemenatary credential; does not imply Teacher Regulation Branch approval or other professional regulatory certification in any jurisdiction)_
+* Postsecondary teaching _(supplemenatary credential; does not imply Teacher Regulation Branch approval or other professional regulatory certification in any jurisdiction)_
 * Online Learning
 * Workplace Facilitation/_Corporate Training_
 * _Christian Ministry_
