@@ -80,11 +80,11 @@ On successful completion of this course, students should be able to:
 ###### Assessments
 | Assessment | Value | Outcomes |
 |:---|:---|:---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|  **Weekly Learning Reflections** <br> Students will implement metacognitive strategies to reflect on each week's learning activities and assessments. Reflections will focus on consolidating new knowledge and extending it to different contexts and relevant personal applications.  |  20% |  All |
+|  **Cultural Identity Essay** | 20%  |   |
+| **Critical Analysis of Learning Activity**  | 20%  |   |
+| **Culturally Inclusive Theoretical Perspective**  | 20%  |   |
+| **Culturally Inclusive Learning Design** | 20%  |   |
 
 #### LDRS 663 - Coaching for Transformational Blended Learning
 
@@ -126,11 +126,10 @@ Course Description: Learners explore theoretical foundations of learning communi
 ###### Assessments
 | Assessment | Value | Outcomes |
 |:---|:---|:---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|  **Bi-weekly Reading Response** <br>Students will implement metacognitive strategies to reflect on each week's learning activities and assessments. Reflections will focus on consolidating new knowledge and extending it to different contexts and relevant personal applications. | 30%  |   |
+| **Company Website Analysis**  | 20%  |   |
+|  **Platform Paper**  | 50%  |   |
+
 
 ### PRACTICUM \(REQUIRED\)
 
@@ -142,23 +141,24 @@ This course provides students with a practical setting in which to apply what th
 
 Upon successful completion of this course, students should be able to:
 
-1. Engage in ongoing reflection and learning related to coaching and facilitation
-2. Reflect on the impact of personal values and beliefs on facilitation, coaching and learning
-3. Create realistic, attainable goals
-4. Develop measurable learning objectives
-5. Design learning activities and supportive activities that will ensure successful project outcomes and demonstrate leadership development;
-6. integrate what they have learned through in-class study, life experience, and past leadership applications into a structured setting
-7. Integrate effective leadership principles into coaching/facilitation.
+1. Synthesize adult learning theory with practical experience facilitating or teaching   
+2. Create an authentic learning environment of inclusivity, safety, and trust
+3. Identify individual and group learning needs
+4. Demonstrate effective facilitation and coaching communication skills
+5. Facilitate learning in a participatory environment that supports critical and creative thinking
+6. Synthesize personal identity, values, and beliefs into the facilitation and learning process
 
 
 ###### Assessments
 | Assessment | Value | Outcomes |
 |:---|:---|:---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|  **Practicum Proposal (submitted prior to registration)** | 20%   |   |
+| **Signed Mentor Agreement**  | 5%  |   |
+| **Learning Reflections (4 @ 5% ea)** <br> Students will implement metacognitive strategies to reflect on each week's learning activities and assessments. Reflections will focus on consolidating new knowledge and extending it to different contexts and relevant personal applications.| 20% |   |
+|  **Literature Reviews (4 @ 5% ea)** | 20%  |   |
+| **Analytical Reflection on Experiential Learning**  | 20%  |   |
+| **Time Log and Verification of Hours ** | 5%  |   |
+
 
 #### Current courses at TWU
 
