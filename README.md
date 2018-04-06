@@ -1,6 +1,6 @@
 ### Graduate Certificate in Adult Learning: Coaching and Facilitation
 
-The proposed 15 semester hour _Graduate Certificate in Adult Education: Coaching and Facilitation_ offered by TWU Extension is specifically designed for the growing demand for online or hybrid learning professionals. This certification will enable learners to seek employment in the following areas:
+The proposed 15 semester hour _Graduate Certificate in Adult Learning: Coaching and Facilitation_ offered by TWU Extension is specifically designed for the growing demand for online or hybrid learning professionals. This certification will enable learners to seek employment in the following areas:
 
 * online learning facilitation,
 * facilitation and coaching of international learners,
@@ -79,16 +79,16 @@ On successful completion of this course, students should be able to:
 
 ###### Assessments
 | Assessment | Value | Outcomes |
-|:---|:---|:---|
+|:---|:---|:---:|
 |  **Weekly Learning Reflections** <br> Students will implement metacognitive strategies to reflect on each week's learning activities and assessments. Reflections will focus on consolidating new knowledge and extending it to different contexts and relevant personal applications.  |  20% |  All |
-|  **Cultural Identity Essay** | 20%  |   |
-| **Critical Analysis of Learning Activity**  | 20%  |   |
-| **Culturally Inclusive Theoretical Perspective**  | 20%  |   |
-| **Culturally Inclusive Learning Design** | 20%  |   |
+|  **Cultural Identity Essay** | 20%  | 1  |
+| **Critical Analysis of Learning Activity**  | 20%  | 2, 3, 4, 5   |
+| **Culturally Inclusive Theoretical Perspective**  | 20%  | 1, 2, 3  |
+| **Culturally Inclusive Learning Design** | 20%  |4, 5, 6    |
 
 #### LDRS 663 - Coaching for Transformational Blended Learning
 
-Examines the theoretical foundations and professional practices of coaching learners in blended-learning environments with an emphasis on facilitating transformational learning experiences. The intersection of adult education, educational technology, and international education thought is investigated in relation to the development of effective strategies for coaching learners within the emerging context of technologically distributed global higher education. Projects develop digital literacy skills, including the use of communication, collaboration and publishing tools; and media literacy, including knowledge of copyright, open licensing, and digital citizenship.
+Examines the theoretical foundations and professional practices of coaching learners in blended-learning environments with an emphasis on facilitating transformational learning experiences. The intersection of adult learning, educational technology, and international education thought is investigated in relation to the development of effective strategies for coaching learners within the emerging context of technologically distributed global higher education. Projects develop digital literacy skills, including the use of communication, collaboration and publishing tools; and media literacy, including knowledge of copyright, open licensing, and digital citizenship.
 
 ###### Course Learning Outcomes
 
@@ -103,7 +103,7 @@ Examines the theoretical foundations and professional practices of coaching lear
 
 ###### Assessments
 | Assessment | Value | Outcomes |
-|:---|:---|:---|
+|:---|:---|:---:|
 | **Weekly Learning Reflections** <br> Students will implement metacognitive strategies to reflect on each week's learning activities and assessments. Reflections will focus on consolidating new knowledge and extending it to different contexts and relevant personal applications.  |  20% | All  |
 | **Syllabus Analysis** <br> Students will work with in cooperative groups to evaluate the syllabus for one of the courses that TWU will offer in a FAR Centre and make recommendations for translating that syllabus into a dynamic active-learning environment. |  20% | 1, 3, 5, 7, 8  |
 | **Lesson Plan Design** <br> Working in cooperation with the local instructor of a FAR Centre course, students will design a lesson plan based on the instructions given in the FAR Centre course syllabus. |  10% | 1, 2, 3, 4, 5, 6  |
@@ -125,17 +125,17 @@ Course Description: Learners explore theoretical foundations of learning communi
 
 ###### Assessments
 | Assessment | Value | Outcomes |
-|:---|:---|:---|
-|  **Bi-weekly Reading Response** <br>Students will implement metacognitive strategies to reflect on each week's learning activities and assessments. Reflections will focus on consolidating new knowledge and extending it to different contexts and relevant personal applications. | 30%  |   |
-| **Company Website Analysis**  | 20%  |   |
-|  **Platform Paper**  | 50%  |   |
+|:---|:---|:---:|
+|  **Bi-weekly Reading Response** <br>Students will implement metacognitive strategies to reflect on each week's learning activities and assessments. Reflections will focus on consolidating new knowledge and extending it to different contexts and relevant personal applications. | 30%  |  All |
+| **Company Website Analysis** <br> Students will investigate , analyze and report on the Human Resources portion of a company's website, a higher education institution or adult learning facility - preferably one with which they are familiar.  | 20%  |  6 |
+|  **Platform Paper** <br> This is a two part assignment. Please organize your paper with subheadings according to the following.<br><br>In the first part, consider teaching, learning and context. In this section depict your ideal adult learning environment in all its facets. Consider student outcomes, instructional climate, instructional organization, community, personal beliefs.<br><br>In the second part, consider the administrative or supervisory aspects of your role as an adult educator. Describe the means to realize these educational goals. In what ways will you achieve the vision? What will be your routine behaviours?| 50%  | All  |
 
 
 ### PRACTICUM \(REQUIRED\)
 
 #### LDRS 667 Practicum \(Personal and Professional Practice and Reflection\)
 
-This course provides students with a practical setting in which to apply what they have learned in the Graduate Certificate in Adult Education: Coaching and Facilitation. Using reflective practice, learners apply learning theory, assessment theory, facilitation practices, and cross-cultural competency, in a professional learning facilitation setting. The practicum must be with a supervised business, non-profit agency, social service agency, or institution related to the student’s personal interests and future plans.
+Using reflective practice, learners apply adult learning theory, assessment theory, facilitation practices, and cross-cultural competency, in a professional learning facilitation setting. The practicum is conducted with a supervised business, non-profit agency, social service agency, or institution related to the student’s personal interests and career goals. (include number of hours)
 
 ###### Course Learning Outcomes
 
@@ -151,13 +151,13 @@ Upon successful completion of this course, students should be able to:
 
 ###### Assessments
 | Assessment | Value | Outcomes |
-|:---|:---|:---|
-|  **Practicum Proposal (submitted prior to registration)** | 20%   |   |
-| **Signed Mentor Agreement**  | 5%  |   |
-| **Learning Reflections (4 @ 5% ea)** <br> Students will implement metacognitive strategies to reflect on each week's learning activities and assessments. Reflections will focus on consolidating new knowledge and extending it to different contexts and relevant personal applications.| 20% |   |
-|  **Literature Reviews (4 @ 5% ea)** | 20%  |   |
-| **Analytical Reflection on Experiential Learning**  | 20%  |   |
-| **Time Log and Verification of Hours ** | 5%  |   |
+|:---|:---|:---:|
+|  **Practicum Proposal (submitted prior to registration)**<br><br>In preparation for the Practicum, students will review the LDRS 667 Practicum Student Guide and write a 2-3 page Practicum Proposal, including the following:<br><br>- Three guiding questions that will shape their experiential learning in this practicum. <br><br>- A description of the context in which they will conduct their practicum. <br><br>- A description of how they plan to engage in participant observation. Include a minimum of 3 references to the Kawulich (2005) article.<br><br>- An analysis of how this field experience will contribute to their learning and help them answer their guiding questions<br><br>- A discussion of how this practicum will build on their current academic, personal, and professional knowledge, and how it will contribute to their career goals.| 20%   | All |
+| **Signed Mentor Agreement**  | 5%  |  All |
+| **Learning Reflections (4 @ 5% ea)** <br> Learners will engage in reflection and critical analysis of new concepts, organizing and integrating new knowledge with prior knowledge through regular writing practice. The blog postings will integrate field notes and other observations with prior learning, to address the guiding inquiry for the practicum.| 20% | 2-6  |
+|  **Literature Reviews (4 @ 5% ea)** <br> Each week, students will review an article or selected reading that aligns with their practicum guiding questions and practicum context. These readings will serve as the basis for students' literature reviews in their final paper (Analytical Reflection on Experiential Learning. (Students may select resources from the TWU library, other academic sources, or previous course materials).| 20%  | 1 |
+| **Analytical Reflection on Experiential Learning** <br> Upon completion of 150 practicum hours, students will write a research paper (10 pages minimum) exploring their practicum, synthesizing your field experience with current literature, as well as their prior knowledge.   | 20%  | 2-6  |
+| **Time Log and Verification of Hours ** | 5%  | All  |
 
 
 #### Current courses at TWU
@@ -194,7 +194,7 @@ As required for new program approval, the following courses are the result of an
 Graduates of this program deliver value to the educational market by _having a sound foundation of skills and knowledge_ that assist them to seek work as facilitators and learning coaches in numerous _multi-disciplinary_ hybrid educational settings, both locally and in other global locations.  Graduates would also be well prepared to work in sectors beyond education supporting work-place change and training needs.
 
 * FAR Centre Facilitation
-* Adult Education
+* Adult learning
 * K-12 Hybrid Education _(supplemenatary credential; does not imply Teacher Regulation Branch approval or other professional regulatory certification in any jurisdiction)_
 * Postsecondary teaching _(supplemenatary credential; does not imply Teacher Regulation Branch approval or other professional regulatory certification in any jurisdiction)_
 * Online Learning
