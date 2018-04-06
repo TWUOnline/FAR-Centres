@@ -104,11 +104,11 @@ Examines the theoretical foundations and professional practices of coaching lear
 ###### Assessments
 | Assessment | Value | Outcomes |
 |:---|:---|:---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| **Weekly Learning Reflections** <br> Students will implement metacognitive strategies to reflect on each week's learning activities and assessments. Reflections will focus on consolidating new knowledge and extending it to different contexts and relevant personal applications.  |  20% | All  |
+| **Syllabus Analysis** <br> Students will work with in cooperative groups to evaluate the syllabus for one of the courses that TWU will offer in a FAR Centre and make recommendations for translating that syllabus into a dynamic active-learning environment. |  20% | 1, 3, 5, 7, 8  |
+| **Lesson Plan Design** <br> Working in cooperation with the local instructor of a FAR Centre course, students will design a lesson plan based on the instructions given in the FAR Centre course syllabus. |  10% | 1, 2, 3, 4, 5, 6  |
+| **Lesson Plan Presentation** <br> Students will work in cooperation with an instructor in the TWU International Degree Completion program to plan and present a full or partial face-to-face lesson (45-60 minutes). Follow up will include brief written observations from the host instructor and metacognitive reflection on both the planning and presentation of the lesson.  |  20% | 2, 3, 5, 6, 7   |
+|  **Coaching Handbook** <br> This assignment requires students to work cooperatively with a small group of their colleagues to create an instructor handbook for one of the courses offered in a FAR Centre. <br> <br>Students will use the actual syllabi and course materials from Liberal Arts core courses in various disciplines to research and record learning strategies, common misconceptions, related resources, and other aids for tehm and their colleagues to be able to effectively assist students working through the course materials.<br><br>Student work in this course will be foundational and future FAR Centre Facilitators will build on their work in future semesters. |  30% | All  |
 
 #### LDRS 664 Creating and Leading Authentic Learning Communities
 
