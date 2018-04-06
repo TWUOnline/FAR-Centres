@@ -81,7 +81,7 @@ On successful completion of this course, students should be able to:
 | Assessment | Value | Outcomes |
 |:---|:---|:---:|
 |  **Weekly Learning Reflections** <br> Students will implement metacognitive strategies to reflect on each week's learning activities and assessments. Reflections will focus on consolidating new knowledge and extending it to different contexts and relevant personal applications.  |  20% |  All |
-|  **Cultural Identity Essay** | 20%  | 1  |
+|  **Cultural Identity Essay** | 20%  | 1   |
 | **Critical Analysis of Learning Activity**  | 20%  | 2, 3, 4, 5   |
 | **Culturally Inclusive Theoretical Perspective**  | 20%  | 1, 2, 3  |
 | **Culturally Inclusive Learning Design** | 20%  |4, 5, 6    |
