@@ -1,4 +1,4 @@
-### Graduate Certificate in Adult Education: Coaching and Facilitation
+### Graduate Certificate in Adult Learning: Coaching and Facilitation
 
 The proposed 15 semester hour _Graduate Certificate in Adult Education: Coaching and Facilitation_ offered by TWU Extension is specifically designed for the growing demand for online or hybrid learning professionals. This certification will enable learners to seek employment in the following areas:
 
