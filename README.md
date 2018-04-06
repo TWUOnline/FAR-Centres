@@ -90,7 +90,16 @@ On successful completion of this course, students should be able to:
 
 Examines the theoretical foundations and professional practices of coaching learners in blended-learning environments with an emphasis on facilitating transformational learning experiences. The intersection of adult education, educational technology, and international education thought is investigated in relation to the development of effective strategies for coaching learners within the emerging context of technologically distributed global higher education. Projects develop digital literacy skills, including the use of communication, collaboration and publishing tools; and media literacy, including knowledge of copyright, open licensing, and digital citizenship.
 
-###### Course Learning outcomes
+###### Course Learning Outcomes
+
+1. analyze the characteristics of the coaching role within theoretical models of blended teaching and learning;
+2. demonstrate the ability to model metacognitive strategies for self-regulated learning;
+3. apply intercultural competencies in coaching learners in transformational blended learning environments;
+4. evaluate the quality of feedback in light of evidence-based research
+5. evaluate interactions in a learning environment and develop strategies for  high quality educative interactions;
+6. Design cognitive and social activities to meet learning outcomes.
+7. apply multi-modal communication and collaboration tools effectively to support learning in a higher education context.
+8. apply information and media literacies to research, produce, analyse and present information online.
 
 ###### Assessments
 | Assessment | Value | Outcomes |
@@ -105,7 +114,14 @@ Examines the theoretical foundations and professional practices of coaching lear
 
 Course Description: Learners explore theoretical foundations of learning communities, evaluate strategies for creating authentic learning communities, and apply those strategies in a learning/coaching context.   Learners explore teaching and learning through the lens of personal transformation and then widen their lens to consider systems theory and challenges of leading for an authentic learning environment. Learners explore themes such as identity, perception, interconnectedness and learning organizations. Learners will develop a personal philosophy of Learning Communities, exploring what it means to be personally authentic and how to lead authentically in a learning environment.
 
-###### Course Learning outcomes
+###### Course Learning Outcomes
+
+1. Interpret the influence of teacher authenticity on student learning
+2. Develop a personal philosophy of their role as facilitator in creating authentic learning communities
+3. Create a platform of beliefs regarding adult learning for a specific organization
+4. Evaluate strategies for developing learning connections with and between students
+5. Apply strategies for creating authentic learning communities that include indigenous ways of knowing.
+6. Analyze the effectiveness of training and employee development.
 
 ###### Assessments
 | Assessment | Value | Outcomes |
@@ -122,7 +138,18 @@ Course Description: Learners explore theoretical foundations of learning communi
 
 This course provides students with a practical setting in which to apply what they have learned in the Graduate Certificate in Adult Education: Coaching and Facilitation. Using reflective practice, learners apply learning theory, assessment theory, facilitation practices, and cross-cultural competency, in a professional learning facilitation setting. The practicum must be with a supervised business, non-profit agency, social service agency, or institution related to the student’s personal interests and future plans.
 
-###### Course Learning outcomes
+###### Course Learning Outcomes
+
+Upon successful completion of this course, students should be able to:
+
+1. Engage in ongoing reflection and learning related to coaching and facilitation
+2. Reflect on the impact of personal values and beliefs on facilitation, coaching and learning
+3. Create realistic, attainable goals
+4. Develop measurable learning objectives
+5. Design learning activities and supportive activities that will ensure successful project outcomes and demonstrate leadership development;
+6. integrate what they have learned through in-class study, life experience, and past leadership applications into a structured setting
+7. Integrate effective leadership principles into coaching/facilitation.
+
 
 ###### Assessments
 | Assessment | Value | Outcomes |
@@ -133,7 +160,7 @@ This course provides students with a practical setting in which to apply what th
 |   |   |   |
 |   |   |   |
 
-#### Current courses at TWU – quick scan
+#### Current courses at TWU
 
 As required for new program approval, the following courses are the result of an 'environmental scan' of existing courses that could overlap or complement the ones proposed.  These are not prerequisites.
 
