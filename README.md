@@ -186,7 +186,6 @@ As required for new program approval, the following courses are the result of an
 * Catherine Penfold Navarro, PhD
 * _Heather Strong, PhD_
 * _Tina Wu, PhD_  
-* ~~Matthew Etherington, PhD  Learning Theory:  Inquiry, Project Based, Problem Based, Appreciative Inquiry etc.~~
 
 
 ### Employment Sectors
