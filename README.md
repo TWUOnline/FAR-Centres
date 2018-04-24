@@ -43,7 +43,7 @@ This is a stand-alone certificate and the individual courses qualify as elective
 
 * Bachelor's Degree
 * relevant leadership experience
-* IELTS 7.0 or equivalent or completed undergraduate degree from a recognized University and delivered in English
+* IELTS 7.0 or equivalent, or IELTS 6.5 plus the completion of an English medium undergraduate degree.
 
 Students who wish to ladder into the MA Leadership will be required to meet admissions requirements for the MA Leadership.
 
