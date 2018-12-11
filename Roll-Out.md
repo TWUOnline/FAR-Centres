@@ -4,7 +4,7 @@ FAR Centre Roll-Out
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |House of Freedom   |Nigeria   | LCO   | Jan-19  |   | Agreement, IP  |
 |Bishop   |   | LCO   | Jan-19   |   | Agreement, IP  |
-| Langley   |  | GCAE   | Jan-19  |   |   |
+| Langley   |  | GCAL   | Jan-19  |   |   |
 |Caofeidian   |China| ESL  | Mar-19  |   |   |   
 |Caofeidian   |China| 2+2  | Sept-19  |   |   |   
 |Bishop   |   |   |   |   |   |
