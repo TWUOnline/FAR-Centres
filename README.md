@@ -13,37 +13,31 @@ This is a stand-alone certificate and the individual courses qualify as elective
 
 #### Planning
 
-1. Plan appropriate group processes to support transformative learning.  \(KA\)
+1. Plan appropriate group processes to support transformative learning.  
 2. Apply the use of technology, time and physical space to support learning.
-    \(KA\)
 
 #### Facilitating and Coaching
 
-1. Create and sustain a participatory environment that supports critical and creative thinking in a
-    variety of disciplines.  \(L, KA, CC\)
-2. Demonstrate effective facilitation and coaching communication skills \(eg. active listening,
-    developing rapport, providing feedback\) \(II\)
-3. Develop cross-cultural competency and create learning environments of inclusivity, safety
-    and trust.  \(SG\)
+1. Create and sustain a participatory environment that supports critical and creative thinking in a variety of disciplines.  
+2. Demonstrate effective facilitation and coaching communication skills (eg. active listening, developing rapport, providing feedback)
+3. Develop cross-cultural competency and create learning environments of inclusivity, safety and trust.  
 
 #### Knowledge
 
-1. Describe various learning theories and develop the ability to identify individual and group learning
-    needs. \(KA\)
-2. Identify a variety of facilitation/coaching methods and techniques.  \(KA\)
+1. Describe various learning theories and develop the ability to identify individual and group learning needs.
+2. Identify a variety of facilitation/coaching methods and techniques.  
 
 #### Professionalism
 
-1. Engage in ongoing reflection and learning related to coaching and facilitation.   \(II\)
-2. Reflect on personal values and beliefs and their impact on facilitation,
-    coaching and learning. \(II, SF\)
+1. Engage in ongoing reflection and learning related to coaching and facilitation.   
+2. Reflect on personal values and beliefs and their impact on facilitation, coaching and learning.
    Revised from [https://www.iaf-world.org/site/professional/core-competencies](https://www.iaf-world.org/site/professional/core-competencies)
 
 ### Certificate Admissions
 
 * Bachelor's Degree
 * relevant leadership experience
-* IELTS 7.0 or equivalent, or IELTS 6.5 plus the completion of an English medium undergraduate degree.
+* IELTS 7.0 or equivalent
 
 Students who wish to ladder into the MA Leadership will be required to meet admissions requirements for the MA Leadership.
 
@@ -56,7 +50,7 @@ This program is well-suited for students who:
 
 ### Certificate Delivery Models
 
-The program is flexibly designed as either a traditionally offered, full time program for learners interested in preparing for a role in FAR Centre Coaching and Facilitation, or as a fully online program for learners who are actively working as Far Centre Coaches and Facilitators and are looking for a credential related to their roles.
+The program is flexibly designed as either a traditionally offered, full time program for learners interested in preparing for a role in FAR Centre Coaching and Facilitation, or as a fully online program for learners who are actively working as FAR Centre Coaches and Facilitators and are looking for a credential related to their roles.
 
 ### FOUNDATIONS \(REQUIRED\)
 
