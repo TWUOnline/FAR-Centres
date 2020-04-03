@@ -58,9 +58,18 @@ The program is flexibly designed as either a traditionally offered, full time pr
 
 Learners are introduced to principles and practices of adult education. Focusing on facilitation methods and instructional design, this course develops practical skills necessary to teach adults. Whether in a classroom, other formal learning context or workplace, the class will explore how leaders are all teachers. This course equips leaders to facilitate transformational learning experiences that are learner-centered, supportive, well-organized and based on critical inquiry in the context of practice.
 
+**Course Activities & Assessments**
+
+| **Assessment**           | **Grade** |
+|--------------------------|-----------|
+| Weekly Reading Responses | 50%       |
+| Discussion Posts         | 20%       |
+| Adult Learning Design    | 30%       |
+
+
 #### LDRS 662 Intercultural Communication and Facilitation
 
-Learners will expand self-awareness and cultural competency, developing and applying practical strategies to create and facilitate culturally inclusive and respectful learning environments. Emphasis is placed on engagement and experience allowing learners to establish meaningful intercultural communication and relationships and applying coaching/facilitation skills to overcoming barriers related to challenges faced by indigenous people globally. Topics include analyzing personal cultural values and beliefs; examining the implicit biases in educational structures and processes; and strategies for creating inclusive learning environments.
+Learners will analyze personal cultural values and beliefs, expanding their cultural self-awareness and cultural competency.  Learners will examine implicit biases in educational structures and processes, assess culturally-inclusive theoretical perspectives, analyze inclusive pedagogy, and explore global Indigenous perspectives on teaching and learning. Learners will develop and apply practical strategies to create culturally-inclusive learning environments and learning activities and establish and develop meaningful intercultural communication and relationships, applying coaching/facilitation skills to engage all learners in authentic learning experiences.
 
 ###### Course Learning Outcomes
 On successful completion of this course, students should be able to:
