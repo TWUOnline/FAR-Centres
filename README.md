@@ -64,19 +64,13 @@ The program is flexibly designed as either a traditionally offered, full time pr
 
 Learners are introduced to principles and practices of adult education. Focusing on facilitation methods and instructional design, this course develops practical skills necessary to teach adults. Whether in a classroom, other formal learning context or workplace, the class will explore how leaders are all teachers. This course equips leaders to facilitate transformational learning experiences that are learner-centered, supportive, well-organized and based on critical inquiry in the context of practice.
 
-| **ASSESSMENT**                                                                                        |
-|-------------------------------------------------------------------------------------------------------|
-| Unit 1 **Discussion** (2%)                                                                            |
-| Unit 2 **Discussion** (2%) **Reading Response** 1 (10%)                                               |
-| Unit 3 Discussion (2%)                                                                                |
-|  Unit 4 Discussion (2%) **Reading Response** 2 (10%)                                                  |
-| Unit 5 **Discussion** (2%)                                                                            |
-| Unit 6 Discussion (2%) **Reading Response** 3 (10%)                                                   |
-| Assignment: **Adult Learning Design** (30%) (due Week 10)                                             |
-| Unit 8 **Discussion** (2%) **Reading Response** 4 (10%)                                               |
-| Unit 9 Discussion (2%)  Assignment: **Adult Learning Design - Peer Review **(30%)                     |
-| Unit 10 **Discussion** (2%) **Reading Response** 5 (10%)  Assignment: **Adult Learning Design** (30%) |
+**Course Activities & Assessments**
 
+| **Assessment**           | **Grade** |
+|--------------------------|-----------|
+| Weekly Reading Responses | 50%       |
+| Discussion Posts         | 20%       |
+| Adult Learning Design    | 30%       |
 
 
 #### LDRS 662 Intercultural Communication and Facilitation
