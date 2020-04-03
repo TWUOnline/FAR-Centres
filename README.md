@@ -64,9 +64,25 @@ The program is flexibly designed as either a traditionally offered, full time pr
 
 Learners are introduced to principles and practices of adult education. Focusing on facilitation methods and instructional design, this course develops practical skills necessary to teach adults. Whether in a classroom, other formal learning context or workplace, the class will explore how leaders are all teachers. This course equips leaders to facilitate transformational learning experiences that are learner-centered, supportive, well-organized and based on critical inquiry in the context of practice.
 
+**COURSE OUTLINE**
+
+| **UNIT**                                                                                  | **ASSESSMENT**                                                                                        |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Unit 1 – Adult Learning Theory and Perspectives                                           | Unit 1 **Discussion** (2%)                                                                            |
+| Unit 2 – Power, Self-Directed Learning, Transformative Learning                           | Unit 2 **Discussion** (2%) **Reading Response** 1 (10%)                                               |
+| Unit 3 – Experience, Emotions and Motivation                                              | Unit 3 Discussion (2%)                                                                                |
+| Unit 4 – Goal, Objectives                                                                 |  Unit 4 Discussion (2%) **Reading Response** 2 (10%)                                                  |
+| Unit 5 – Teaching for Critical Thinking                                                   | Unit 5 **Discussion** (2%)                                                                            |
+| Unit 6 – Assessment                                                                       | Unit 6 Discussion (2%) **Reading Response** 3 (10%)                                                   |
+| Unit 7 – READING BREAK                                                                    | Assignment: **Adult Learning Design** (30%) (due Week 10)                                             |
+| Unit 8 – Democratizing Lifelong Learning                                                  | Unit 8 **Discussion** (2%) **Reading Response** 4 (10%)                                               |
+| Unit 9 – Opening Exercises, Discussion Methods, Active Training, Technology               | Unit 9 Discussion (2%)  Assignment: **Adult Learning Design - Peer Review **(30%)                     |
+| Unit 10 – Creativity, Structured Activities, Team Learning and Integration/implementation | Unit 10 **Discussion** (2%) **Reading Response** 5 (10%)  Assignment: **Adult Learning Design** (30%) |
+
+
 #### LDRS 662 Intercultural Communication and Facilitation
 
-Learners will expand self-awareness and cultural competency, developing and applying practical strategies to create and facilitate culturally inclusive and respectful learning environments. Emphasis is placed on engagement and experience allowing learners to establish meaningful intercultural communication and relationships and applying coaching/facilitation skills to overcoming barriers related to challenges faced by indigenous people globally. Topics include analyzing personal cultural values and beliefs; examining the implicit biases in educational structures and processes; and strategies for creating inclusive learning environments.
+Learners will analyze personal cultural values and beliefs, expanding their cultural self-awareness and cultural competency.  Learners will examine implicit biases in educational structures and processes, assess culturally-inclusive theoretical perspectives, analyze inclusive pedagogy, and explore global Indigenous perspectives on teaching and learning. Learners will develop and apply practical strategies to create culturally-inclusive learning environments and learning activities and establish and develop meaningful intercultural communication and relationships, applying coaching/facilitation skills to engage all learners in authentic learning experiences.
 
 ###### Course Learning Outcomes
 On successful completion of this course, students should be able to:
