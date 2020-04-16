@@ -58,6 +58,15 @@ The program is flexibly designed as either a traditionally offered, full time pr
 
 Learners are introduced to principles and practices of adult education. Focusing on facilitation methods and instructional design, this course develops practical skills necessary to teach adults. Whether in a classroom, other formal learning context or workplace, the class will explore how leaders are all teachers. This course equips leaders to facilitate transformational learning experiences that are learner-centered, supportive, well-organized and based on critical inquiry in the context of practice.
 
+###### Course Learning Outcomes
+On successfully completing this course, students should be able to:  
+1.	Develop service-oriented leadership insight, skills, and values that promote a framework for successful adult learning and achievement.
+2.	Articulate a justified, worldview-based vision for adult learning.
+3.	Categorize and appraise various approaches to adult learning.
+4.	Assess the strengths and weaknesses of various approaches to adult learning.
+5.	Categorize and appraise various approaches to adult learning assessment.
+6.	Design a lesson or session based on your synthesis of perspectives, themes and ideas.
+
 **Course Activities & Assessments**
 
 | **Assessment**           | **Grade** |
