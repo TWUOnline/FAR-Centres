@@ -14,12 +14,13 @@ assignees: cmadland, deannadams, karenroeck, scottmacklin
 ### Anticipated Launch
 
 ### Courses
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] [TEXT](URL)
+- [ ] [TEXT](URL)
+- [ ] [TEXT](URL)
+- [ ] [TEXT](URL)
+- [ ] [TEXT](URL)
+- [ ] [TEXT](URL)
 
 ### Facilitators
+
 ### Anticipated # Learners
